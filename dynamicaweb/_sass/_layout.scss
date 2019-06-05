@@ -20,7 +20,7 @@ a:hover {
 	text-transform: uppercase;
 	font-size: 100%;
 	font-weight: bold;
-	padding-bottom: 20px;
+	padding-bottom: 0px;
 }
 
 .page-content {
@@ -31,7 +31,7 @@ a:hover {
 	width: 100%;
 	max-width: $content-width;
 	margin: auto;
-	margin-top: 60px;
+	margin-top: 20px;
 
 	.content {
 		padding: 60px;
@@ -42,20 +42,32 @@ a:hover {
 	padding: 10px;
 	border-bottom: 1px solid $official-blue;
 	border-top: 2px solid $official-blue;
+	margin-bottom: 16px;
+}
+.social-network-container {
+	padding-top: 0px;
+	a {
+		color: gray;
+		font-size: 120%;
+		padding-right: 6px;
+	}
+	
 }
 
 .header-block {
 	//  Layout
 	width: 100%;
 	margin: auto;
-	min-height: 350px;
+	min-height: 300px;
 	background-color: $header-default-background-color;
 	padding-top: 60px;
 
 	.header-front-title {
 		padding-top: 30px;
 		color: white;
-		letter-spacing: 2px;
+		font-size: 300%;
+		font-weight: bolder;
+		letter-spacing: 3px;
 	}
 	.header-sub-title {
 		color: white;
@@ -98,6 +110,24 @@ ul.post-list {
 			background-color: rgba(8, 69, 148, 0.1);
 		}
 	}
+}
+
+nav.pagination {
+	// background-color: red;
+}
+.container-pagination {
+	margin: auto;
+}
+.page-number {
+	margin-top: auto;
+	margin-bottom: auto;
+	padding: 16px;
+}
+.paginator-icon {
+	font-size: 300%;
+}
+.paginator-icon.inactive-icon {
+	opacity: 0.2 !important;
 }
 
 // ---------- Posts ----------

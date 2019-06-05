@@ -1,12 +1,15 @@
 ---
 layout: basic
+title: Dynamica, a research group
+subtitle:  dedicated to the understanding of the Dynamics of Complex Systems.....because the world is complex and ever changing.
 ---
 
-<div class="row">
+<div class="row" >
   <div class="col-md-8">
     <!-- News section -->
     <ul class="post-list">
-      {% for post in paginator.posts limit:2 %}
+      {% assign posts = paginator.posts | where:"type","post" %}
+      {% for post in posts%}
         <div class="front-post">
           <section class="post-meta">
             <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}
@@ -24,10 +27,39 @@ layout: basic
         </div>
       {% endfor %}
     </ul>
+    <!-- PAGINATION -->
+    <nav class="pagination" role="navigation">
+      <div class="container-pagination">
+        {% if paginator.previous_page %}
+          {% if paginator.page == 2 %}
+            <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
+              <i class="icon ion-md-arrow-back paginator-icon "></i>
+            </a>
+          {% else %}
+            <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
+              <i class="icon ion-md-arrow-back paginator-icon"></i>
+            </a>
+          {% endif %}
+        {% else %}
+          <i class="icon ion-md-arrow-back paginator-icon inactive-icon"></i>
+        {% endif %}
+        {% assign npage = paginator.page %}
+        {% assign posts = site.posts | where:"type","post" %}
+        {% assign totposts = posts | size %}
+        {% assign totpage = totposts | divided_by: 2.0 %}
+        <span class="page-number">Page {{ paginator.page }} of {{ totpage | round }}</span>
+        {% if npage < totpage %}
+          <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
+            <i class="icon ion-md-arrow-forward paginator-icon"></i>
+          </a>
+        {% else %}
+          <i class="icon ion-md-arrow-forward paginator-icon inactive-icon"></i>
+        {% endif %}
+      </div>
+    </nav>
   </div>
   <div class="col-md-4">
     <div class="right-navbar">
-      
         <ul class="event-list">
           <h4>Upcoming Events</h4>
             {% for event in site.data.events %}
@@ -40,5 +72,9 @@ layout: basic
             {% endfor %}
         </ul>
     </div>
+    <h4 class="blue-subtitle">Follow us</h4>
+    <div class="social-network-container"><a href="https://github.com/DynamicaLab/Dynamicalab"><i class="icon ion-logo-github footer-ion-icons"></i></a> 
+          <a href="https://twitter.com/DynamicaLab"><i class="icon ion-logo-twitter footer-ion-icons"></i></a></div>
+      
   </div>
 </div>

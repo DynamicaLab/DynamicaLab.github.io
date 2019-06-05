@@ -1,10 +1,10 @@
 ---
 layout: basic
-title:  "NetSci 2019 in Burlington : 3 talks and a strong alumni representation"
+title:  "News 2"
 date:   2019-04-21
 published: True
 type: "post"
-imagesrc : "assets/images/post.png"
+imagesrc : "/assets/images/post.png"
 ---
 
 Dynamica performs a hat trick : three members of the network division will attend and give talks during the main conference at NetSci 2019. This 14th edition will be held in Burlington, Vermont, at the end of May.
