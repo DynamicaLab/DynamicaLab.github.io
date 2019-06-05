@@ -1,5 +1,7 @@
 ---
 layout: basic
+title: Lab members
+subtitle: 2 leaders, 4 Ph.D., 2 Ms.C., 2 interns
 ---
 
 <div class="member-list">
@@ -36,4 +38,14 @@ layout: basic
 			{% include member-view.html member=member %}
 		{% endfor %}
 	</div>
+</div>
+
+
+<div class="member-list">
+	<h4>Former members and graduates</h4>
+	<table cellspacing="10" cellpadding="20" class="table-about table-collabs">
+		{% for member in site.data.members.formers %}
+			<tr><td><a href="{{ member.website }}">{{member.name}} {{member.lastname}}</a></td><td>{{member.task}}</td></tr>
+		{% endfor %}
+	</table>
 </div>

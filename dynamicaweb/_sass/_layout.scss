@@ -148,8 +148,12 @@ ul.event-list {
 
 		.event-title {
 			font-size: 110%;
-			color: black;
+			color: $official-blue;
 		}
+	}
+
+	.event-date-past {
+		color: gray !important;
 	}
 }
 
@@ -293,6 +297,17 @@ ul.event-list {
 	}
 }
 
+.table-about {
+	max-width: 400px;
+	i {
+		margin-right: 10px;
+	}
+}
+.table-collabs {
+	max-width: none;
+}
+
+	
 // Nav-bar
 header {
 	
