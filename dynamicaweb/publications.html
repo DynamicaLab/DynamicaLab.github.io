@@ -1,0 +1,38 @@
+---
+layout: basic
+---
+
+
+
+<div class="row">
+  <div class="col-md-8">
+    <!-- News section -->
+    <ul class="publi-list">
+      {% assign publiss = site.data.publications.networks | group_by:"year" %}
+      {% assign publis = publiss | sort: "name" | reverse %}
+      {% for pupliyear in publis %}
+        <div class="publication-year-container">
+          <h5 class="publi-year-category" id="year{{pupliyear.name}}">{{ pupliyear.name }}</h5>
+          {% for pupli in pupliyear.items %}
+            <!-- {{ publi}} -->
+        	  {% include publi-view.html publi=pupli%}
+          {% endfor %}
+          <hr class="separator">
+        </div>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-md-4">
+    <div class="right-navbar">
+      <h5 class="blue-subtitle">Year</h5>
+     	{% assign publiss = site.data.publications.networks | group_by:"year" %}
+      {% assign publis = publiss | sort: "name" | reverse %}
+      {% for pupliyear in publis %}
+        <div class="publication-year-container">
+          <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
+        </div>
+      {% endfor %}
+    </div>
+
+  </div>
+</div>

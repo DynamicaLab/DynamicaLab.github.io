@@ -1,0 +1,48 @@
+
+
+<footer class="site-footer">
+  <div class="footer-container center-block">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="subcontainer">
+          <h4>About us</h4>
+          <p>We are a research group dedicated to the understanding of complex networks.</p>
+          <a href="https://github.com/DynamicaLab/Dynamicalab"><i class="icon ion-logo-github footer-ion-icons"></i></a> 
+          <a href="https://twitter.com/DynamicaLab"><i class="icon ion-logo-twitter footer-ion-icons"></i></a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="subcontainer">
+          <h4>Contact</h4>
+          <p>Département de physique, de génie physique, et d'optique
+              Pavillon Alexandre-Vachon<br>
+              1045, avenue de la Médecine<br>
+              Québec, Canada<br>
+              G1V 0A6</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="subcontainer">
+          <h4>Website</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</footer>
+
+
+<!-- Add custom JSON file -->
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+    <script src='/js/{{ js_file }}.js' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
+
+<script defer src="/assets/js/fontawesome-all.js"></script>
+<script src="/assets/js/convert.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/assets/js/onscroll.js"></script>
+

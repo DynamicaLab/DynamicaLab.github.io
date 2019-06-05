@@ -1,0 +1,16 @@
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+plugins:
+  - jekyll-paginate
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+
+relative_permalinks: false
+
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: false

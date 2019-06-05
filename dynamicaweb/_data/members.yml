@@ -1,0 +1,43 @@
+leaders:
+  - name: Louis J.
+    lastname: Dubé
+    image: "/assets/images/members/default.jpg"
+
+  - name: Antoine
+    lastname: Allard
+    image: "/assets/images/members/default.jpg"
+
+doctoral:
+  - name: Jean-Luc
+    lastname: Déziel
+    image: "/assets/images/members/default.jpg"
+
+  - name: Edward
+    lastname: Laurence
+    image: "/assets/images/members/default.jpg"
+    website: "http://edwardlaurence.me"
+    github: "https://github.com/laurencee9"
+
+  - name: Guillaume
+    lastname: St-Onge
+    image: "/assets/images/members/default.jpg"
+
+  - name: Charles
+    lastname: Murphy
+    image: "/assets/images/members/default.jpg"
+
+master:
+  - name: Vincent
+    lastname: Thibeault
+    image: "/assets/images/members/default.jpg"
+
+  - name: Xavier
+    lastname: Roy-Pomerleau
+    image: "/assets/images/members/default.jpg"
+
+interns:
+  - name: Olivier
+    lastname: Ribordy
+    image: "/assets/images/members/default.jpg"
+
+

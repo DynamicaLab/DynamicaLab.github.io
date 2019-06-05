@@ -1,0 +1,44 @@
+---
+layout: basic
+---
+
+<div class="row">
+  <div class="col-md-8">
+    <!-- News section -->
+    <ul class="post-list">
+      {% for post in paginator.posts limit:2 %}
+        <div class="front-post">
+          <section class="post-meta">
+            <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}
+            </div>
+          </section>
+          <h2 class="post-title">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <img class="front-image" src="{{post.imagesrc}}">
+          <section class="post-excerpt" itemprop="description">
+            <p>{{ post.excerpt | truncatewords: 50 }}</p>
+          </section>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more</a>
+          <hr class="separator">
+        </div>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-md-4">
+    <div class="right-navbar">
+      
+        <ul class="event-list">
+          <h4>Upcoming Events</h4>
+            {% for event in site.data.events %}
+             <div class="event-container">
+              <span class="event-date">{{ event.date | date: "%B %-d, %Y" }}</span>
+              <h5 class="event-title">
+                {{ event.name }}
+              </h5>
+            </div>
+            {% endfor %}
+        </ul>
+    </div>
+  </div>
+</div>

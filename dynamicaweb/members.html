@@ -1,0 +1,39 @@
+---
+layout: basic
+---
+
+<div class="member-list">
+	<h4>Group leaders</h4>
+	<div class="row">
+		{% for member in site.data.members.leaders %}
+			{% include member-view.html member=member %}
+		{% endfor %}
+	</div>
+</div>
+
+<div class="member-list">
+	<h4>Doctoral students</h4>
+	<div class="row">
+		{% for member in site.data.members.doctoral %}
+			{% include member-view.html member=member %}
+		{% endfor %}
+	</div>
+</div>
+
+<div class="member-list">
+	<h4>Master students</h4>
+	<div class="row">
+		{% for member in site.data.members.master %}
+			{% include member-view.html member=member %}
+		{% endfor %}
+	</div>
+</div>
+
+<div class="member-list">
+	<h4>Interns</h4>
+	<div class="row">
+		{% for member in site.data.members.interns %}
+			{% include member-view.html member=member %}
+		{% endfor %}
+	</div>
+</div>
