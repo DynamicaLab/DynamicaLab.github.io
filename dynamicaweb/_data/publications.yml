@@ -1,4 +1,4 @@
-networks:
+articles:
   - title: Spectral dimension reduction of complex dynamical networks
     authors: Edward Laurence, Nicolas Doyon, Louis J. Dubé, Patrick Desrosiers 
     year: 2019
@@ -7,27 +7,44 @@ networks:
     pagenumber: "011042"
     arxiv: https://arxiv.org/abs/1809.08285
     fulltext: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011042
+    type: Preprints
 
   - title: Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm
     authors: Guillaume St-Onge, Jean-Gabriel Young, Laurent Hébert-Dufresne, Louis J. Dubé 
-    year: 2019
+    year: 2015
     insubmission: True
     arxiv: "https://arxiv.org/abs/1808.05859"
     github: "https://github.com/gstonge/spreading_CR"
+    type: Preprints
 
-  - title: Spectral dimension reduction of complex dynamical networks
+conferences:
+  - title: Confernec 1
     authors: Edward Laurence, Nicolas Doyon, Louis J. Dubé, Patrick Desrosiers 
+    year: 2018
+    conf: Netsci 2018
+    slides: https://arxiv.org/abs/1809.08285
+    abstract: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011042
+
+  - title: Confernec2orithm
+    authors: Guillaume St-Onge, Jean-Gabriel Young, Laurent Hébert-Dufresne, Louis J. Dubé 
     year: 2016
-    journal: Phys. Rev. X
-    edition: 9
-    pagenumber: "011042"
+    conf: Netsci 2018
+    where: Quebec, Qc
+    arxiv: "https://arxiv.org/abs/1808.05859"
+    github: "https://github.com/gstonge/spreading_CR"
+
+  - title: Confernec 1
+    authors: Edward Laurence, Nicolas Doyon, Louis J. Dubé, Patrick Desrosiers 
+    year: 2018
+    conf: Netsci 2017
     arxiv: https://arxiv.org/abs/1809.08285
     fulltext: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011042
 
-  - title: Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm
+  - title: Confernec2orithm
     authors: Guillaume St-Onge, Jean-Gabriel Young, Laurent Hébert-Dufresne, Louis J. Dubé 
-    year: 2017
-    insubmission: True
-    arxiv: "https://arxiv.org/abs/1808.05859"
+    year: 2016
+    conf: Netsci 2017
+    where: Quebec, Qc
+    slides: "https://arxiv.org/abs/1808.05859"
     github: "https://github.com/gstonge/spreading_CR"
 

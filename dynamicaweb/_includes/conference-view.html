@@ -5,11 +5,6 @@
 	{% endif %}
 	<h5 class="publi-name">{{include.publi.title}}</h5>
 	<p class="publi-authors">{{include.publi.authors}}</p>
-	{% if include.publi.insubmission %}
-	
-	{% else %}
-		<p class="publi-ref">{{include.publi.journal}} <span class="edition">, {{include.publi.edition}}</span>, <span class="pagenumber">{{include.publi.pagenumber}}</span></p>
-	{% endif %}
 
 	{% if include.publi.github %}
 		<a class="github" href="{{ include.publi.github }}">Github</a> 
@@ -20,4 +15,10 @@
 	{% if include.publi.arxiv %}
 		<a class="arxiv" href="{{ include.publi.arxiv }}">Arxiv</a> 
 	{% endif %}	
+	{% if include.publi.slides %}
+		<a class="slides" href="{{ include.publi.slides }}">Slides</a> 
+	{% endif %}
+	{% if include.publi.abstract %}
+		<a class="abstract" href="{{ include.publi.abstract }}">Abstract</a> 
+	{% endif %}
 </div>

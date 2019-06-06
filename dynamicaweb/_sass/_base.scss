@@ -4,3 +4,14 @@
 // MIT License
 
 @import "variables";
+
+
+.publi-hidden {
+  display: none!important;
+  visibility: hidden!important;
+} 	
+
+.publi-active {
+	display: block !important;
+  	visibility: visible !important;
+}
