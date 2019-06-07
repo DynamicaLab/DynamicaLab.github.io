@@ -4,6 +4,7 @@ html, body {
 	padding: 0px;
 	color: $default-black-text-color;
 	font-size: 14px;
+	font-weight: 700;
 }
 
 a {
@@ -69,7 +70,6 @@ a:hover {
 		color: white;
 		font-size: 300%;
 		font-weight: bolder;
-		letter-spacing: 3px;
 	}
 	.header-sub-title {
 		color: white;
@@ -83,7 +83,7 @@ a:hover {
 
 // ---------- Posts ----------
 ul.post-list {
-
+	padding-left: 0px;
 	.front-post {
 
 		padding-bottom: 80px;
@@ -261,6 +261,7 @@ ul.event-list {
 		.publi-name {
 			margin-top: 0px;
 			padding-top: 4px;
+			font-weight: bolder;
 		}
 
 		.edition {
@@ -268,11 +269,22 @@ ul.event-list {
 		}
 		h5 {
 			padding-top: 12px;
+			margin: 0px;
 			font-size: 110%;
 			color: black;
 		}
 		.publi-authors {
 			margin-bottom: 5px;
+
+		}
+		p {
+			margin: 0;
+			padding: 0;
+		}
+		.thesis-authors {
+			margin: 0;
+			padding: 0;
+			text-transform: uppercase;
 		}
 		.publi-submission {
 			color: $strong-orange;
@@ -435,10 +447,34 @@ footer {
 	}
 }
 
+@media only screen and (max-width: 764px) {
+  .navbar {
+  	visibility: hidden !important;
+  }
+  footer {
+  	padding-left: 16px;
+  	padding-right: 16px;
 
+	  .subcontainer {
+	  	 padding-bottom: 30px;
+	  }
+   }
+  .page-content {
+
+		.content {
+			padding-left: 16px;
+			padding-right: 16px;
+		}
+	}
+
+
+}
 
 @media only screen and (max-width: 580px) {
   .navbar {
   	visibility: hidden !important;
+  }
+  .subcontainer {
+  	 padding-bottom: 30px;
   }
 }

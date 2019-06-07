@@ -48,3 +48,20 @@ conferences:
     slides: "https://arxiv.org/abs/1808.05859"
     github: "https://github.com/gstonge/spreading_CR"
 
+thesis:
+    - title: Inférence et réseaux complexes
+      authors: Jean-Gabriel Young
+      subtitle: Statistical inference and complex networks
+      type: Ph.D.
+      year: 2018
+
+    - title: "Generalized Lorenz-Mie theory: Application to scattering and resonances of photonic complexes"
+      authors: Denis Gagnon
+      type: Ph.D.
+      year: 2014
+
+    - title: "Modélisation de processus coévolutifs sur réseaux: applications à l'épidémiologie"
+      authors: Vincent Marceau
+      subtitle: "Modeling of coevolutive processes on networks: application to epidemiology"
+      type: M.Sc.
+      year: 2017

@@ -47,7 +47,26 @@ layout: publication
     </ul>
   </div>
 
-
+  <!-- THESIS -->
+  <div class="col-md-8 publi-hidden" id="container-thesis">
+      <h1>Thesis</h1>
+    <!-- News section -->
+    <ul class="publi-list">
+      {% assign publiss = site.data.publications.thesis | group_by:"type" %}
+      {% assign publis = publiss | sort: "name" | reverse %}
+      {% for pupliyear in publis %}
+        <div class="publication-year-container">
+          <h5 class="publi-year-category" id="year{{pupliyear.name}}">{{ pupliyear.name }}</h5>
+          {% for pupli in pupliyear.items %}
+            <!-- {{ publi}} -->
+            {% include thesis-view.html publi=pupli%}
+          {% endfor %}
+          <hr class="separator">
+        </div>
+      {% endfor %}
+    </ul>
+  </div>
+ 
 
   <div class="col-md-4">
     <div class="right-navbar">
@@ -58,6 +77,9 @@ layout: publication
         </div>
         <div class="publication-year-container">
           <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-conferences">Conference</a>
+        </div>
+        <div class="publication-year-container">
+          <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-thesis">Thesis</a>
         </div>
 
       <hr>
@@ -74,6 +96,16 @@ layout: publication
       <div class="filtering-conferences filtering-container publi-hidden">
         <h5 class="blue-subtitle">Conference</h5>
         {% assign publiss = site.data.publications.conferences | group_by:"conf" %}
+        {% assign publis = publiss | sort: "name" | reverse %}
+        {% for pupliyear in publis %}
+          <div class="publication-year-container">
+            <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="filtering-thesis filtering-container publi-hidden">
+        <h5 class="blue-subtitle">Thesis</h5>
+        {% assign publiss = site.data.publications.thesis | group_by:"type" %}
         {% assign publis = publiss | sort: "name" | reverse %}
         {% for pupliyear in publis %}
           <div class="publication-year-container">

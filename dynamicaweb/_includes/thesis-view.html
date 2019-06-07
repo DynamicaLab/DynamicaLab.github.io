@@ -1,11 +1,9 @@
 
 <div class="publi-container {{include.publi.type}}-item">
-	{% if include.publi.insubmission %}
-		<span class="publi-submission">In submission</span>
-	{% endif %}
+	<span class="edition">{{include.publi.year}}</span>
 	<h5 class="publi-name">{{include.publi.title}}</h5>
-	<p class="publi-authors">{{include.publi.authors}}</p>
-	<br>
+	<p>{{include.publi.subtitle}}</p>
+	<p class="thesis-authors">{{include.publi.authors}}</p>
 	{% if include.publi.github %}
 		<a class="github" href="{{ include.publi.github }}">Github</a> 
 	{% endif %}
