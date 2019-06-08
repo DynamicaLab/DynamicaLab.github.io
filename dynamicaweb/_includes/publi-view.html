@@ -10,17 +10,28 @@
 	{% if include.publi.insubmission %}
 	
 	{% else %}
-		<p class="publi-ref">{{include.publi.journal}} <span class="edition">, {{include.publi.edition}}</span>, <span class="pagenumber">{{include.publi.pagenumber}}</span></p>
+      <!-- journals -->
+    	{% if include.publi.journal %}
+	      <p class="publi-ref">{{include.publi.journal}} <span class="edition">, {{include.publi.edition}}</span>, <span class="pagenumber">{{include.publi.pagenumber}}</span></p>
+      {% else %}
+          <!-- books -->
+          {% if include.publi.book %}
+            <p class="publi-ref">{{include.publi.book}} <span class="edition">, {{include.publi.editor}}</span>, <span class="pagenumber">{{include.publi.publisher}}</span></p>
+          {% endif %}
+      {% endif %}
 	{% endif %}
 	<br>
 	<!-- Btns -->
-	{% if include.publi.github %}
-		<a class="github" href="{{ include.publi.github }}">Github</a> 
-	{% endif %}
 	{% if include.publi.fulltext %}
 		<a class="fulltext" href="{{ include.publi.fulltext }}">Full text</a> 
 	{% endif %}
 	{% if include.publi.arxiv %}
 		<a class="arxiv" href="{{ include.publi.arxiv }}">Arxiv</a> 
 	{% endif %}	
+	{% if include.publi.github %}
+		<a class="github" href="{{ include.publi.github }}">Github</a> 
+	{% endif %}
+  {% if include.publi.chapter %}
+		<a class="chapter" href="{{ include.publi.chapter }}">Chapter</a> 
+	{% endif %}
 </div>

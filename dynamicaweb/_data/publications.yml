@@ -59,14 +59,144 @@ articles:
     fulltext: 'https://doi.org/10.1103/PhysRevE.97.032309'
     type: Preprints
 
-  - title:
-    authors:
-    year:
-    journal:
-    edition:
-    pagenumber:
-    arxiv:
-    fulltext:
+  - title : "Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks" 
+    authors : "Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy, Louis J. Dubé" 
+    edition : "97"
+    journal : "Phys. Rev. E"
+    year : 2018
+    pagenumber : "022305"
+    fulltext : "https://doi.org/10.1103/PhysRevE.97.022305"
+    arxiv : "https://arxiv.org/abs/1709.09257"
+    type : Preprints
+
+  - title : "Construction of and efficient sampling from the simplicial configuration model" 
+    authors : "Jean-Gabriel Young, Giovanni Petri, Francesco Vaccarino, Alice Patania" 
+    edition : "96"
+    journal : "Phys. Rev. E" 
+    year : 2017
+    pagenumber : "032312"
+    arxiv : "https://arxiv.org/abs/1705.10298" 
+    fulltext : "https://doi.org/10.1103/PhysRevE.96.032312"
+    type : Preprints
+
+  - title : "Strategic tradeoffs in competitor dynamics on adaptive networks" 
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young, Eric Libby" 
+    edition : "7" 
+    year : 2017
+    pagenumber : "7576 (1-11)"
+    journal : "Sci. Rep." 
+    fulltext : "https://www.nature.com/articles/s41598-017-07621-x" 
+    arxiv : "http://arxiv.org/abs/1607.04632" 
+    type : Preprints
+
+  - title : "Susceptible-infected-susceptible dynamics on the rewired configuration model" 
+    authors : "Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy, Louis J. Dubé" 
+    arxiv : "http://arxiv.org/abs/1701.01740" 
+    year : 2017
+    type : Preprints
+
+  - title : "Finite size analysis of the detectability limit of the stochastic block model" 
+    authors : "Jean-Gabriel Young, Patrick Desrosiers, Laurent Hébert-Dufresne, Edward Laurence, Louis J. Dubé" 
+    edition : "95" 
+    journal : "Phys. Rev. E" 
+    arxiv : "http://arxiv.org/abs/1701.00062" 
+    github : "https://github.com/jg-you/sbm_canonical_mcmc" 
+    year : 2017
+    pagenumber : "062304"
+    type : Preprints
+
+  - title : "Growing networks of overlapping communities with internal structure" 
+    authors : "Jean-Gabriel Young, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
+    edition : "94" 
+    journal : "Phys. Rev. E" 
+    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022317" 
+    arxiv : "http://arxiv.org/abs/1603.05566" 
+    github : "https://github.com/spa-networks/spa" 
+    pagenumber : "022317"
+    year : 2016
+    type : Preprints
+
+  - title : "Constrained growth of complex scale-independent systems [Editors's Suggestion]" 
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
+    edition : "93" 
+    journal : "Phys. Rev. E" 
+    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.032304" 
+    arxiv : "http://arxiv.org/abs/1310.0112" 
+    year : 2016
+    pagenumber : "032304"
+    type : Preprints
+
+  - title : "Complex networks as an emerging property of hierarchical preferential attachment" 
+    authors : "Laurent Hébert-Dufresne, Edward Laurence, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
+    edition : "92" 
+    journal : "Phys. Rev. E" 
+    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062809" 
+    arxiv : "http://arxiv.org/abs/1312.0171" 
+    year : 2015
+    pagenumber : "062809"
+    type : Preprints
+
+  - title : "General and exact approach to percolation on random graphs" 
+    authors : "Antoine Allard, Laurent Hébert-Dufresne,  Jean-Gabriel Young, Louis J. Dubé" 
+    edition : "92" 
+    journal : "Phys. Rev. E" 
+    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062807" 
+    arxiv : "http://arxiv.org/abs/1509.01207" 
+    pagenumber : "062807"
+    year : 2015
+    type : Preprints
+
+  - title : "A Shadowing Problem in the Detection of Overlapping Communities: Lifting the Resolution Limit through a Cascading Procedure" 
+    authors : "Jean-Gabriel Young, Antoine Allard, Laurent Hébert-Dufresne, Louis J. Dubé" 
+    edition : "10" 
+    journal : "PLoS ONE" 
+    fulltext : "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133" 
+    arxiv : "http://arxiv.org/abs/1211.1364" 
+    github : "https://github.com/jg-you/cascading_detection" 
+    year : 2015
+    pagenumber : "e0140133"
+    type : Preprints
+
+  - title : "The Social Zombie: Modelling undead outbreaks on social networks" 
+    authors : "Laurent Hébert-Dufresne, Vincent Marceau, Pierre-André Noël, Antoine Allard, Louis J. Dubé" 
+    publisher : "University of Ottawa Press" 
+    editor : "Robert Smith?" 
+    book : "Mathematical Modelling of Zombies" 
+    fulltext: "https://press.uottawa.ca/mathematical-modelling-of-zombies.html"
+    chapter : "assets/pdf/books/social_zombie_chapter.pdf"
+    year : 2014
+
+  - title : "Coexistence of phases and the observability of random graphs [Editor's Suggestion]" 
+    authors : "Antoine Allard, Laurent Hébert-Dufresne, Jean-Gabriel Young Louis J. Dubé" 
+    edition : "89" 
+    journal : "Phys. Rev. E" 
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.89.022801" 
+    arxiv : "http://arxiv.org/abs/1309.7983" 
+    year : 2014
+    pagenumber : "022801"
+    type : Preprints
+
+  - title : "Percolation on random networks with arbitrary k-core structure" 
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young Louis J. Dubé" 
+    edition : "88" 
+    journal : "Phys. Rev. E " 
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.88.062820" 
+    arxiv : "http://arxiv.org/abs/1308.6537" 
+    year : 2013
+    pagenumber : "062820"
+    type : Preprints
+
+  - title : "Global efficiency of local immunization on complex networks" 
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
+    journal : "Sci. Rep." 
+    edition : "3"
+    fulltext : "http://dx.doi.org/10.1038/srep02171" 
+    arxiv : "http://arxiv.org/abs/1208.5768" 
+    year : 2013
+    pagenumber : "2171 (1-8)"
+    type : Preprints
+
+
 
 conferences:
   - title: Confernec 1
