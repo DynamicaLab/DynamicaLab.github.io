@@ -1,19 +1,9 @@
 
 <div class="publi-container {{include.publi.type}}-item">
-	{% if include.publi.insubmission %}
-		<span class="publi-submission">In submission</span>
-	{% endif %}
+	<span class="edition">{{include.publi.year}}</span>
 	<h5 class="publi-name">{{include.publi.title}}</h5>
-	<p class="publi-authors">{{include.publi.authors}}</p>
-
-	<!-- In submission -->
-	{% if include.publi.insubmission %}
-	
-	{% else %}
-		<p class="publi-ref">{{include.publi.journal}} <span class="edition">, {{include.publi.edition}}</span>, <span class="pagenumber">{{include.publi.pagenumber}}</span></p>
-	{% endif %}
-	<br>
-	<!-- Btns -->
+	<p>{{include.publi.subtitle}}</p>
+	<p class="thesis-authors">{{include.publi.authors}}</p>
 	{% if include.publi.github %}
 		<a class="github" href="{{ include.publi.github }}">Github</a> 
 	{% endif %}
@@ -23,4 +13,10 @@
 	{% if include.publi.arxiv %}
 		<a class="arxiv" href="{{ include.publi.arxiv }}">Arxiv</a> 
 	{% endif %}	
+	{% if include.publi.slides %}
+		<a class="slides" href="{{ include.publi.slides }}">Slides</a> 
+	{% endif %}
+	{% if include.publi.abstract %}
+		<a class="abstract" href="{{ include.publi.abstract }}">Abstract</a> 
+	{% endif %}
 </div>

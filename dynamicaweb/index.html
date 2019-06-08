@@ -64,10 +64,14 @@ subtitle:  dedicated to the understanding of the Dynamics of Complex Systems....
           <h4>Upcoming Events</h4>
             {% for event in site.data.events %}
              <div class="event-container">
-              <span class="event-date">{{ event.date | date: "%B %-d, %Y" }}</span>
-              <h5 class="event-title">
-                {{ event.name }}
-              </h5>
+              {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+              {% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}
+              {% if posttime > nowunix %}
+                <span class="event-date event-date-futur">{{ event.date | date: "%B %-d, %Y" }}</span>
+                <h5 class="event-title event-date-futur">
+                  {{ event.name }}
+                </h5>
+              {% endif %}
             </div>
             {% endfor %}
         </ul>

@@ -41,3 +41,10 @@ interns:
     image: "/assets/images/members/default.jpg"
 
 
+formers:
+  - name: Jean-Gabriel
+    lastname: Young
+    task: "M.Sc (2014) & Ph.D. (2018)"
+    website: http://jgyoung.ca
+
+

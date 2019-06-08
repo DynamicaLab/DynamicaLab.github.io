@@ -1,14 +1,18 @@
 ---
-layout: basic
+layout: publication
 ---
 
 
 
 <div class="row">
-  <div class="col-md-8">
+
+  <!-- ARTICLES -->
+  <div class="col-md-8 publi-active" id="container-articles">
     <!-- News section -->
+    <h1>Articles</h1>
+
     <ul class="publi-list">
-      {% assign publiss = site.data.publications.networks | group_by:"year" %}
+      {% assign publiss = site.data.publications.articles | group_by:"year" %}
       {% assign publis = publiss | sort: "name" | reverse %}
       {% for pupliyear in publis %}
         <div class="publication-year-container">
@@ -22,17 +26,143 @@ layout: basic
       {% endfor %}
     </ul>
   </div>
-  <div class="col-md-4">
-    <div class="right-navbar">
-      <h5 class="blue-subtitle">Year</h5>
-     	{% assign publiss = site.data.publications.networks | group_by:"year" %}
+
+  <!-- CONFERENCE -->
+  <div class="col-md-8 publi-hidden" id="container-conferences">
+      <h1>Conferences</h1>
+    <!-- News section -->
+    <ul class="publi-list">
+      {% assign publiss = site.data.publications.conferences | group_by:"conf" %}
       {% assign publis = publiss | sort: "name" | reverse %}
       {% for pupliyear in publis %}
         <div class="publication-year-container">
-          <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
+          <h5 class="publi-year-category" id="year{{pupliyear.name}}">{{ pupliyear.name }}</h5>
+          {% for pupli in pupliyear.items %}
+            <!-- {{ publi}} -->
+            {% include conference-view.html publi=pupli%}
+          {% endfor %}
+          <hr class="separator">
         </div>
       {% endfor %}
+    </ul>
+  </div>
+
+  <!-- THESIS -->
+  <div class="col-md-8 publi-hidden" id="container-thesis">
+      <h1>Thesis</h1>
+    <!-- News section -->
+    <ul class="publi-list">
+      {% assign publiss = site.data.publications.thesis | group_by:"type" %}
+      {% assign publis = publiss | sort: "name" | reverse %}
+      {% for pupliyear in publis %}
+        <div class="publication-year-container">
+          <h5 class="publi-year-category" id="year{{pupliyear.name}}">{{ pupliyear.name }}</h5>
+          {% for pupli in pupliyear.items %}
+            <!-- {{ publi}} -->
+            {% include thesis-view.html publi=pupli%}
+          {% endfor %}
+          <hr class="separator">
+        </div>
+      {% endfor %}
+    </ul>
+  </div>
+ 
+
+  <div class="col-md-4">
+    <div class="right-navbar">
+
+      <h5 class="blue-subtitle">Category</h5>
+        <div class="publication-year-container">
+          <a class="category-btn active-publi-btn" href="#{{ pupliyear.name }}" id="btn-articles">Articles</a>
+        </div>
+        <div class="publication-year-container">
+          <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-conferences">Conference</a>
+        </div>
+        <div class="publication-year-container">
+          <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-thesis">Thesis</a>
+        </div>
+
+      <hr>
+      <div class="filtering-articles filtering-container publi-active">
+        <h5 class="blue-subtitle">Year</h5>
+        {% assign publiss = site.data.publications.articles | group_by:"year" %}
+        {% assign publis = publiss | sort: "name" | reverse %}
+        {% for pupliyear in publis %}
+          <div class="publication-year-container">
+            <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="filtering-conferences filtering-container publi-hidden">
+        <h5 class="blue-subtitle">Conference</h5>
+        {% assign publiss = site.data.publications.conferences | group_by:"conf" %}
+        {% assign publis = publiss | sort: "name" | reverse %}
+        {% for pupliyear in publis %}
+          <div class="publication-year-container">
+            <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="filtering-thesis filtering-container publi-hidden">
+        <h5 class="blue-subtitle">Thesis</h5>
+        {% assign publiss = site.data.publications.thesis | group_by:"type" %}
+        {% assign publis = publiss | sort: "name" | reverse %}
+        {% for pupliyear in publis %}
+          <div class="publication-year-container">
+            <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
+          </div>
+        {% endfor %}
+      </div>
     </div>
 
   </div>
 </div>
+
+
+<script type="text/javascript">
+
+
+  // Get all buttons with class="btn" inside the container
+  var btns = document.getElementsByClassName("category-btn");
+
+  // Loop through the buttons and add the active class to the current/clicked button
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function() {
+
+      var currents = document.getElementsByClassName("publi-active");
+      for (var i = 0; i < currents.length; i++) {
+        currents[i].className = currents[i].className.replace("publi-active", "publi-hidden");
+      }
+      
+      _id = this.id.replace("btn-", "container-");
+      var container = document.getElementById(_id);
+      container.className = container.className.replace("publi-hidden", "publi-active");
+
+      // Active/inactive tbn
+
+      var current = document.getElementsByClassName("active-publi-btn");
+      current[0].className = current[0].className.replace("active-publi-btn", "inactive-publi-btn");
+
+      this.className = this.className.replace("inactive-publi-btn", "active-publi-btn");
+
+
+      // filtering
+      var currents = document.getElementsByClassName("filtering-container");
+      for (var i = 0; i < currents.length; i++) {
+        currents[i].className = currents[i].className.replace("publi-active", "publi-hidden");
+      }
+
+      _id = _id.replace("container-", "filtering-");
+      console.log(_id);
+      var container = document.getElementsByClassName(_id);
+      container[0].className = container[0].className.replace("publi-hidden", "publi-active");
+
+
+    });
+  }
+
+
+
+</script>
+
+
