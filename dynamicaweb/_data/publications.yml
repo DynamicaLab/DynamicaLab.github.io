@@ -1173,19 +1173,230 @@ Guillaume Painchaud-April, Julien Poirier, Pierre-Yves St-Louis, Josette Lépine
     country : USA
 
 thesis:
-    - title: Inférence et réseaux complexes
-      authors: Jean-Gabriel Young
-      subtitle: Statistical inference and complex networks
-      type: Ph.D.
-      year: 2018
+  - title: Inférence et réseaux complexes
+    authors: Jean-Gabriel Young
+    subtitle: Statistical inference and complex networks
+    type: Ph.D.
+    year: 2018
+    fulltext : "assets/pdf/theses/young18_thesis.pdf"
 
-    - title: "Generalized Lorenz-Mie theory: Application to scattering and resonances of photonic complexes"
-      authors: Denis Gagnon
-      type: Ph.D.
-      year: 2014
+  - title: "Generalized Lorenz-Mie theory: Application to scattering and resonances of photonic complexes"
+    authors: Denis Gagnon
+    type: Ph.D.
+    year: 2014
+    fulltext : "assets/pdf/theses/gagnon14_thesis.pdf"
 
-    - title: "Modélisation de processus coévolutifs sur réseaux: applications à l'épidémiologie"
-      authors: Vincent Marceau
-      subtitle: "Modeling of coevolutive processes on networks: application to epidemiology"
-      type: M.Sc.
-      year: 2017
+  - title: "On the growth and structure of social systems following preferential attachment"
+    authors: Laurent Hébert-Dufresne
+    type: Ph.D.
+    year: 2014
+    fulltext : "assets/pdf/theses/hebert-dufresne14_thesis.pdf"
+
+  - title: "Percolation sur graphes aléatoires: modélisation et description analytique"
+    authors: Antoine Allard
+    type: Ph.D.
+    year: 2014
+    fulltext : "assets/pdf/theses/allard14_thesis.pdf"
+
+  - title: "Dielectric cavities: Scattering formalism and applications"
+    authors: Guillaume Painchaud-April
+    type: Ph.D.
+    year: 2014
+    fulltext : "assets/pdf/theses/Painchaud-April14_thesis.pdf"
+
+  - title: "Dynamiques stochastiques sur réseaux complexes"
+    authors: Pierre-André Noël
+    type: Ph.D.
+    year: 2012
+    fulltext : "assets/pdf/theses/Noel12_PhDThesis.pdf"
+
+  - title: "Étude d'une Nouvelle Classe de
+              Billards Inhomog&egrave;nes et Son Apport aux Microcavit&eacute;s
+              Laser"
+    authors: Samir Saidi
+    type: Ph.D.
+    year: 2005
+    fulltext : "assets/pdf/theses/saidi05_thesis.pdf"
+
+  - title: "De l'Importance des Orbites
+              P&eacute;riodiques: D&eacute;tection et Applications"
+    authors: Bernard Doyon
+    type: Ph.D.
+    year: 2002
+    fulltext : "assets/pdf/theses/doyon02_thesis.pdf"
+
+  - title: "Control and Tracking of Chaos in
+              Hamiltonian Systems"
+    authors: Babak Pourbohloul
+    type: Ph.D.
+    year: 1999
+    fulltext : "assets/pdf/theses/pourbohloul99_thesis.pdf"
+
+  - title: "Int&eacute;gration Symplectique
+              et Etude Dynamique de Syst&egrave;mes Hamiltoniens"
+    subtitle : "Symplectic Integration and Dynamical Study of
+              Hamiltonian Systems"
+    authors: Robert Poulin
+    type: Ph.D.
+    year: 1997
+    fulltext : "assets/pdf/theses/poulin97_thesis.pdf"
+
+  - title: "De la structure croissante des réseaux complexes:
+                approche de la géométrie des réseaux"
+    subtitle : "On the growth of complex networks: a geometric networks approach"
+    authors: Charles Murphy
+    type: M.Sc.
+    year: 2018
+    fulltext : "assets/pdf/theses/murphy18_master.pdf"
+
+  - title: "Dynamique de propagation sur réseaux aléatoires:
+                caractérisation de la transition de phase"
+    subtitle : "Propagation dynamics on random networks: characterization of the phase transition"
+    authors: Guillaume St-Onge
+    type: M.Sc.
+    year: 2017
+    fulltext : "assets/pdf/theses/St-Onge17_master.pdf"
+
+  - title: "Étude des systèmes complexes: des réseaux au connectome du cerveau"
+    subtitle : "Study of complex systems: From networks to the connectome of the brain"
+    authors: Edward Laurence
+    type: M.Sc.
+    year: 2016
+    fulltext : "assets/pdf/theses/laurence16_master.pdf"
+
+  - title: "Ablation laser et croissance de réseaux de surface"
+    subtitle : "Laser ablation and growth of periodic surface structures"
+    authors: Jean-Luc Déziel
+    type: M.Sc.
+    year: 2015
+    fulltext : "assets/pdf/theses/deziel15_master.pdf"
+
+  - title: "De la détection de la structure communautaire 
+des réseaux complexes"
+    subtitle : "Of community detection in complex networks"
+    authors: Jean-Gabriel Young
+    type: M.Sc.
+    year: 2014
+    fulltext : "assets/pdf/theses/young14_master.pdf"
+
+  - title: "On the Modelization of Optical Devices"
+    subtitle : "From Dielectric Cavities to Radiating Structures"
+    authors: Joey Dumont
+    type: M.Sc.
+    year: 2014
+    fulltext : "assets/pdf/theses/dumont14_master.pdf"
+
+  - title: "On the Modelization of Optical Devices"
+    subtitle : "From Dielectric Cavities to Radiating Structures"
+    authors: Joey Dumont
+    type: M.Sc.
+    year: 2014
+    fulltext : "assets/pdf/theses/dumont14_master.pdf"
+
+  - title: "La structure communautaire comme paradigme d'organisation des r&eacute;seaux complexes"
+    subtitle : "Community structure as a paradigm for the organization of complex networks"
+    authors: Laurent Hébert-Dufresne
+    type: M.Sc.
+    year: 2011
+    fulltext : "assets/pdf/theses/hebert-dufresne11_master.pdf"
+
+  - title: "Modélisation de processus coévolutifs sur réseaux: applications à l'épidémiologie"
+    authors: Vincent Marceau
+    subtitle: "Modeling of coevolutive processes on networks: application to epidemiology"
+    type: M.Sc.
+    year: 2011
+    fulltext : "assets/pdf/theses/marceau11_master.pdf"
+
+  - title: "Mod&eacute;lisation ondulatoire de structures optiques r&eacute;sonantes: application aux microcavit&eacute;s di&eacute;lectriques bidimensionnelles"
+    subtitle: "Wave modeling of resonant optical structures: application to two-dimensional dielectric microcavities"
+    authors: Denis Gagnon
+    type: M.Sc.
+    year: 2011
+    fulltext : "assets/pdf/theses/gagnon11_master.pdf"
+
+  - title: "Mod&eacute;lisation
+              Math&eacute;matique en Epid&eacute;miologie par R&eacute;seaux de
+              Contacts: Introduction de
+              l'H&eacute;t&eacute;rog&eacute;n&eacute;it&eacute; dans
+              la Transmissibilit&eacute;"
+    subtitle: "Mathematical Modelling in Contact Networks for
+              Epidemiology: Introduction of Heterogenity in Transmissibility"
+    authors: Antoine Allard
+    type: M.Sc.
+    year: 2008
+    fulltext : "assets/pdf/theses/allard08_master.pdf"
+
+  - title: "Dynamique de Mod&egrave;les
+              &Eacute;pid&eacute;miologiques: Applications au Cas du Virus du Nil
+              Occidental"
+    subtitle: "Dynamics of Epidemiologic Models: Applications to the
+              Case of the West Nile Virus"
+    authors: Pierre-André Noël
+    type: M.Sc.
+    year: 2007
+    fulltext : "assets/pdf/theses/noel07_master.pdf"
+
+  - title: "Measures of Dynamical Changes:
+              Information Flow and Dynamical Similarity"
+    authors: Greg McDonald
+    type: M.Sc.
+    year: 2003
+    fulltext : "assets/pdf/theses/mcdonald03_master.pdf"
+
+  - title: "Contr&ocirc;le et
+              D&eacute;tection du Chaos"
+    subtitle: "Control and Detection of Chaos"
+    authors: Philippe Després
+    type: M.Sc.
+    year: 2000
+    fulltext : "assets/pdf/theses/despres00_master.pdf"
+
+  - title: "R&eacute;duction
+              Non-Lin&eacute;aire de Bruit et D&eacute;tection de
+              Non-Stationnarit&eacute;"
+    subtitle: "Nonlinear Noise Reduction and Detection of
+              Non-stationarity"
+    authors: Frédéric Beaulieu
+    type: M.Sc.
+    year: 2000
+    fulltext : "assets/pdf/theses/beaulieu00_master.pdf"
+
+  - title: "Le Contr&ocirc;le du
+              Chaos"
+    subtitle: "The Control of Chaos"
+    authors: Carl Robert
+    type: M.Sc.
+    year: 1995
+    fulltext : "assets/pdf/theses/robert95_master.pdf"
+
+  - title: "Simulations Num&eacute;riques en
+              Dynamique Analytique"
+    subtitle: "Numerical Simulations in Analytic
+              Dynamics"
+    authors: Robert Poulin
+    type: M.Sc.
+    year: 1992
+
+  - title: "Dynamique Complexe en Physique
+              Statistique"
+    subtitle: "Complex Dynamics in Statistical Physics"
+    authors: Simon Dubé
+    type: M.Sc.
+    year: 1991
+
+  - title: "G&eacute;om&eacute;trie
+              Fractale et Structure &agrave; Grande Echelle de l'Univers"
+    subtitle: "Fractal Geometry and Large Scale Structure of the
+              Universe"
+    authors: René-Jean Essiambre
+    type: M.Sc.
+    year: 1990
+
+  - title: "Ph&eacute;nom&egrave;nes
+              Critiques et G&eacute;om&eacute;trie Fractale"
+    subtitle: "Critical Phenomena and Fractal Geometry"
+    authors: Robin Côté
+    type: M.Sc.
+    year: 1989
+    fulltext : "assets/pdf/theses/cote89_master.pdf"
+
