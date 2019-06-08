@@ -6,6 +6,9 @@
 	<h5 class="publi-name">{{include.publi.title}}</h5>
 	<p class="publi-authors">{{include.publi.authors}}</p>
 	<br>
+	{% if include.publi.abstract %}
+		<a class="abstract" href="{{ include.publi.abstract }}">Abstract</a> 
+	{% endif %}
 	{% if include.publi.github %}
 		<a class="github" href="{{ include.publi.github }}">Github</a> 
 	{% endif %}
@@ -18,7 +21,11 @@
 	{% if include.publi.slides %}
 		<a class="slides" href="{{ include.publi.slides }}">Slides</a> 
 	{% endif %}
-	{% if include.publi.abstract %}
-		<a class="abstract" href="{{ include.publi.abstract }}">Abstract</a> 
+	{% if include.publi.poster %}
+		<a class="poster" href="{{ include.publi.poster }}">Poster</a> 
 	{% endif %}
+	{% if include.publi.poster_pf %}
+		<a class="poster_pf" href="{{ include.publi.poster_pf }}">Printer-friendly</a> 
+	{% endif %}
+
 </div>
