@@ -1,50 +1,139 @@
 leaders:
   - name: Louis J.
     lastname: Dubé
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/dube.png"
 
   - name: Antoine
     lastname: Allard
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/antoine.jpg"
+    website: "http://antoineallard.github.io/"
+    github: "https://github.com/antoineallard"
+
+  - name: Patrick
+    lastname : Desrosiers
+    image: "/assets/images/members/patrick.jpg"
+    website: "https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao"
 
 doctoral:
   - name: Jean-Luc
     lastname: Déziel
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/jeanluc.jpg"
 
   - name: Edward
     lastname: Laurence
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/edw.jpg"
     website: "http://edwardlaurence.me"
     github: "https://github.com/laurencee9"
 
   - name: Guillaume
     lastname: St-Onge
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/gui.jpg"
+    website: "http://gstonge.github.io"
+    github: "https://github.com/gstonge"
 
   - name: Charles
     lastname: Murphy
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/charles.jpg"
 
 master:
   - name: Vincent
     lastname: Thibeault
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/vincent.jpg"
 
   - name: Xavier
     lastname: Roy-Pomerleau
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/xav.jpg"
 
 interns:
   - name: Olivier
     lastname: Ribordy
     image: "/assets/images/members/default.jpg"
 
+  - name: François
+    lastname: Thibault
+    image: "/assets/images/members/default.jpg"
+
 
 formers:
+  - name: Antoine
+    lastname: Allard
+    msc: 2008
+    phd: 2014
+    task: M.Sc. 2008 & Ph.D. 2014
+    website: "http://antoineallard.github.io/"
+
+  - name: Frédéric
+    lastname: Beaulieu
+    task: M.Sc. 2000
+
+  - name: Etienne
+    lastname: Brasselet
+    task: Post-doc 2003-2004
+
+  - name: Jean-Luc
+    lastname: Désiel
+    task: M.Sc. 2015
+
+  - name: Philippe
+    lastname: Després
+    task: M.Sc. 2000
+
+  - name: Bernard
+    lastname: Doyon
+    task: Ph.D. 2002
+
+  - name: Joey
+    lastname: Dumont
+    task: M.Sc. 2014
+
+  - name: Denis
+    lastname: Gagnon
+    task: M.Sc. 2011 & Ph.D. 2014
+
+  - name: Laurent
+    lastname: Hébert-Dufresne
+    task: M.Sc. 2011 & Ph.D. 2014
+    website: "http://laurenthebertdufresne.github.io/"
+
+  - name: Edward
+    lastname: Laurence
+    task: M.Sc. 2016
+    website: "http://edwardlaurence.me/"
+
+  - name: Gregory
+    lastname: McDonald
+    task: M.Sc. 2003
+
+  - name: Charles
+    lastname: Murphy
+    task: M.Sc. 2018
+
+  - name: Pierre-André
+    lastname: Noël
+    task: M.Sc. 2006 & Ph.D. 2012
+
+  - name: Guillaume
+    lastname: Painchaud-April
+    task: M.Sc. 2008 & Ph.D. 2014
+
+  - name: Julien
+    lastname: Poirier
+    task: M.Sc. 2011
+
+  - name: Samir
+    lastname: Saidi
+    task: Post-doc 2008-2009
+
+  - name: Pierre-Yves
+    lastname: St-Louis
+    task: M.Sc.
+
+  - name: Guillaume
+    lastname: St-Onge
+    task: M.Sc. 2017
+    website: "http://gstonge.github.io"
+
   - name: Jean-Gabriel
     lastname: Young
-    task: "M.Sc (2014) & Ph.D. (2018)"
-    website: http://jgyoung.ca
-
-
+    task: M.Sc. 2014 & Ph.D. 2018
+    website: "http://jgyoung.ca"
