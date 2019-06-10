@@ -43,8 +43,10 @@ subtitle: 2 leaders, 4 Ph.D., 2 Ms.C., 2 interns
 
 <div class="member-list">
 	<h4>Former members and graduates</h4>
-	<table cellspacing="10" cellpadding="20" class="table-about table-collabs">
-		{% for member in site.data.members.formers %}
+	<table cellspacing="20" cellpadding="4" class="table-about table-collabs">
+
+		{% assign members = site.data.members.formers | sort: "year" | reverse %}
+		{% for member in members %}
 			<tr><td>
           {% if member.website %}
             <a href="{{ member.website }}">{{member.name}} {{member.lastname}}</a>

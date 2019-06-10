@@ -32,11 +32,13 @@ layout: publication
       <h1>Conferences</h1>
     <!-- News section -->
     <ul class="publi-list">
-      {% assign publiss = site.data.publications.conferences | group_by:"conf" %}
+      {% assign publiss = site.data.conferences.conferences | group_by:"conf" %}
       {% assign publis = publiss | sort: "name" | reverse %}
       {% for pupliyear in publis %}
         <div class="publication-year-container">
+          <h6>{{ pupliyear.items[0].year }} </h6>
           <h5 class="publi-year-category" id="year{{pupliyear.name}}">{{ pupliyear.name }}</h5>
+          <h6 class="publi-year-info">{{ pupliyear.items[0].city }}, {{ pupliyear.items[0].country }} </h6>
           {% for pupli in pupliyear.items %}
             <!-- {{ publi}} -->
             {% include conference-view.html publi=pupli%}
@@ -45,14 +47,14 @@ layout: publication
         </div>
       {% endfor %}
     </ul>
-  </div>
+  </div> 
 
   <!-- THESIS -->
   <div class="col-md-8 publi-hidden" id="container-thesis">
       <h1>Thesis</h1>
     <!-- News section -->
     <ul class="publi-list">
-      {% assign publiss = site.data.publications.thesis | group_by:"type" %}
+      {% assign publiss = site.data.thesis.thesis | group_by:"type" %}
       {% assign publis = publiss | sort: "name" | reverse %}
       {% for pupliyear in publis %}
         <div class="publication-year-container">
@@ -95,7 +97,7 @@ layout: publication
       </div>
       <div class="filtering-conferences filtering-container publi-hidden">
         <h5 class="blue-subtitle">Conference</h5>
-        {% assign publiss = site.data.publications.conferences | group_by:"conf" %}
+        {% assign publiss = site.data.conferences.conferences | group_by:"conf" %}
         {% assign publis = publiss | sort: "name" | reverse %}
         {% for pupliyear in publis %}
           <div class="publication-year-container">
@@ -105,7 +107,7 @@ layout: publication
       </div>
       <div class="filtering-thesis filtering-container publi-hidden">
         <h5 class="blue-subtitle">Thesis</h5>
-        {% assign publiss = site.data.publications.thesis | group_by:"type" %}
+        {% assign publiss = site.data.thesis.thesis | group_by:"type" %}
         {% assign publis = publiss | sort: "name" | reverse %}
         {% for pupliyear in publis %}
           <div class="publication-year-container">

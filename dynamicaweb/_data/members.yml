@@ -59,81 +59,95 @@ formers:
     lastname: Allard
     msc: 2008
     phd: 2014
+    year: 2014
     task: M.Sc. 2008 & Ph.D. 2014
     website: "http://antoineallard.github.io/"
 
   - name: Frédéric
     lastname: Beaulieu
+    year: 2000
     task: M.Sc. 2000
 
   - name: Etienne
     lastname: Brasselet
+    year: 2004
     task: Post-doc 2003-2004
 
   - name: Jean-Luc
     lastname: Désiel
+    year: 2015
     task: M.Sc. 2015
 
   - name: Philippe
     lastname: Després
+    year: 2000
     task: M.Sc. 2000
 
   - name: Bernard
     lastname: Doyon
+    year: 2002
     task: Ph.D. 2002
 
   - name: Joey
     lastname: Dumont
+    year: 2014
     task: M.Sc. 2014
 
   - name: Denis
     lastname: Gagnon
+    year: 2014
     task: M.Sc. 2011 & Ph.D. 2014
 
   - name: Laurent
     lastname: Hébert-Dufresne
+    year: 2014
     task: M.Sc. 2011 & Ph.D. 2014
     website: "http://laurenthebertdufresne.github.io/"
 
   - name: Edward
     lastname: Laurence
+    year: 2016
     task: M.Sc. 2016
     website: "http://edwardlaurence.me/"
 
   - name: Gregory
     lastname: McDonald
+    year: 2003
     task: M.Sc. 2003
 
   - name: Charles
     lastname: Murphy
+    year: 2018
     task: M.Sc. 2018
 
   - name: Pierre-André
     lastname: Noël
+    year: 2012
     task: M.Sc. 2006 & Ph.D. 2012
 
   - name: Guillaume
     lastname: Painchaud-April
+    year: 2014
     task: M.Sc. 2008 & Ph.D. 2014
 
   - name: Julien
     lastname: Poirier
+    year: 2011
     task: M.Sc. 2011
 
   - name: Samir
     lastname: Saidi
+    year: 2009
     task: Post-doc 2008-2009
-
-  - name: Pierre-Yves
-    lastname: St-Louis
-    task: M.Sc.
 
   - name: Guillaume
     lastname: St-Onge
+    year: 2017
     task: M.Sc. 2017
     website: "http://gstonge.github.io"
 
   - name: Jean-Gabriel
     lastname: Young
+    year: 2018
     task: M.Sc. 2014 & Ph.D. 2018
     website: "http://jgyoung.ca"

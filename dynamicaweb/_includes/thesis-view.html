@@ -1,23 +1,31 @@
 
 <div class="publi-container {{include.publi.type}}-item">
-	<span class="edition">{{include.publi.year}}</span>
-	<h5 class="publi-name">{{include.publi.title}}</h5>
-	<p>{{include.publi.subtitle}}</p>
-	<p class="thesis-authors">{{include.publi.authors}}</p>
-  <br>
-	{% if include.publi.github %}
-		<a class="github" href="{{ include.publi.github }}">Github</a> 
-	{% endif %}
-	{% if include.publi.fulltext %}
-		<a class="fulltext" href="{{ include.publi.fulltext }}">Full text</a> 
-	{% endif %}
-	{% if include.publi.arxiv %}
-		<a class="arxiv" href="{{ include.publi.arxiv }}">Arxiv</a> 
-	{% endif %}	
-	{% if include.publi.slides %}
-		<a class="slides" href="{{ include.publi.slides }}">Slides</a> 
-	{% endif %}
-	{% if include.publi.abstract %}
-		<a class="abstract" href="{{ include.publi.abstract }}">Abstract</a> 
-	{% endif %}
+	<div class="row">
+		<div class="col-md-1">
+			<span class="edition">{{include.publi.year}}</span>
+		</div>
+		<div class="col-md-11">
+			<h5 class="publi-name">{{include.publi.title}}</h5>
+		<p>{{include.publi.subtitle}}</p>
+		<p class="thesis-authors">{{include.publi.authors}}</p>
+	  <br>
+		{% if include.publi.github %}
+			<a class="github" href="{{ include.publi.github }}">Github</a> 
+		{% endif %}
+		{% if include.publi.fulltext %}
+			<a class="fulltext" href="{{ include.publi.fulltext }}">Full text</a> 
+		{% endif %}
+		{% if include.publi.arxiv %}
+			<a class="arxiv" href="{{ include.publi.arxiv }}">Arxiv</a> 
+		{% endif %}	
+		{% if include.publi.slides %}
+			<a class="slides" href="{{ include.publi.slides }}">Slides</a> 
+		{% endif %}
+		{% if include.publi.abstract %}
+			<a class="abstract" href="{{ include.publi.abstract }}">Abstract</a> 
+		{% endif %}
+			</div>
+	</div>
+	
+	
 </div>
