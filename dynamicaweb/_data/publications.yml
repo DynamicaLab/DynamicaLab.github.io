@@ -13,8 +13,8 @@ articles:
     authors: Guillaume St-Onge, Jean-Gabriel Young, Laurent Hébert-Dufresne, Louis J. Dubé
     year: 2019
     journal: Comput. Phys. Commun.
-    edition: ""
-    pagenumber: ""
+    edition: "240"
+    pagenumber: "30-37"
     arxiv: "https://arxiv.org/abs/1808.05859"
     github: "https://github.com/gstonge/spreading_CR"
     fulltext: "https://doi.org/10.1016/j.cpc.2019.02.008"
