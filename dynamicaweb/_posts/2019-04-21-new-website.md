@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: post
 title:  "News 2"
 date:   2019-04-21
 published: True

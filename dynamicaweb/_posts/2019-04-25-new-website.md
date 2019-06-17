@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: post
 title:  "New website! News1"
 date:   2019-04-25
 published: True

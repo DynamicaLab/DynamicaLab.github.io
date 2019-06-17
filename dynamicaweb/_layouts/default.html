@@ -8,9 +8,11 @@
 	{% include navbar.html %}
 
 
-	<div class="header-block center-block">
+	<div class="header-block center-block" id="d3graphparent" style="background-color: {{page.background}}">
+		<div class="d3graph" id="d3graph"></div>
 		{% include header.html %}
 	</div>
+
 
 
 	{{ content }}
