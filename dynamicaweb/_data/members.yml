@@ -47,11 +47,11 @@ master:
 interns:
   - name: Olivier
     lastname: Ribordy
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/default.png"
 
   - name: François
     lastname: Thibault
-    image: "/assets/images/members/default.jpg"
+    image: "/assets/images/members/default.png"
 
 
 formers:
