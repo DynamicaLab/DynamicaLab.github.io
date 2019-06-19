@@ -22,7 +22,7 @@ custom_js:
           <h2 class="post-title">
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
-          <img class="front-image" src="{{post.imagesrc}}">
+          {% if post.imagesrc %}<img class="front-image" src="{{post.imagesrc}}">{% endif %}
           <section class="post-excerpt" itemprop="description">
             <p>{{ post.excerpt | truncatewords: 50 }}</p>
           </section>
