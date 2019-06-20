@@ -50,7 +50,7 @@ custom_js:
         {% assign npage = paginator.page %}
         {% assign posts = site.posts | where:"type","post" %}
         {% assign totposts = posts | size %}
-        {% assign totpage = totposts | divided_by: 2.0 %}
+        {% assign totpage = totposts | divided_by: 5.0 %}
         <span class="page-number">Page {{ paginator.page }} of {{ totpage | round }}</span>
         {% if npage < totpage %}
           <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
