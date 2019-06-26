@@ -1,4 +1,21 @@
 articles:
+  - title : "On the accuracy of message-passing approaches to percolation in complex networks"
+    authors : "Antoine Allard, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/1906.10377"
+    year : 2019
+    insubmission: True
+    type : Preprints
+
+  - title : "Percolation and the effective structure of complex networks"
+    authors : "Antoine Allard, Laurent Hébert-Dufresne"
+    year: 2019
+    journal: Phys. Rev. X
+    edition: "9"
+    pagenumber: "011023"
+    arxiv : "https://arxiv.org/abs/1804.09633"
+    fulltext: "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011023"
+    type : Preprints
+
   - title: Spectral dimension reduction of complex dynamical networks
     authors: Edward Laurence, Nicolas Doyon, Louis J. Dubé, Patrick Desrosiers
     year: 2019
@@ -59,8 +76,8 @@ articles:
     fulltext: 'https://doi.org/10.1103/PhysRevE.97.032309'
     type: Preprints
 
-  - title : "Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks" 
-    authors : "Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy, Louis J. Dubé" 
+  - title : "Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks"
+    authors : "Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy, Louis J. Dubé"
     edition : "97"
     journal : "Phys. Rev. E"
     year : 2018
@@ -69,515 +86,511 @@ articles:
     arxiv : "https://arxiv.org/abs/1709.09257"
     type : Preprints
 
-  - title : "Construction of and efficient sampling from the simplicial configuration model" 
-    authors : "Jean-Gabriel Young, Giovanni Petri, Francesco Vaccarino, Alice Patania" 
+  - title : "Construction of and efficient sampling from the simplicial configuration model"
+    authors : "Jean-Gabriel Young, Giovanni Petri, Francesco Vaccarino, Alice Patania"
     edition : "96"
-    journal : "Phys. Rev. E" 
+    journal : "Phys. Rev. E"
     year : 2017
     pagenumber : "032312"
-    arxiv : "https://arxiv.org/abs/1705.10298" 
+    arxiv : "https://arxiv.org/abs/1705.10298"
     fulltext : "https://doi.org/10.1103/PhysRevE.96.032312"
     type : Preprints
 
-  - title : "Strategic tradeoffs in competitor dynamics on adaptive networks" 
-    authors : "Laurent Hébert-Dufresne, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young, Eric Libby" 
-    edition : "7" 
+  - title : "Strategic tradeoffs in competitor dynamics on adaptive networks"
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young, Eric Libby"
+    edition : "7"
     year : 2017
     pagenumber : "7576 (1-11)"
-    journal : "Sci. Rep." 
-    fulltext : "https://www.nature.com/articles/s41598-017-07621-x" 
-    arxiv : "http://arxiv.org/abs/1607.04632" 
+    journal : "Sci. Rep."
+    fulltext : "https://www.nature.com/articles/s41598-017-07621-x"
+    arxiv : "http://arxiv.org/abs/1607.04632"
     type : Preprints
 
-  - title : "Susceptible-infected-susceptible dynamics on the rewired configuration model" 
-    authors : "Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy, Louis J. Dubé" 
-    arxiv : "http://arxiv.org/abs/1701.01740" 
+  - title : "Susceptible-infected-susceptible dynamics on the rewired configuration model"
+    authors : "Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy, Louis J. Dubé"
+    arxiv : "http://arxiv.org/abs/1701.01740"
     year : 2017
     type : Preprints
 
-  - title : "Finite size analysis of the detectability limit of the stochastic block model" 
-    authors : "Jean-Gabriel Young, Patrick Desrosiers, Laurent Hébert-Dufresne, Edward Laurence, Louis J. Dubé" 
-    edition : "95" 
-    journal : "Phys. Rev. E" 
-    arxiv : "http://arxiv.org/abs/1701.00062" 
-    github : "https://github.com/jg-you/sbm_canonical_mcmc" 
+  - title : "Finite size analysis of the detectability limit of the stochastic block model"
+    authors : "Jean-Gabriel Young, Patrick Desrosiers, Laurent Hébert-Dufresne, Edward Laurence, Louis J. Dubé"
+    edition : "95"
+    journal : "Phys. Rev. E"
+    arxiv : "http://arxiv.org/abs/1701.00062"
+    github : "https://github.com/jg-you/sbm_canonical_mcmc"
     year : 2017
     pagenumber : "062304"
     type : Preprints
 
-  - title : "Growing networks of overlapping communities with internal structure" 
-    authors : "Jean-Gabriel Young, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
-    edition : "94" 
-    journal : "Phys. Rev. E" 
-    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022317" 
-    arxiv : "http://arxiv.org/abs/1603.05566" 
-    github : "https://github.com/spa-networks/spa" 
+  - title : "Growing networks of overlapping communities with internal structure"
+    authors : "Jean-Gabriel Young, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé"
+    edition : "94"
+    journal : "Phys. Rev. E"
+    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022317"
+    arxiv : "http://arxiv.org/abs/1603.05566"
+    github : "https://github.com/spa-networks/spa"
     pagenumber : "022317"
     year : 2016
     type : Preprints
 
-  - title : "Constrained growth of complex scale-independent systems [Editors's Suggestion]" 
-    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
-    edition : "93" 
-    journal : "Phys. Rev. E" 
-    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.032304" 
-    arxiv : "http://arxiv.org/abs/1310.0112" 
+  - title : "Constrained growth of complex scale-independent systems [Editors's Suggestion]"
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé"
+    edition : "93"
+    journal : "Phys. Rev. E"
+    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.032304"
+    arxiv : "http://arxiv.org/abs/1310.0112"
     year : 2016
     pagenumber : "032304"
     type : Preprints
 
-  - title : "Complex networks as an emerging property of hierarchical preferential attachment" 
-    authors : "Laurent Hébert-Dufresne, Edward Laurence, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
-    edition : "92" 
-    journal : "Phys. Rev. E" 
-    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062809" 
-    arxiv : "http://arxiv.org/abs/1312.0171" 
+  - title : "Complex networks as an emerging property of hierarchical preferential attachment"
+    authors : "Laurent Hébert-Dufresne, Edward Laurence, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé"
+    edition : "92"
+    journal : "Phys. Rev. E"
+    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062809"
+    arxiv : "http://arxiv.org/abs/1312.0171"
     year : 2015
     pagenumber : "062809"
     type : Preprints
 
-  - title : "General and exact approach to percolation on random graphs" 
-    authors : "Antoine Allard, Laurent Hébert-Dufresne,  Jean-Gabriel Young, Louis J. Dubé" 
-    edition : "92" 
-    journal : "Phys. Rev. E" 
-    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062807" 
-    arxiv : "http://arxiv.org/abs/1509.01207" 
+  - title : "General and exact approach to percolation on random graphs"
+    authors : "Antoine Allard, Laurent Hébert-Dufresne,  Jean-Gabriel Young, Louis J. Dubé"
+    edition : "92"
+    journal : "Phys. Rev. E"
+    fulltext : "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062807"
+    arxiv : "http://arxiv.org/abs/1509.01207"
     pagenumber : "062807"
     year : 2015
     type : Preprints
 
-  - title : "A Shadowing Problem in the Detection of Overlapping Communities: Lifting the Resolution Limit through a Cascading Procedure" 
-    authors : "Jean-Gabriel Young, Antoine Allard, Laurent Hébert-Dufresne, Louis J. Dubé" 
-    edition : "10" 
-    journal : "PLoS ONE" 
-    fulltext : "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133" 
-    arxiv : "http://arxiv.org/abs/1211.1364" 
-    github : "https://github.com/jg-you/cascading_detection" 
+  - title : "A Shadowing Problem in the Detection of Overlapping Communities: Lifting the Resolution Limit through a Cascading Procedure"
+    authors : "Jean-Gabriel Young, Antoine Allard, Laurent Hébert-Dufresne, Louis J. Dubé"
+    edition : "10"
+    journal : "PLoS ONE"
+    fulltext : "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133"
+    arxiv : "http://arxiv.org/abs/1211.1364"
+    github : "https://github.com/jg-you/cascading_detection"
     year : 2015
     pagenumber : "e0140133"
     type : Preprints
 
-  - title : "The Social Zombie: Modelling undead outbreaks on social networks" 
-    authors : "Laurent Hébert-Dufresne, Vincent Marceau, Pierre-André Noël, Antoine Allard, Louis J. Dubé" 
-    publisher : "University of Ottawa Press" 
-    editor : "Robert Smith?" 
-    book : "Mathematical Modelling of Zombies" 
+  - title : "The Social Zombie: Modelling undead outbreaks on social networks"
+    authors : "Laurent Hébert-Dufresne, Vincent Marceau, Pierre-André Noël, Antoine Allard, Louis J. Dubé"
+    publisher : "University of Ottawa Press"
+    editor : "Robert Smith?"
+    book : "Mathematical Modelling of Zombies"
     fulltext: "https://press.uottawa.ca/mathematical-modelling-of-zombies.html"
     chapter : "assets/pdf/books/social_zombie_chapter.pdf"
     year : 2014
 
-  - title : "Coexistence of phases and the observability of random graphs [Editor's Suggestion]" 
-    authors : "Antoine Allard, Laurent Hébert-Dufresne, Jean-Gabriel Young Louis J. Dubé" 
-    edition : "89" 
-    journal : "Phys. Rev. E" 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.89.022801" 
-    arxiv : "http://arxiv.org/abs/1309.7983" 
+  - title : "Coexistence of phases and the observability of random graphs [Editor's Suggestion]"
+    authors : "Antoine Allard, Laurent Hébert-Dufresne, Jean-Gabriel Young Louis J. Dubé"
+    edition : "89"
+    journal : "Phys. Rev. E"
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.89.022801"
+    arxiv : "http://arxiv.org/abs/1309.7983"
     year : 2014
     pagenumber : "022801"
     type : Preprints
 
-  - title : "Percolation on random networks with arbitrary k-core structure" 
-    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young Louis J. Dubé" 
-    edition : "88" 
-    journal : "Phys. Rev. E " 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.88.062820" 
-    arxiv : "http://arxiv.org/abs/1308.6537" 
+  - title : "Percolation on random networks with arbitrary k-core structure"
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young Louis J. Dubé"
+    edition : "88"
+    journal : "Phys. Rev. E "
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.88.062820"
+    arxiv : "http://arxiv.org/abs/1308.6537"
     year : 2013
     pagenumber : "062820"
     type : Preprints
 
-  - title : "Global efficiency of local immunization on complex networks" 
-    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
-    journal : "Sci. Rep." 
+  - title : "Global efficiency of local immunization on complex networks"
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé"
+    journal : "Sci. Rep."
     edition : "3"
-    fulltext : "http://dx.doi.org/10.1038/srep02171" 
-    arxiv : "http://arxiv.org/abs/1208.5768" 
+    fulltext : "http://dx.doi.org/10.1038/srep02171"
+    arxiv : "http://arxiv.org/abs/1208.5768"
     year : 2013
     pagenumber : "2171 (1-8)"
     type : Preprints
 
-  - title : "Spreading dynamics on contact networks: a general stochastic approach" 
-    authors : "Pierre-André Noël, Antoine Allard, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé" 
-    edition : "69" 
+  - title : "Spreading dynamics on contact networks: a general stochastic approach"
+    authors : "Pierre-André Noël, Antoine Allard, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé"
+    edition : "69"
     year : 2014
     pagenumber : "1627-1660"
-    journal : "J. Math. Bio. " 
-    fulltext : "http://dx.doi.org/10.1007/s00285-013-0744-9" 
-    arxiv : "http://arxiv.org/abs/1201.0296" 
+    journal : "J. Math. Bio. "
+    fulltext : "http://dx.doi.org/10.1007/s00285-013-0744-9"
+    arxiv : "http://arxiv.org/abs/1201.0296"
     type : Preprints
 
-  - title : "Bond percolation on a class of correlated and clustered random graphs" 
-    authors : "Antoine Allard, Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Louis J. Dubé" 
-    edition : "45" 
+  - title : "Bond percolation on a class of correlated and clustered random graphs"
+    authors : "Antoine Allard, Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Louis J. Dubé"
+    edition : "45"
     year : 2012
     pagenumber : "405005 (1-15)"
-    journal : "J. Phys. A " 
-    fulltext : "http://dx.doi.org/10.1088/1751-8113/45/40/405005" 
-    arxiv : "http://arxiv.org/abs/1201.4602" 
+    journal : "J. Phys. A "
+    fulltext : "http://dx.doi.org/10.1088/1751-8113/45/40/405005"
+    arxiv : "http://arxiv.org/abs/1201.4602"
     type : Preprints
 
-  - title : "Exact solution of bond percolation on small arbitrary graphs" 
-    authors : "Antoine Allard, Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Louis J. Dubé" 
-    edition : "98" 
-    journal : "EPL" 
+  - title : "Exact solution of bond percolation on small arbitrary graphs"
+    authors : "Antoine Allard, Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Louis J. Dubé"
+    edition : "98"
+    journal : "EPL"
     year : 2012
     pagenumber : "16001 (1-6)"
-    fulltext : "http://dx.doi.org/10.1209/0295-5075/98/16001" 
-    arxiv : "http://arxiv.org/abs/1201.4369" 
+    fulltext : "http://dx.doi.org/10.1209/0295-5075/98/16001"
+    arxiv : "http://arxiv.org/abs/1201.4369"
     type : Preprints
 
-  - title : "Propagation on networks: an exact alternative perspective" 
-    authors : "Pierre-André Noël, Antoine Allard, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé" 
-    edition : "85" 
+  - title : "Propagation on networks: an exact alternative perspective"
+    authors : "Pierre-André Noël, Antoine Allard, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé"
+    edition : "85"
     year : 2012
     pagenumber : "031118 (1-7)"
-    journal : "Phys. Rev. E " 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.85.031118" 
-    arxiv : "http://arxiv.org/abs/1102.0987" 
+    journal : "Phys. Rev. E "
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.85.031118"
+    arxiv : "http://arxiv.org/abs/1102.0987"
     type : Preprints
 
-  - title : "Structural preferential attachment: Stochastic process for the growth of scale-free, modular and self-similar systems" 
-    authors : "Laurent Hébert-Dufresne, Antoine Allard, Vincent Marceau, Pierre-André Noël, Louis J. Dubé" 
-    edition : "85" 
+  - title : "Structural preferential attachment: Stochastic process for the growth of scale-free, modular and self-similar systems"
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Vincent Marceau, Pierre-André Noël, Louis J. Dubé"
+    edition : "85"
     year : 2012
     pagenumber : "026108 (1-5)"
-    journal : "Phys. Rev. E " 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.85.026108" 
-    arxiv : "http://arxiv.org/abs/1109.0034" 
+    journal : "Phys. Rev. E "
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.85.026108"
+    arxiv : "http://arxiv.org/abs/1109.0034"
     type : Preprints
 
-  - title : "Structural preferential attachment: Network organization beyond the link" 
-    authors : "Laurent Hébert-Dufresne, Antoine Allard, Vincent Marceau, Pierre-André Noël, Louis J. Dubé" 
-    edition : "107" 
+  - title : "Structural preferential attachment: Network organization beyond the link"
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Vincent Marceau, Pierre-André Noël, Louis J. Dubé"
+    edition : "107"
     year : 2011
     pagenumber : "158702 (1-5)"
-    journal : "Phys. Rev. Lett. " 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevLett.107.158702" 
-    arxiv : "http://arxiv.org/abs/1105.5980" 
+    journal : "Phys. Rev. Lett. "
+    fulltext : "http://dx.doi.org/10.1103/PhysRevLett.107.158702"
+    arxiv : "http://arxiv.org/abs/1105.5980"
     type : Preprints
 
-  - title : "Modeling the dynamical interaction between epidemics on overlay networks" 
-    authors : "Vincent Marceau, Pierre-André Noël, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
-    edition : "84" 
+  - title : "Modeling the dynamical interaction between epidemics on overlay networks"
+    authors : "Vincent Marceau, Pierre-André Noël, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé"
+    edition : "84"
     year : 2011
     pagenumber : "026105 (1-10)"
-    journal : "Phys. Rev. E " 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.84.026105" 
-    arxiv : "http://arxiv.org/abs/1103.4059" 
+    journal : "Phys. Rev. E "
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.84.026105"
+    arxiv : "http://arxiv.org/abs/1103.4059"
     type : Preprints
 
-  - title : "Adaptive networks: Coevolution of disease and topology" 
-    authors : "Vincent Marceau, Pierre-André Noël, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
-    edition : "82" 
+  - title : "Adaptive networks: Coevolution of disease and topology"
+    authors : "Vincent Marceau, Pierre-André Noël, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé"
+    edition : "82"
     year : 2010
     pagenumber : "036116 (1-10)"
-    journal : "Phys. Rev. E " 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.82.036116" 
-    arxiv : "http://arxiv.org/abs/1005.1299" 
+    journal : "Phys. Rev. E "
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.82.036116"
+    arxiv : "http://arxiv.org/abs/1005.1299"
     type : Preprints
 
-  - title : "Propagation dynamics on networks featuring complex topologies" 
-    authors : "Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Antoine Allard, Louis J. Dubé" 
-    edition : "82" 
+  - title : "Propagation dynamics on networks featuring complex topologies"
+    authors : "Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Antoine Allard, Louis J. Dubé"
+    edition : "82"
     year : 2010
     pagenumber : "036115 (1-9)"
-    journal : "Phys. Rev. E " 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.82.036115" 
-    arxiv : "http://arxiv.org/abs/1005.1397" 
+    journal : "Phys. Rev. E "
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.82.036115"
+    arxiv : "http://arxiv.org/abs/1005.1397"
     type : Preprints
 
   - title : "Des Ponts d'Euler à la Grippe Aviaire: De l'abstraction mathématique à la
-    réalité sociale des épidémies" 
-    authors : "Antoine Allard, Pierre-André; Noël, Louis J. Dubé" 
-    edition : "4" 
+    réalité sociale des épidémies"
+    authors : "Antoine Allard, Pierre-André; Noël, Louis J. Dubé"
+    edition : "4"
     pagenumber : "24-29"
     year : 2009
     journal : "Accromath"
-    fulltext : "http://accromath.uqam.ca/2009/02/des-ponts-deuler-a-la-grippe-aviare/" 
+    fulltext : "http://accromath.uqam.ca/2009/02/des-ponts-deuler-a-la-grippe-aviare/"
     type : Preprints
 
-  - title : "Heterogeneous Bond Percolation on Multitype Networks with an Application to Epidemic Dynamics" 
-    authors : "Antoine Allard, Pierre-André Noël, Louis J. Dubé, B. Pourbohloul" 
-    edition : "79" 
-    journal : "Phys. Rev. E" 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.79.036113" 
-    arxiv : "http://arxiv.org/abs/0811.2349" 
+  - title : "Heterogeneous Bond Percolation on Multitype Networks with an Application to Epidemic Dynamics"
+    authors : "Antoine Allard, Pierre-André Noël, Louis J. Dubé, B. Pourbohloul"
+    edition : "79"
+    journal : "Phys. Rev. E"
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.79.036113"
+    arxiv : "http://arxiv.org/abs/0811.2349"
     year : 2009
     pagenumber : "036113 (1-9)"
     type : Preprints
 
-  - title : "Time Evolution of Epidemic Disease on Finite and Infinite Networks" 
-    authors : "Pierre-André Noël, B. Davoudi, R.C. Brunham, Louis J. Dubé, B. Pourbohloul" 
-    edition : "79" 
-    journal : "Phys. Rev. E" 
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.79.026101" 
-    arxiv : "http://arxiv.org/abs/0804.1807" 
+  - title : "Time Evolution of Epidemic Disease on Finite and Infinite Networks"
+    authors : "Pierre-André Noël, B. Davoudi, R.C. Brunham, Louis J. Dubé, B. Pourbohloul"
+    edition : "79"
+    journal : "Phys. Rev. E"
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.79.026101"
+    arxiv : "http://arxiv.org/abs/0804.1807"
     year : 2009
     pagenumber : "026101 (1-14)"
     type : Preprints
 
-  - title : "Femtosecond self-reconfiguration of laser-induced plasma patterns in dielectrics " 
-    authors : "Jean-Luc Déziel, Louis J. Dubé, Sandra H. Messaddeq, Younès Messaddeq Charles Varin " 
-    edition : "97" 
-    journal : "Phys. Rev. B " 
-    fulltext : "https://doi.org/10.1103/PhysRevB.97.205116" 
-    arxiv : "https://arxiv.org/abs/1702.02480" 
+  - title : "Femtosecond self-reconfiguration of laser-induced plasma patterns in dielectrics "
+    authors : "Jean-Luc Déziel, Louis J. Dubé, Sandra H. Messaddeq, Younès Messaddeq Charles Varin "
+    edition : "97"
+    journal : "Phys. Rev. B "
+    fulltext : "https://doi.org/10.1103/PhysRevB.97.205116"
+    arxiv : "https://arxiv.org/abs/1702.02480"
     year : 2018
     pagenumber : "205116"
     type : Preprints
 
-  - title : "Constructive feedback for the growth of laser-induced periodic surface structures " 
-    authors : "Jean-Luc Déziel, Joey Dumont, Denis Gagnon, Louis J. Dubé, Sandra Messaddeq, Younès Messaddeq" 
-    edition : "13" 
+  - title : "Constructive feedback for the growth of laser-induced periodic surface structures "
+    authors : "Jean-Luc Déziel, Joey Dumont, Denis Gagnon, Louis J. Dubé, Sandra Messaddeq, Younès Messaddeq"
+    edition : "13"
     pagenumber : "121-124"
     year : 2015
     journal : "Phys. Status Solidi C"
     fulltext : "https://doi.org/10.1002/pssc.201510146"
-    arxiv : "http://arxiv.org/abs/1507.02490" 
+    arxiv : "http://arxiv.org/abs/1507.02490"
     type : Preprints
 
-  - title : "Lorenz-Mie theory for 2D scattering and resonance calculations (tutorial)  " 
-    authors : "Denis Gagnon Louis J. Dubé" 
-    edition : "17" 
-    journal : "J. Opt." 
-    fulltext : "http://dx.doi.org/10.1088/2040-8978/17/10/103501" 
-    arxiv : "http://arxiv.org/abs/1505.07691" 
+  - title : "Lorenz-Mie theory for 2D scattering and resonance calculations (tutorial)  "
+    authors : "Denis Gagnon Louis J. Dubé"
+    edition : "17"
+    journal : "J. Opt."
+    fulltext : "http://dx.doi.org/10.1088/2040-8978/17/10/103501"
+    arxiv : "http://arxiv.org/abs/1505.07691"
     year : 2015
     pagenumber : "103501"
     type : Preprints
 
-  - title : "Toward the formation of crossed laser-induced periodic surface structures " 
-    authors : "Jean-Luc Déziel, Joey Dumont, Denis Gagnon, Louis J. Dubé, Sandra Messaddeq Younès Messaddeq" 
-    edition : "17" 
-    journal : "J. Opt." 
+  - title : "Toward the formation of crossed laser-induced periodic surface structures "
+    authors : "Jean-Luc Déziel, Joey Dumont, Denis Gagnon, Louis J. Dubé, Sandra Messaddeq Younès Messaddeq"
+    edition : "17"
+    journal : "J. Opt."
     year : 2015
     pagenumber : "075405"
-    fulltext : "http://iopscience.iop.org/2040-8986/17/7/075405/" 
-    arxiv : "http://arxiv.org/abs/1410.0583" 
+    fulltext : "http://iopscience.iop.org/2040-8986/17/7/075405/"
+    arxiv : "http://arxiv.org/abs/1410.0583"
     type : Preprints
 
-  - title : "Optimization of integrated polarization filters" 
-    authors : "Denis Gagnon, Joey Dumont, Jean-Luc Déziel Louis J. Dubé" 
-    edition : "39" 
-    journal : "Opt. Lett. " 
-    fulltext : "http://dx.doi.org/10.1364/OL.39.005768" 
+  - title : "Optimization of integrated polarization filters"
+    authors : "Denis Gagnon, Joey Dumont, Jean-Luc Déziel Louis J. Dubé"
+    edition : "39"
+    journal : "Opt. Lett. "
+    fulltext : "http://dx.doi.org/10.1364/OL.39.005768"
     year : 2014
     pagenumber : "5768-5771"
-    arxiv : "http://arxiv.org/abs/1407.7401" 
+    arxiv : "http://arxiv.org/abs/1407.7401"
     type : Preprints
 
-  - title : "Ab initio investigation of lasing thresholds in photonic molecules" 
-    authors : "Denis Gagnon, Joey Dumont, Jean-Luc Déziel, Louis J. Dubé" 
-    edition : "31" 
-    journal : "J. Opt. Soc. Am. B, " 
-    fulltext : "http://dx.doi.org/10.1364/JOSAB.31.001867" 
-    arxiv : "http://arxiv.org/abs/1401.7305" 
+  - title : "Ab initio investigation of lasing thresholds in photonic molecules"
+    authors : "Denis Gagnon, Joey Dumont, Jean-Luc Déziel, Louis J. Dubé"
+    edition : "31"
+    journal : "J. Opt. Soc. Am. B, "
+    fulltext : "http://dx.doi.org/10.1364/JOSAB.31.001867"
+    arxiv : "http://arxiv.org/abs/1401.7305"
     year : 2014
     pagenumber : "1867-1873"
     type : Preprints
 
-  - title : "Multiobjective optimization in integrated photonics design" 
-    authors : "Denis Gagnon, Joey Dumont, Louis J. Dubé" 
-    edition : "38" 
-    journal : "Opt. Lett." 
+  - title : "Multiobjective optimization in integrated photonics design"
+    authors : "Denis Gagnon, Joey Dumont, Louis J. Dubé"
+    edition : "38"
+    journal : "Opt. Lett."
     year : 2013
     pagenumber : "2181-2184"
-    arxiv : "http://arxiv.org/abs/1305.5455" 
+    arxiv : "http://arxiv.org/abs/1305.5455"
     fulltext : "http://dx.doi.org/10.1364/OL.38.002181"
     type : Preprints
 
-  - title : "Coherent beam shaping using two-dimensional photonic crystals" 
-    authors : "Denis Gagnon, Joey Dumont, Louis J. Dubé" 
-    journal : "ICTON" 
+  - title : "Coherent beam shaping using two-dimensional photonic crystals"
+    authors : "Denis Gagnon, Joey Dumont, Louis J. Dubé"
+    journal : "ICTON"
     edition : 15
     pagenumber : "1-4"
     year : 2013
-    fulltext : "http://dx.doi.org/10.1109/ICTON.2013.6602751" 
-    arxiv : "http://arxiv.org/abs/1305.0193" 
+    fulltext : "http://dx.doi.org/10.1109/ICTON.2013.6602751"
+    arxiv : "http://arxiv.org/abs/1305.0193"
     type : Preprints
 
-  - title : "S and Q Matrices Reloaded: applications to open, inhomogeneous, and complex cavities" 
-    authors : "Guillaume Painchaud-April, Joey Dumont, Denis Gagnon, Louis J. Dubé" 
-    journal : "ICTON" 
+  - title : "S and Q Matrices Reloaded: applications to open, inhomogeneous, and complex cavities"
+    authors : "Guillaume Painchaud-April, Joey Dumont, Denis Gagnon, Louis J. Dubé"
+    journal : "ICTON"
     edition : 15
     year : 2013
     pagenumber : "1-4"
-    fulltext : "http://dx.doi.org/10.1109/ICTON.2013.6602811" 
-    arxiv : "http://arxiv.org/abs/1305.0473" 
+    fulltext : "http://dx.doi.org/10.1109/ICTON.2013.6602811"
+    arxiv : "http://arxiv.org/abs/1305.0473"
     type : Preprints
 
-  - title : "Beam shaping using genetically optimized two-dimensional photonic crystals" 
-    authors : "Denis Gagnon, Joey Dumont, Louis J. Dubé" 
-    edition : "29" 
-    journal : "J. Opt. Soc. Am. A " 
+  - title : "Beam shaping using genetically optimized two-dimensional photonic crystals"
+    authors : "Denis Gagnon, Joey Dumont, Louis J. Dubé"
+    edition : "29"
+    journal : "J. Opt. Soc. Am. A "
     year : 2012
     pagenumber : "2673-2678"
-    fulltext : "http://dx.doi.org/10.1364/JOSAA.29.002673" 
-    arxiv : "http://arxiv.org/abs/1204.5380" 
+    fulltext : "http://dx.doi.org/10.1364/JOSAA.29.002673"
+    arxiv : "http://arxiv.org/abs/1204.5380"
     type : Preprints
 
-  - title : "Phase Space Engineering in Optical Microcavities I: Preserving near-field uniformity while inducing far-field directionality" 
-    authors : "Guillaume Painchaud-April, Julien Poirier, Denis Gagnon, Louis J. Dubé" 
-    journal : "ICTON" 
+  - title : "Phase Space Engineering in Optical Microcavities I: Preserving near-field uniformity while inducing far-field directionality"
+    authors : "Guillaume Painchaud-April, Julien Poirier, Denis Gagnon, Louis J. Dubé"
+    journal : "ICTON"
     year : 2010
     edition : 12
     pagenumber : "1-4"
-    fulltext : "http://dx.doi.org/10.1109/ICTON.2010.5548943" 
-    arxiv : "http://arxiv.org/abs/1005.1092" 
+    fulltext : "http://dx.doi.org/10.1109/ICTON.2010.5548943"
+    arxiv : "http://arxiv.org/abs/1005.1092"
     type : Preprints
 
-  - title : "Phase Space Engineering in Optical Microcavities II. Controlling the far-field" 
-    authors : "Julien Poirier, Guillaume Painchaud-April, Denis Gagnon, Louis J. Dubé" 
-    journal : "ICTON" 
+  - title : "Phase Space Engineering in Optical Microcavities II. Controlling the far-field"
+    authors : "Julien Poirier, Guillaume Painchaud-April, Denis Gagnon, Louis J. Dubé"
+    journal : "ICTON"
     year : 2010
     edition : 12
     pagenumber : "1-4"
-    fulltext : "http://dx.doi.org/10.1109/ICTON.2010.5549310" 
-    arxiv : "http://arxiv.org/abs/1005.1093" 
+    fulltext : "http://dx.doi.org/10.1109/ICTON.2010.5549310"
+    arxiv : "http://arxiv.org/abs/1005.1093"
     type : Preprints
 
-  - title : "Universality of Level Spacing Distributions in Classical Chaos" 
+  - title : "Universality of Level Spacing Distributions in Classical Chaos"
     authors : "J.F. Laprise, O. Blondeau-Fournier, J. Kröger, H. Kröger, Pierre-Yves St-Louis, Louis J. Dubé, E. Endresse, A. Burra, R. Zomorrodi, G. Melkonyan, and K.J.M. Moriarty"
-    journal : "Phys. Lett. A " 
-    edition : "372" 
+    journal : "Phys. Lett. A "
+    edition : "372"
     year : 2008
-    pagenumber : "4574-4577" 
-    fulltext : "http://dx.doi.org/10.1016/j.physleta.2008.04.044" 
+    pagenumber : "4574-4577"
+    fulltext : "http://dx.doi.org/10.1016/j.physleta.2008.04.044"
     type : Preprints
 
-  - title : "Chaotic Rotations Generated by Light in Nematic Liquid Crystals" 
+  - title : "Chaotic Rotations Generated by Light in Nematic Liquid Crystals"
     authors : "Étienne Brasselet, Louis J. Dubé"
-    edition : "453" 
+    edition : "453"
     year : 2006
     pagenumber : "93-105"
-    journal : "Mol. Cryst. Liq. Cryst." 
-    fulltext : "http://dx.doi.org/10.1080/15421400600651716" 
+    journal : "Mol. Cryst. Liq. Cryst."
+    fulltext : "http://dx.doi.org/10.1080/15421400600651716"
     type : Preprints
 
-  - title : "Light-Induced Chaotic Rotations in Nematic Liquid Crystals" 
+  - title : "Light-Induced Chaotic Rotations in Nematic Liquid Crystals"
     authors : "Étienne Brasselet, Louis J. Dubé"
-    journal : "Phys. Rev. E " 
-    edition : "73" 
-    pagenumber : "021704 (1-11)" 
+    journal : "Phys. Rev. E "
+    edition : "73"
+    pagenumber : "021704 (1-11)"
     year : 2006
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.73.021704" 
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.73.021704"
     type : Preprints
 
-  - title : "Transverse Nonlocal Effects in Optical Reorientation of Nematic Liquid Crystals" 
-    journal : "J. Opt. Soc. Am. B " 
+  - title : "Transverse Nonlocal Effects in Optical Reorientation of Nematic Liquid Crystals"
+    journal : "J. Opt. Soc. Am. B "
     authors : "Étienne Brasselet, Louis J. Dubé"
-    edition : "23" 
-    pagenumber : "36-44" 
+    edition : "23"
+    pagenumber : "36-44"
     year : 2006
-    fulltext : "http://dx.doi.org/10.1364/JOSAB.23.000036" 
+    fulltext : "http://dx.doi.org/10.1364/JOSAB.23.000036"
     type : Preprints
 
-  - title : "Bifurcation Analysis of Optically Induced Dynamics in Nematic Liquid Crystals: Elliptical Polarization at Normal Incidence" 
+  - title : "Bifurcation Analysis of Optically Induced Dynamics in Nematic Liquid Crystals: Elliptical Polarization at Normal Incidence"
     authors : "D.O. Krimer, L. Kramer, Étienne Brasselet, T. Galstian, and Louis J. Dubé"
-    journal : "J. Opt. Soc. Am. B " 
-    edition : "22" 
-    pagenumber : "1681-1690" 
+    journal : "J. Opt. Soc. Am. B "
+    edition : "22"
+    pagenumber : "1681-1690"
     year : 2005
-    fulltext : "http://dx.doi.org/10.1364/JOSAB.22.001681" 
+    fulltext : "http://dx.doi.org/10.1364/JOSAB.22.001681"
     type : Preprints
 
-  - title : "Bifurcation Analysis of Optically Induced Dynamics in Nematic Liquid Crystals: Circular Polarization at Normal Incidence" 
+  - title : "Bifurcation Analysis of Optically Induced Dynamics in Nematic Liquid Crystals: Circular Polarization at Normal Incidence"
     authors : "Étienne Brasselet, T. Galstian, Louis J. Dubé, D.O. Krimer, L. Kramer"
-    journal : "J. Opt. Soc. Am. B " 
-    edition : "22" 
-    journal : "1671-1680" 
+    journal : "J. Opt. Soc. Am. B "
+    edition : "22"
+    journal : "1671-1680"
     year : 2005
-    fulltext : "http://dx.doi.org/10.1364/JOSAB.22.001671" 
+    fulltext : "http://dx.doi.org/10.1364/JOSAB.22.001671"
     type : Preprints
 
-  - title : "On Jacobian Matrices for Flows" 
+  - title : "On Jacobian Matrices for Flows"
     authors : "Bernard Doyon, Louis J. Dubé"
-    journal : "Chaos" 
-    edition : "15" 
-    pagenumber : "013108 (1-8)" 
+    journal : "Chaos"
+    edition : "15"
+    pagenumber : "013108 (1-8)"
     year : 2005
-    fulltext : "http://dx.doi.org/10.1063/1.1854031" 
+    fulltext : "http://dx.doi.org/10.1063/1.1854031"
     type : Preprints
 
-  - title : "Dynamics of Light Induced Reorientation of Nematic Liquid Crystals in Spatially Confined Beams" 
+  - title : "Dynamics of Light Induced Reorientation of Nematic Liquid Crystals in Spatially Confined Beams"
     authors : "Étienne Brasselet, T. Galstian, Louis J. Dubé"
-    journal : "Mol. Cryst. Liq. Cryst." 
-    edition : "421" 
-    pagenumber : "69-80" 
+    journal : "Mol. Cryst. Liq. Cryst."
+    edition : "421"
+    pagenumber : "69-80"
     year : 2004
-    fulltext : "http://dx.doi.org/10.1080/15421400490501400" 
+    fulltext : "http://dx.doi.org/10.1080/15421400490501400"
     type : Preprints
 
-  - title : "Optically Induced Dynamics in Nematic Liquid Crystals: The Role of Finite Beam Size" 
+  - title : "Optically Induced Dynamics in Nematic Liquid Crystals: The Role of Finite Beam Size"
     authors : "Étienne Brasselet, Bernard Doyon, T.V. Galstian, Louis J. Dubé"
-    journal : "Phys. Rev. E " 
-    edition : "69" 
-    pagenumber : "021701 (1-12)" 
+    journal : "Phys. Rev. E "
+    edition : "69"
+    pagenumber : "021701 (1-12)"
     year : 2004
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.69.021701" 
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.69.021701"
     type : Preprints
 
-  - title : "Optically Induced Dynamics in Nematic Liquid Crystals: The Role of Twist Deformation and Asymmetry" 
+  - title : "Optically Induced Dynamics in Nematic Liquid Crystals: The Role of Twist Deformation and Asymmetry"
     authors : "Étienne Brasselet, Bernard Doyon, T.V. Galstian, Louis J. Dubé"
-    journal : "Phys. Rev. E" 
-    edition : "67" 
-    pagenumber : "031706 (1-13)" 
+    journal : "Phys. Rev. E"
+    edition : "67"
+    pagenumber : "031706 (1-13)"
     year : 2003
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.67.031706" 
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.67.031706"
     type : Preprints
 
-  - title : "New Laser Induced Spatio-Temporal Transition In Nematics" 
+  - title : "New Laser Induced Spatio-Temporal Transition In Nematics"
     authors : "Étienne Brasselet, Bernard Doyon, T.V. Galstian, Louis J. Dubé"
-    journal : "Phys. Lett. A" 
-    edition : "299" 
-    pagenumber : "212-216" 
+    journal : "Phys. Lett. A"
+    edition : "299"
+    pagenumber : "212-216"
     year : 2002
-    fulltext : "http://www.sciencedirect.com/science/article/B6TVM-45S9J30-2/2/9c8ff4c89438fb58eefab3e30fb06d70" 
+    fulltext : "http://www.sciencedirect.com/science/article/B6TVM-45S9J30-2/2/9c8ff4c89438fb58eefab3e30fb06d70"
     type : Preprints
 
-  - title : "Targeting Unknown and Unstable Periodic Orbits" 
+  - title : "Targeting Unknown and Unstable Periodic Orbits"
     authors : "Bernard Doyon and Louis J. Dubé"
-    journal : "Phys. Rev. E" 
-    edition : "65" 
-    pagenumber : "037202 (1-4)" 
+    journal : "Phys. Rev. E"
+    edition : "65"
+    pagenumber : "037202 (1-4)"
     year : 2002
-    fulltext : "http://dx.doi.org/10.1103/PhysRevE.65.037202" 
+    fulltext : "http://dx.doi.org/10.1103/PhysRevE.65.037202"
     type : Preprints
 
-  - title : "The Control of Hamiltonian Chaos" 
+  - title : "The Control of Hamiltonian Chaos"
     authors : "Louis J. Dubé, Philippe Després, Bernard Doyon, Babak Pourbohloul"
     journal : "Physics in Canada – Special Issue on Nonlinear Dynamics"
-    edition : "57" 
-    pagenumber : "77-82" 
+    edition : "57"
+    pagenumber : "77-82"
     year : 2001
     fulltext : "assets/pdf/proceedings/control_hamiltonian_chaos.pdf"
     type : Preprints
 
-  - title : "Detection and Prediction of Epileptic Seizures: A Patient's Case Study" 
-    journal : "Proceedings of Congreso Argentino de Ciencia de la Computación" 
+  - title : "Detection and Prediction of Epileptic Seizures: A Patient's Case Study"
+    journal : "Proceedings of Congreso Argentino de Ciencia de la Computación"
     authors : "P.F. Verdes, G. Deco, D. Obradovic, Louis J. Dubé, R. Hopfengaertner, H. Stefan"
-    pagenumber : "1493-1503" 
+    pagenumber : "1493-1503"
     year : 2000
     type : Preprints
 
-  - title : "The Control of Dynamical Systems -- Recovering Order from Chaos --" 
+  - title : "The Control of Dynamical Systems -- Recovering Order from Chaos --"
     journal : "AIP Conference Proceedings"
     authors : "Louis J. Dubé, Philippe Després"
-    edition : "500" 
+    edition : "500"
     year : 2000
     pagenumber : "551-570"
     fulltext : "assets/pdf/proceedings/control_dynamical_system.pdf"
     type : Preprints
 
-  - title : "Zoom sur le Chaos" 
-    authors : "Louis J. Dubé" 
-    edition : "18" 
-    journal : "Interface" 
+  - title : "Zoom sur le Chaos"
+    authors : "Louis J. Dubé"
+    edition : "18"
+    journal : "Interface"
     year : 1997
     pagenumber : "50-51"
     fulltext : "assets/pdf/proceedings/zoom_chaos.pdf"
     type : Preprints
-
-
-
-
