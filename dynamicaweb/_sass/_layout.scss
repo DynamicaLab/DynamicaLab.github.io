@@ -26,7 +26,7 @@ a:hover {
 }
 
 .page-content {
-	// Appearance 
+	// Appearance
 	background-color: white;
 
 	//  Layout
@@ -38,7 +38,7 @@ a:hover {
 	.content {
 		padding: 60px;
 	}
-	
+
 }
 .post-page {
 	max-width: 900px;
@@ -85,7 +85,7 @@ a:hover {
 		font-size: 120%;
 		padding-right: 6px;
 	}
-	
+
 }
 
 .d3graph {
@@ -100,7 +100,7 @@ a:hover {
 	min-height: 300px;
 	background-color: $header-default-background-color;
 	// background-image: url("/assets/images/background/default.jpg");
-	// background-position: center;  Center the image 
+	// background-position: center;  Center the image
 	// background-repeat: no-repeat; /* Do not repeat the image */
 	// background-size: cover; /* Resize the background image to cover the entire container */
 
@@ -137,7 +137,7 @@ ul.post-list {
 		}
 
 		.post-title a, .post-title{
-			font-size: 150%;
+			font-size: 125%;
 			font-weight: bold;
 		}
 		img {
@@ -359,7 +359,7 @@ ul.event-list {
 
 	.publi-year-category {
 	}
-	
+
 
 	.publication-year-container {
 		padding-bottom: 60px;
@@ -367,7 +367,7 @@ ul.event-list {
 	.separator {
 		margin-top: 30px;
 	}
-	
+
 }
 
 .publication-year-container {
@@ -406,10 +406,10 @@ ul.event-list {
 	min-height: 60px;
 	border-bottom: 1px solid rgba(0,0, 0, .1);
 }
-	
+
 // Nav-bar
 header {
-	
+
 	margin-top: 0px;
 	padding: 0;
 	margin: 0;
@@ -449,7 +449,7 @@ header {
 			border-bottom: 1px solid rgba(8, 69, 148, .5);
 			transition: 0.2s background-color;
 
-			a.nav-link { 
+			a.nav-link {
 				color: $official-blue !important;
 			}
 		}
@@ -457,13 +457,13 @@ header {
 			background-color: transparent !important;
 			transition: 0.2s all;
 			border-bottom: 1px solid rgba(255, 255, 255, .3);
-			a.nav-link { 
+			a.nav-link {
 				color: white !important;
 			}
 		}
 
 
-		
+
 	}
 }
 
