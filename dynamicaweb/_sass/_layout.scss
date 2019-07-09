@@ -1,4 +1,4 @@
-
+header
 html, body {
 	background-color: $html-back-color;
 	padding: 0px;
@@ -97,7 +97,7 @@ a:hover {
 	//  Layout
 	width: 100%;
 	margin: auto;
-	min-height: 300px;
+	min-height: 150px;
 	background-color: $header-default-background-color;
 	// background-image: url("/assets/images/background/default.jpg");
 	// background-position: center;  Center the image
