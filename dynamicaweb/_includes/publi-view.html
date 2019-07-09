@@ -8,7 +8,7 @@
 
 	<!-- In submission -->
 	{% if include.publi.insubmission %}
-      <p class="publi-submission">In submission</p>
+      <p class="publi-submission">Submitted</p>
 	{% else %}
       <!-- journals -->
     	{% if include.publi.journal %}
@@ -26,7 +26,7 @@
 		<a class="fulltext" href="{{ include.publi.fulltext }}">Full text</a>
 	{% endif %}
 	{% if include.publi.arxiv %}
-		<a class="arxiv" href="{{ include.publi.arxiv }}">Arxiv</a>
+		<a class="arxiv" href="{{ include.publi.arxiv }}">arXiv</a>
 	{% endif %}
 	{% if include.publi.github %}
 		<a class="github" href="{{ include.publi.github }}">Github</a>
