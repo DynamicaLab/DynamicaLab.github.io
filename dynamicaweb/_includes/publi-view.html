@@ -1,14 +1,14 @@
 
 <div class="publi-container {{include.publi.type}}-item">
-	{% if include.publi.insubmission %}
-		<span class="publi-submission">In submission</span>
-	{% endif %}
+	<!-- {% if include.publi.insubmission %} -->
+		<!-- <span class="publi-submission">In submission</span> -->
+	<!-- {% endif %} -->
 	<h5 class="publi-name">{{include.publi.title}}</h5>
 	<p class="publi-authors">{{include.publi.authors}}</p>
 
 	<!-- In submission -->
 	{% if include.publi.insubmission %}
-	
+      <p class="publi-submission">In submission</p>
 	{% else %}
       <!-- journals -->
     	{% if include.publi.journal %}
@@ -20,18 +20,18 @@
           {% endif %}
       {% endif %}
 	{% endif %}
-	<br>
+	<!-- <br> -->
 	<!-- Btns -->
 	{% if include.publi.fulltext %}
-		<a class="fulltext" href="{{ include.publi.fulltext }}">Full text</a> 
+		<a class="fulltext" href="{{ include.publi.fulltext }}">Full text</a>
 	{% endif %}
 	{% if include.publi.arxiv %}
-		<a class="arxiv" href="{{ include.publi.arxiv }}">Arxiv</a> 
-	{% endif %}	
+		<a class="arxiv" href="{{ include.publi.arxiv }}">Arxiv</a>
+	{% endif %}
 	{% if include.publi.github %}
-		<a class="github" href="{{ include.publi.github }}">Github</a> 
+		<a class="github" href="{{ include.publi.github }}">Github</a>
 	{% endif %}
   {% if include.publi.chapter %}
-		<a class="chapter" href="{{ include.publi.chapter }}">Chapter</a> 
+		<a class="chapter" href="{{ include.publi.chapter }}">Chapter</a>
 	{% endif %}
 </div>
