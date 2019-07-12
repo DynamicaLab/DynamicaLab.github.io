@@ -1,4 +1,5 @@
-<div class="container">
+<div class="container" {% if page.use_large_title %} style="min-height: 270px"{% endif %}>
+	{% if page.use_large_title %}<br>{% endif %}
 	<h1 class="header-front-title">{{ page.title }}</h1>
 	<h2 class="header-sub-title">{{ page.subtitle }}</h2>
 </div>

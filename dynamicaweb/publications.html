@@ -36,20 +36,35 @@ custom_js:
       <h1>Conferences</h1>
     <!-- News section -->
     <ul class="publi-list">
-      {% assign publiss = site.data.conferences.conferences | group_by:"conf" %}
-      {% assign publis = publiss | sort: "name" | reverse %}
-      {% for pupliyear in publis %}
+      {% assign publiss = site.data.conferences.conferences | group_by:"year" %}
+      {% for publibunch in publiss %}
+        {% assign publis = publibunch.items | group_by:"conf" %}
+        {% for pupliyear in publis %}
+          <div class="publication-year-container">
+            <h6>{{ pupliyear.items[0].year }} </h6>
+            <h5 class="publi-year-category" id="year{{pupliyear.name}}">{{ pupliyear.name }}</h5>
+            <h6 class="publi-year-info">{{ pupliyear.items[0].city }}, {{ pupliyear.items[0].country }} </h6>
+            {% for pupli in pupliyear.items %}
+              {% include conference-view.html publi=pupli%}
+            {% endfor %}
+            <hr class="separator">
+          </div>
+        {% endfor %}
+
+      {% endfor %}
+
+<!--       
+      {% for pupliyear in publiss %}
         <div class="publication-year-container">
           <h6>{{ pupliyear.items[0].year }} </h6>
           <h5 class="publi-year-category" id="year{{pupliyear.name}}">{{ pupliyear.name }}</h5>
           <h6 class="publi-year-info">{{ pupliyear.items[0].city }}, {{ pupliyear.items[0].country }} </h6>
           {% for pupli in pupliyear.items %}
-            <!-- {{ publi}} -->
             {% include conference-view.html publi=pupli%}
           {% endfor %}
           <hr class="separator">
         </div>
-      {% endfor %}
+      {% endfor %} -->
     </ul>
   </div>
 
@@ -88,8 +103,9 @@ custom_js:
           <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-thesis">Thesis</a>
         </div>
 
-      <hr>
+      
       <div class="filtering-articles filtering-container publi-active">
+        <hr>
         <h5 class="blue-subtitle">Year</h5>
         {% assign publiss = site.data.publications.articles | group_by:"year" %}
         {% assign publis = publiss | sort: "name" | reverse %}
@@ -99,7 +115,8 @@ custom_js:
           </div>
         {% endfor %}
       </div>
-      <div class="filtering-conferences filtering-container publi-hidden">
+<!--       <div class="filtering-conferences filtering-container publi-hidden">
+        <hr>
         <h5 class="blue-subtitle">Conference</h5>
         {% assign publiss = site.data.conferences.conferences | group_by:"conf" %}
         {% assign publis = publiss | sort: "name" | reverse %}
@@ -108,8 +125,9 @@ custom_js:
             <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
           </div>
         {% endfor %}
-      </div>
+      </div> -->
       <div class="filtering-thesis filtering-container publi-hidden">
+        <hr>
         <h5 class="blue-subtitle">Thesis</h5>
         {% assign publiss = site.data.thesis.thesis | group_by:"type" %}
         {% assign publis = publiss | sort: "name" | reverse %}
