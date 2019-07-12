@@ -8,6 +8,7 @@ leaders:
     image: "/assets/images/members/antoine.jpg"
     website: "http://antoineallard.github.io/"
     github: "https://github.com/antoineallard"
+    twitter: "http://twitter.com/all_are"
 
   - name: Patrick
     lastname : Desrosiers

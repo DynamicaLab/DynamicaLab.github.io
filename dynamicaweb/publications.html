@@ -1,9 +1,9 @@
 ---
 layout: publication
 background: 'black'
-title: Recent publications
-subtitle: Do it like you mean it
-custom_js: 
+title: Publications
+subtitle:
+custom_js:
   - /assets/js/d3.v4.min.js
   - /assets/js/d3_static_graph.js
 ---
@@ -51,7 +51,7 @@ custom_js:
         </div>
       {% endfor %}
     </ul>
-  </div> 
+  </div>
 
   <!-- THESIS -->
   <div class="col-md-8 publi-hidden" id="container-thesis">
@@ -72,7 +72,7 @@ custom_js:
       {% endfor %}
     </ul>
   </div>
- 
+
 
   <div class="col-md-4">
     <div class="right-navbar">
@@ -139,7 +139,7 @@ custom_js:
       for (var i = 0; i < currents.length; i++) {
         currents[i].className = currents[i].className.replace("publi-active", "publi-hidden");
       }
-      
+
       _id = this.id.replace("btn-", "container-");
       var container = document.getElementById(_id);
       container.className = container.className.replace("publi-hidden", "publi-active");
@@ -170,5 +170,3 @@ custom_js:
 
 
 </script>
-
-

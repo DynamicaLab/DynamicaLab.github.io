@@ -2,9 +2,12 @@
 	<img src="{{include.member.image}}" class="member-image">
 	<h5 class="member-name"><span class="firstname">{{include.member.name}} </span>{{include.member.lastname}}</h5>
 	{% if include.member.github %}
-		<a href="{{ include.member.github }}"><i class="icon ion-logo-github member-ion-icons"></i></a> 
+		<a href="{{ include.member.github }}"><i class="icon ion-logo-github member-ion-icons"></i></a>
 	{% endif %}
+  {% if include.member.twitter %}
+  <a href="{{ include.member.twitter }}"><i class="icon ion-logo-twitter member-ion-icons"></i></a>
+  {% endif %}
 	{% if include.member.website %}
-		<a href="{{ include.member.website }}"><i class="icon ion-md-globe member-ion-icons"></i></a> 
+		<a href="{{ include.member.website }}"><i class="icon ion-md-globe member-ion-icons"></i></a>
 	{% endif %}
 </div>

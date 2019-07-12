@@ -1,4 +1,4 @@
-
+header
 html, body {
 	background-color: $html-back-color;
 	padding: 0px;
@@ -23,10 +23,11 @@ a:hover {
 	font-size: 100%;
 	font-weight: bold;
 	padding-bottom: 0px;
+  padding-left: 10px;
 }
 
 .page-content {
-	// Appearance 
+	// Appearance
 	background-color: white;
 
 	//  Layout
@@ -38,7 +39,7 @@ a:hover {
 	.content {
 		padding: 60px;
 	}
-	
+
 }
 .post-page {
 	max-width: 900px;
@@ -80,12 +81,13 @@ a:hover {
 }
 .social-network-container {
 	padding-top: 0px;
+  padding-left: 10px;
 	a {
 		color: gray;
 		font-size: 120%;
 		padding-right: 6px;
 	}
-	
+
 }
 
 .d3graph {
@@ -97,10 +99,10 @@ a:hover {
 	//  Layout
 	width: 100%;
 	margin: auto;
-	min-height: 300px;
+	min-height: 150px;
 	background-color: $header-default-background-color;
 	// background-image: url("/assets/images/background/default.jpg");
-	// background-position: center;  Center the image 
+	// background-position: center;  Center the image
 	// background-repeat: no-repeat; /* Do not repeat the image */
 	// background-size: cover; /* Resize the background image to cover the entire container */
 
@@ -137,7 +139,7 @@ ul.post-list {
 		}
 
 		.post-title a, .post-title{
-			font-size: 150%;
+			font-size: 125%;
 			font-weight: bold;
 		}
 		img {
@@ -214,7 +216,7 @@ ul.event-list {
 	h4 {
 		color: $official-blue;
 		text-transform: uppercase;
-		font-size: 100%;
+		font-size: 125%;
 		font-weight: bold;
 		padding-bottom: 20px;
 	}
@@ -326,9 +328,12 @@ ul.event-list {
 			color: black;
 		}
 		.publi-authors {
-			margin-bottom: 5px;
+			margin-bottom: 0px;
 
 		}
+    .publi-ref {
+      margin-bottom: 10px;
+    }
 		p {
 			margin: 0;
 			padding: 0;
@@ -340,10 +345,11 @@ ul.event-list {
 		}
 		.publi-submission {
 			color: $strong-orange;
-			text-transform: uppercase;
+			// text-transform: uppercase;
 			font-size: 100%;
 			font-weight: bold;
-			padding-bottom: 20px;
+			// padding-bottom: 20px;
+			padding-bottom: 10px;
 		}
 
 
@@ -359,7 +365,7 @@ ul.event-list {
 
 	.publi-year-category {
 	}
-	
+
 
 	.publication-year-container {
 		padding-bottom: 60px;
@@ -367,7 +373,7 @@ ul.event-list {
 	.separator {
 		margin-top: 30px;
 	}
-	
+
 }
 
 .publication-year-container {
@@ -406,10 +412,10 @@ ul.event-list {
 	min-height: 60px;
 	border-bottom: 1px solid rgba(0,0, 0, .1);
 }
-	
+
 // Nav-bar
 header {
-	
+
 	margin-top: 0px;
 	padding: 0;
 	margin: 0;
@@ -449,7 +455,7 @@ header {
 			border-bottom: 1px solid rgba(8, 69, 148, .5);
 			transition: 0.2s background-color;
 
-			a.nav-link { 
+			a.nav-link {
 				color: $official-blue !important;
 			}
 		}
@@ -457,13 +463,13 @@ header {
 			background-color: transparent !important;
 			transition: 0.2s all;
 			border-bottom: 1px solid rgba(255, 255, 255, .3);
-			a.nav-link { 
+			a.nav-link {
 				color: white !important;
 			}
 		}
 
 
-		
+
 	}
 }
 
