@@ -1,4 +1,14 @@
 articles:
+  - title : "Smeared phase transition of percolation on real complex networks"
+    authors : "Laurent Hébert-Dufresne, Antoine Allard"
+    year: 2019
+    journal: Phys. Rev. Research
+    edition: "1"
+    pagenumber: "013009"
+    arxiv : "https://arxiv.org/abs/1810.00735"
+    fulltext: "https://doi.org/10.1103/PhysRevResearch.1.013009"
+    type : Preprints
+
   - title : "On the accuracy of message-passing approaches to percolation in complex networks"
     authors : "Antoine Allard, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/1906.10377"
