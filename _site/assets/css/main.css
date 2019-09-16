@@ -74,6 +74,9 @@ ul.event-list .event-date-past { color: gray !important; }
 .portfolio-container-header .portfolio-meta h1 { margin: 0 0 0 0; padding-top: 20px; line-height: 100%; opacity: 1; font-size: large; color: #222222; }
 .portfolio-container-header .portfolio-meta p { color: #222222; margin-top: 10px; line-height: 21px; font-weight: regular; }
 
+.in-submission-div { background-color: #eff3ff; padding: 20px; padding-bottom: 4px; }
+.in-submission-div .publi-list .publication-year-container { padding-bottom: 0px !important; }
+
 .publi-list { padding-left: 0px; padding-right: 30px; }
 .publi-list .publi-year-category { font-weight: bold; font-size: 200%; color: #084594; }
 .publi-list h6 { font-size: 120%; font-weight: bold; }
@@ -82,7 +85,7 @@ ul.event-list .event-date-past { color: gray !important; }
 .publi-list .publi-container .publi-name { margin-top: 0px; padding-top: 4px; font-weight: bolder; }
 .publi-list .publi-container .edition { font-weight: bold; }
 .publi-list .publi-container h5 { padding-top: 12px; margin: 0px; font-size: 110%; color: black; }
-.publi-list .publi-container .publi-authors { margin-bottom: 8px; }
+.publi-list .publi-container .publi-authors { margin-bottom: 0px; }
 .publi-list .publi-container .publi-ref { margin-bottom: 10px; }
 .publi-list .publi-container p { margin: 0; padding: 0; }
 .publi-list .publi-container .thesis-authors { margin: 0; padding: 0; text-transform: uppercase; }
@@ -106,10 +109,10 @@ header .navigation-wrapper { max-width: 1300px; height: auto; font-weight: light
 header .navigation-wrapper .nav-item { margin-left: 10px; }
 header .navigation-wrapper a.nav-link { letter-spacing: 1px; }
 header .navigation-wrapper a.nav-link:hover { opacity: 0.6; transition: 0.1s all; }
-header .navigation-wrapper .navbar-white { background-color: white !important; border-bottom: 1px solid rgba(8, 69, 148, 0.5); transition: 0.2s background-color; }
-header .navigation-wrapper .navbar-white a.nav-link { color: #084594 !important; }
-header .navigation-wrapper .navbar-transparent { background-color: transparent !important; transition: 0.2s all; border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
-header .navigation-wrapper .navbar-transparent a.nav-link { color: white !important; }
+header .navigation-wrapper .navbar-white { background-color: white; border-bottom: 1px solid rgba(8, 69, 148, 0.5); transition: 0.2s background-color; }
+header .navigation-wrapper .navbar-white a.nav-link { color: #084594; }
+header .navigation-wrapper .navbar-transparent { background-color: transparent; transition: 0.2s all; border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
+header .navigation-wrapper .navbar-transparent a.nav-link { color: white; }
 
 footer { background-color: #f7f7f7; padding: 60px; width: 100%; min-height: 300px; }
 footer .footer-container { max-width: 1000px; margin: auto; }
@@ -121,4 +124,6 @@ footer .footer-container .footer-logo { max-height: 50px; width: auto; margin: 1
 @media only screen and (max-width: 764px) { footer { padding-left: 16px; padding-right: 16px; }
   footer .subcontainer { padding-bottom: 30px; }
   .page-content .content { padding-left: 16px; padding-right: 16px; } }
-@media only screen and (max-width: 580px) { .subcontainer { padding-bottom: 30px; } }
+@media only screen and (max-width: 580px) { .subcontainer { padding-bottom: 30px; }
+  .navbar-transparent { background-color: white !important; border-bottom: 1px solid rgba(8, 69, 148, 0.5); transition: 0.2s background-color; }
+  .navbar-transparent a.nav-link { color: #084594 !important; } }

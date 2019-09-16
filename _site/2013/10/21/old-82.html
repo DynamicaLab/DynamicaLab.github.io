@@ -4,6 +4,7 @@
   <meta charset="utf-8">
 <title>Dynamica Research Group</title>
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="/assets/css/syntax.css">
 <link rel="stylesheet" href="/assets/fonts/manrope/fonts/web/index.css" />
@@ -16,24 +17,39 @@
 </head>
 <body>
 
-	
+	<header>
 
-<header>
+
   <div class="navigation-wrapper">
+
+    
+
       <nav class="navbar navbar-expand-sm navbar-fixed-top navbar-transparent" id="navbar">
-        <div class="container">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="/">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/members.html">Members</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/publications.html">Publications</a>
-            </li>
-          </ul>
-        </div>
+
+        <!-- Collapse button -->
+        <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
+      aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i
+          class="fas fa-bars fa-1x"></i></span></button>
+
+          <!-- Collapsible content -->
+          <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+
+            <!-- Links -->
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="/">Home  <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/members.html">Members</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/publications.html">Publications</a>
+              </li>
+            </ul>
+            <!-- Links -->
+          </div>
+          <!-- Collapsible content -->
+
       </nav>
   </div>
 </header>
@@ -88,8 +104,17 @@ Is there more to say?</p>
       <div class="col-md-4">
         <div class="subcontainer">
           <h4>Affiliations</h4>
-          <a href="http://ulaval.ca"><img class="footer-logo" src="/assets/images/logos/logo_ul.png"></a>
-          <a href="https://www.ulaval.ca/la-recherche/unites-de-recherche/centres/centre-interdisciplinaire-en-modelisation-mathematique-de-luniversite-laval-cimmul.html"><img class="footer-logo" src="/assets/images/logos/cimmul.png"></a>
+          <div class="row">
+            <div class="col-md-6">
+              <a href="http://ulaval.ca"><img class="footer-logo" src="/assets/images/logos/logo_ul.png"></a>
+            </div>
+            <div class="col-md-4">
+              <a href="https://www.ulaval.ca/la-recherche/unites-de-recherche/centres/centre-interdisciplinaire-en-modelisation-mathematique-de-luniversite-laval-cimmul.html"><img class="footer-logo" src="/assets/images/logos/cimmul.png"></a>
+            </div>
+            <div class="col-md-4">
+              <a href="https://sentinellenord.ulaval.ca"><img class="footer-logo" src="/assets/images/logos/sn.png"></a>
+            </div>
+          </div>
         </div>
       </div>
     </div>

@@ -293,6 +293,17 @@ ul.event-list {
 
 	}
 // ----- publications ----
+.in-submission-div {
+	background-color: #eff3ff;
+	// border: 1px solid black;
+	padding: 20px;
+	padding-bottom: 4px;
+	.publi-list {
+		.publication-year-container {
+			padding-bottom: 0px !important;
+		}
+	}
+}
 .publi-list {
 	padding-left:0px;
 	padding-right: 30px;
@@ -329,7 +340,7 @@ ul.event-list {
 			color: black;
 		}
 		.publi-authors {
-			margin-bottom: 8px;
+			margin-bottom: 0px;
 
 		}
     .publi-ref {
@@ -452,20 +463,21 @@ header {
 		}
 
 		.navbar-white {
-			background-color: white !important;
+			background-color: white ;
 			border-bottom: 1px solid rgba(8, 69, 148, .5);
 			transition: 0.2s background-color;
 
 			a.nav-link {
-				color: $official-blue !important;
+				color: $official-blue ;
 			}
 		}
 		.navbar-transparent {
-			background-color: transparent !important;
+
+			background-color: transparent ;
 			transition: 0.2s all;
 			border-bottom: 1px solid rgba(255, 255, 255, .3);
 			a.nav-link {
-				color: white !important;
+				color: white ;
 			}
 		}
 
@@ -529,6 +541,8 @@ footer {
 		}
 	}
 
+	
+
 
 }
 
@@ -539,6 +553,19 @@ footer {
   .subcontainer {
   	 padding-bottom: 30px;
   }
+  .navbar-transparent {
+		
+		background-color: white !important;
+		border-bottom: 1px solid rgba(8, 69, 148, .5);
+		transition: 0.2s background-color;
+
+		a.nav-link {
+			color: $official-blue !important;
+		}
+	}
+   
+
+
 }
 
 

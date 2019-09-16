@@ -15,6 +15,25 @@ custom_js:
     <!-- News section -->
     <h1>Articles</h1>
 
+    <div class="in-submission-div">
+    <!-- SUBMITTED ARTICLES -->
+      <ul class="publi-list">
+      {% assign publiss = site.data.publications.articles | group_by:"insubmission" %}
+      {% assign publis = publiss | sort: "insubmission" | reverse %}
+      {% for pupliyear in publis %}
+        {% if pupliyear.name == "true" %}
+          <div class="publication-year-container">
+            <h5 class="publi-year-category" id="year{{pupliyear.name}}">In submission</h5>
+            {% for pupli in pupliyear.items %}
+              {% include publi-view.html publi=pupli%}
+            {% endfor %}
+          </div>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    <hr class="separator">
+
     <ul class="publi-list">
       {% assign publiss = site.data.publications.articles | group_by:"year" %}
       {% assign publis = publiss | sort: "name" | reverse %}
@@ -70,7 +89,7 @@ custom_js:
 
   <!-- THESIS -->
   <div class="col-md-8 publi-hidden" id="container-thesis">
-      <h1>Thesis</h1>
+      <h1>Theses</h1>
     <!-- News section -->
     <ul class="publi-list">
       {% assign publiss = site.data.thesis.thesis | group_by:"type" %}
@@ -97,10 +116,10 @@ custom_js:
           <a class="category-btn active-publi-btn" href="#{{ pupliyear.name }}" id="btn-articles">Articles</a>
         </div>
         <div class="publication-year-container">
-          <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-conferences">Conference</a>
+          <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-conferences">Conferences</a>
         </div>
         <div class="publication-year-container">
-          <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-thesis">Thesis</a>
+          <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-thesis">Theses</a>
         </div>
 
       
@@ -109,6 +128,9 @@ custom_js:
         <h5 class="blue-subtitle">Year</h5>
         {% assign publiss = site.data.publications.articles | group_by:"year" %}
         {% assign publis = publiss | sort: "name" | reverse %}
+          <div class="publication-year-container">
+            <a class="publi-year-category" href="#yeartrue">In submission</a>
+          </div>
         {% for pupliyear in publis %}
           <div class="publication-year-container">
             <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
@@ -128,7 +150,7 @@ custom_js:
       </div> -->
       <div class="filtering-thesis filtering-container publi-hidden">
         <hr>
-        <h5 class="blue-subtitle">Thesis</h5>
+        <h5 class="blue-subtitle">Theses</h5>
         {% assign publiss = site.data.thesis.thesis | group_by:"type" %}
         {% assign publis = publiss | sort: "name" | reverse %}
         {% for pupliyear in publis %}

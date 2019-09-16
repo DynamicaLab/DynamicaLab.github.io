@@ -8,16 +8,16 @@ var h = element.getBoundingClientRect().height;
 var el = d3.select("body")
             .select("#d3graph");
 
-
+console.log(el);
 var svg = el.append("svg")
             .attr("width", w)
             .attr("height", h);
 
 
 var dataset = [];      
-var n_nodes = w*h/1000;
-if (n_nodes<60){n_nodes = 60}
-else if (n_nodes>250){n_nodes = 250};
+var n_nodes = w/20;
+if (n_nodes<10){n_nodes = 10}
+else if (n_nodes>100){n_nodes = 100};
 
 for (var i = 0; i < n_nodes; i++) {           
     var x = Math.random() * w;  
@@ -67,9 +67,36 @@ svg.selectAll("line")
         return Math.random()*0.4;
    	})
     .attr("stroke", function(d){
-        var index = Math.floor(Math.random() * 11);
-        // var colors = ['#a50026','#d73027','#f46d43','#fdae61','#fee090','#ffffbf','#e0f3f8','#abd9e9','#74add1','#4575b4','#313695']
-        var colors = ['#8c510a','#bf812d','#dfc27d','#f6e8c3','#f5f5f5','#c7eae5','#80cdc1','#35978f','#01665e'];
-        // var colors= ['#ffffff','#f0f0f0','#d9d9d9','#bdbdbd'];
-        return colors[index];
+        return "white"
     });
+
+svg.selectAll("circle-fill")
+   .data(dataset)
+   .enter()
+   .append("circle")
+       .attr("cx", function (d) { return d[0]; })
+       .attr("cy", function (d) { return d[1]; })
+       .attr("r", function (d) { return 5; })
+       .style("fill", function(d) { return parent.style("background-color");  })
+       .style("opacity", function(d){ return 1});
+
+
+svg.selectAll("circles")
+   .data(dataset)
+   .enter()
+   .append("circle")
+       .attr("cx", function (d) { return d[0]; })
+       .attr("cy", function (d) { return d[1]; })
+       .attr("r", function (d) { return Math.random()*5; })
+       .style("fill", function(d) { return "white"; })
+       .attr("stroke-width", function(d){ return 1})
+       .attr("stroke", function(d){ return "white"})
+       .attr("fill-opacity", 0)
+       .style("opacity", function(d){ return 0.4});
+
+
+
+
+
+
+

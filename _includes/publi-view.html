@@ -5,21 +5,21 @@
 	<!-- {% endif %} -->
 	<h5 class="publi-name">{{include.publi.title}}</h5>
 	<p class="publi-authors">{{include.publi.authors}}</p>
-
 	<!-- In submission -->
 	{% if include.publi.insubmission %}
       <p class="publi-submission">Submitted</p>
 	{% else %}
-      <!-- journals -->
+      	<!-- journals -->
     	{% if include.publi.journal %}
 	      <p class="publi-ref">{{include.publi.journal}}, <span class="edition">{{include.publi.edition}}</span>, <span class="pagenumber">{{include.publi.pagenumber}}</span></p>
-      {% else %}
-          <!-- books -->
-          {% if include.publi.book %}
-            <p class="publi-ref">{{include.publi.book}}, <span class="edition">{{include.publi.editor}}</span>, <span class="pagenumber">{{include.publi.publisher}}</span></p>
-          {% endif %}
-      {% endif %}
+      	{% else %}
+	        <!-- books -->
+	        {% if include.publi.book %}
+	            <p class="publi-ref">{{include.publi.book}}, <span class="edition">{{include.publi.editor}}</span>, <span class="pagenumber">{{include.publi.publisher}}</span></p>
+	        {% endif %}
+  		{% endif %}
 	{% endif %}
+
 	<!-- <br> -->
 	<!-- Btns -->
 	{% if include.publi.fulltext %}
