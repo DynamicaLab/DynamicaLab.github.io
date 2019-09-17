@@ -26,25 +26,17 @@ doctoral:
     website: "http://edwardlaurence.me"
     github: "https://github.com/laurencee9"
 
+  - name: Charles
+    lastname: Murphy
+    image: "/assets/images/members/charles.jpg"
+
   - name: Guillaume
     lastname: St-Onge
     image: "/assets/images/members/gui.jpg"
     website: "http://gstonge.github.io"
     github: "https://github.com/gstonge"
 
-  - name: Charles
-    lastname: Murphy
-    image: "/assets/images/members/charles.jpg"
-
-  - name: Vincent
-    lastname: Thibeault
-    image: "/assets/images/members/vincent.jpg"
-
 master:
-  - name: Xavier
-    lastname: Roy-Pomerleau
-    image: "/assets/images/members/xav.jpg"
-
   - name: Béatrice
     lastname: Désy
     image: "/assets/images/members/default.png"
@@ -53,17 +45,13 @@ master:
     lastname: Normand
     image: "/assets/images/members/default.png"
 
+  - name: Xavier
+    lastname: Roy-Pomerleau
+    image: "/assets/images/members/xav.jpg"
 
-
-interns:
-  - name: Olivier
-    lastname: Ribordy
-    image: "/assets/images/members/default.png"
-
-  - name: François
-    lastname: Thibault
-    image: "/assets/images/members/default.png"
-
+  - name: Vincent
+    lastname: Thibeault
+    image: "/assets/images/members/vincent.jpg"
 
 formers:
   - name: Antoine
@@ -146,6 +134,11 @@ formers:
     year: 2011
     task: M.Sc. 2011
 
+  - name: Olivier
+    lastname: Ribordy
+    year: 2019
+    task: Summer 2019
+
   - name: Samir
     lastname: Saidi
     year: 2009
@@ -156,6 +149,11 @@ formers:
     year: 2017
     task: M.Sc. 2017
     website: "http://gstonge.github.io"
+
+  - name: François
+    lastname: Thibault
+    year: 2019
+    task: Summer 2019
 
   - name: Jean-Gabriel
     lastname: Young
