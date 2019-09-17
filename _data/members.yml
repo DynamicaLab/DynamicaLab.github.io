@@ -45,6 +45,16 @@ master:
     lastname: Roy-Pomerleau
     image: "/assets/images/members/xav.jpg"
 
+  - name: Béatrice
+    lastname: Désy
+    image: "/assets/images/members/default.png"
+
+  - name: Francis
+    lastname: Normand
+    image: "/assets/images/members/default.png"
+
+
+
 interns:
   - name: Olivier
     lastname: Ribordy
