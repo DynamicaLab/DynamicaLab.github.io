@@ -36,11 +36,11 @@ doctoral:
     lastname: Murphy
     image: "/assets/images/members/charles.jpg"
 
-master:
   - name: Vincent
     lastname: Thibeault
     image: "/assets/images/members/vincent.jpg"
 
+master:
   - name: Xavier
     lastname: Roy-Pomerleau
     image: "/assets/images/members/xav.jpg"
