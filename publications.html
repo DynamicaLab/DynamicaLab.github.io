@@ -23,7 +23,7 @@ custom_js:
       {% for pupliyear in publis %}
         {% if pupliyear.name == "true" %}
           <div class="publication-year-container">
-            <h5 class="publi-year-category" id="year{{pupliyear.name}}">In submission</h5>
+            <h5 class="publi-year-category" id="year{{pupliyear.name}}">Currently under review</h5>
             {% for pupli in pupliyear.items %}
               {% include publi-view.html publi=pupli%}
             {% endfor %}
@@ -72,7 +72,7 @@ custom_js:
 
       {% endfor %}
 
-<!--       
+<!--
       {% for pupliyear in publiss %}
         <div class="publication-year-container">
           <h6>{{ pupliyear.items[0].year }} </h6>
@@ -122,7 +122,7 @@ custom_js:
           <a class="category-btn inactive-publi-btn" href="#{{ pupliyear.name }}" id="btn-thesis">Theses</a>
         </div>
 
-      
+
       <div class="filtering-articles filtering-container publi-active">
         <hr>
         <h5 class="blue-subtitle">Year</h5>
