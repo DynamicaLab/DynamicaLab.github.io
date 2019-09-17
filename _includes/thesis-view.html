@@ -8,7 +8,7 @@
 			<h5 class="publi-name">{{include.publi.title}}</h5>
 		<p>{{include.publi.subtitle}}</p>
 		<p class="thesis-authors">{{include.publi.authors}}</p>
-	  <br>
+	  	<p class="conference-href">
 		{% if include.publi.github %}
 			<a class="github" href="{{ include.publi.github }}">Github</a>
 		{% endif %}
@@ -24,7 +24,8 @@
 		{% if include.publi.abstract %}
 			<a class="abstract" href="{{ include.publi.abstract }}">Abstract</a>
 		{% endif %}
-			</div>
+		</p>
+		</div>
 	</div>
 
 

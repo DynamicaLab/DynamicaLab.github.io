@@ -30,7 +30,7 @@ a:hover { opacity: 0.5; text-decoration: none; transition: 0.1s all; }
 
 .d3graph { position: absolute; top: 0; }
 
-.header-block { width: 100%; margin: auto; min-height: 150px; background-color: #08306b; padding-top: 40px; margin-bottom: 0px; padding-bottom: 0px; }
+.header-block { width: 100%; margin: auto; min-height: 150px; background-color: #08306b; padding-top: 40px; margin-bottom: 0px; padding-bottom: 30px; }
 .header-block .header-front-title { padding-top: 30px; color: white; font-size: 300%; opacity: 0.98; font-weight: bolder; }
 .header-block .header-sub-title { color: white; opacity: 0.7; font-size: 140%; letter-spacing: 0.6px; font-weight: normal; }
 
@@ -86,6 +86,7 @@ ul.event-list .event-date-past { color: gray !important; }
 .publi-list .publi-container .edition { font-weight: bold; }
 .publi-list .publi-container h5 { padding-top: 12px; margin: 0px; font-size: 110%; color: black; }
 .publi-list .publi-container .publi-authors { margin-bottom: 0px; }
+.publi-list .publi-container .conference-href { margin-top: 8px; }
 .publi-list .publi-container .publi-ref { margin-bottom: 10px; }
 .publi-list .publi-container p { margin: 0; padding: 0; }
 .publi-list .publi-container .thesis-authors { margin: 0; padding: 0; text-transform: uppercase; }

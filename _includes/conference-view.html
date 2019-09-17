@@ -5,6 +5,7 @@
 	{% endif %}
 	<h5 class="publi-name">{{include.publi.title}}</h5>
 	<p class="publi-authors">{{include.publi.authors}}</p>
+	<p class="conference-href">
 	{% if include.publi.abstract %}
 		<a class="abstract" href="{{ include.publi.abstract }}">Abstract</a> 
 	{% endif %}
@@ -26,5 +27,6 @@
 	{% if include.publi.poster_pf %}
 		<a class="poster_pf" href="{{ include.publi.poster_pf }}">Printer-friendly</a> 
 	{% endif %}
+	</p>
 
 </div>
