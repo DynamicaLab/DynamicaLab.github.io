@@ -1,7 +1,17 @@
-
-
 - name: Sentinel North Scientific Conference
   date: 2019-08-26
 
+- name: <b>PhD seminar</b><br><i>Apprentissage de dynamiques sur réseaux complexes</i><br>Charles Murphy
+  date: 2019-09-30
+
 - name: <b>Invited seminar</b><br><i>Reconstruction bayésienne de réseaux à partir de données bruitées</i><br><a href="http://www.jgyoung.ca/">Jean-Gabriel Young</a><br>University of Michigan
   date: 2019-10-11
+
+- name: <b>Visitor</b><br><a href="http://laurenthebertdufresne.github.io/">Laurent Hébert-Dufresne</a><br>University of Vermont
+  date: 2019-10-11
+
+- name: <b>Visitor</b><br><a href="https://scholar.google.com/citations?user=1CSy_CcAAAAJ&hl=en">George T. Cantwell</a><br>University of Michigan
+  date: 2019-10-14
+
+- name: <b>Complex Networks Winter Workshop</b><br><a href="https://sentinellenord.ulaval.ca/en/cnww-2019">2nd edition</a><br>Québec
+  date: 2019-12-15
