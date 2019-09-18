@@ -23,7 +23,7 @@ custom_js:
       {% for pupliyear in publis %}
         {% if pupliyear.name == "true" %}
           <div class="publication-year-container">
-            <h5 class="publi-year-category" id="year{{pupliyear.name}}">Currently under review</h5>
+            <h5 class="publi-year-category" id="year{{pupliyear.name}}">Under review</h5>
             {% for pupli in pupliyear.items %}
               {% include publi-view.html publi=pupli%}
             {% endfor %}
@@ -129,7 +129,7 @@ custom_js:
         {% assign publiss = site.data.publications.articles | group_by:"year" %}
         {% assign publis = publiss | sort: "name" | reverse %}
           <div class="publication-year-container">
-            <a class="publi-year-category" href="#yeartrue">In submission</a>
+            <a class="publi-year-category" href="#yeartrue">Under review</a>
           </div>
         {% for pupliyear in publis %}
           <div class="publication-year-container">

@@ -3,7 +3,7 @@ html, body {
 	background-color: $html-back-color;
 	padding: 0px;
 	color: $default-black-text-color;
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: 700;
 	scroll-behavior: smooth;
 }
@@ -296,7 +296,9 @@ ul.event-list {
 .in-submission-div {
 	background-color: #eff3ff;
 	// border: 1px solid black;
-	padding: 20px;
+	margin-left: -20px;
+	padding-left: 20px;
+	padding-top: 30px;
 	padding-bottom: 4px;
 	.publi-list {
 		.publication-year-container {
