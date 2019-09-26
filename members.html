@@ -7,7 +7,7 @@ custom_js:
   - /assets/js/d3.v4.min.js
   - /assets/js/d3_static_graph.js
 ---
-
+{% if site.data.members.leaders %}
 <div class="member-list">
 	<h4>Group leaders</h4>
 	<div class="row">
@@ -16,7 +16,9 @@ custom_js:
 		{% endfor %}
 	</div>
 </div>
+{% endif %}
 
+{% if site.data.members.doctoral %}
 <div class="member-list">
 	<h4>Doctoral students</h4>
 	<div class="row">
@@ -25,7 +27,9 @@ custom_js:
 		{% endfor %}
 	</div>
 </div>
+{% endif %}
 
+{% if site.data.members.master %}
 <div class="member-list">
 	<h4>Master students</h4>
 	<div class="row">
@@ -34,16 +38,18 @@ custom_js:
 		{% endfor %}
 	</div>
 </div>
+{% endif %}
 
-<!-- <div class="member-list"> -->
-	<!-- <h4>Interns</h4> -->
-	<!-- <div class="row"> -->
-		<!-- {% for member in site.data.members.interns %} -->
-			<!-- {% include member-view.html member=member %} -->
-		<!-- {% endfor %} -->
-	<!-- </div> -->
-<!-- </div> -->
-
+{% if site.data.members.interns %}
+<div class="member-list">
+	<h4>Interns</h4>
+	<div class="row">
+		{% for member in site.data.members.interns %}
+			{% include member-view.html member=member %}
+		{% endfor %}
+	</div>
+</div>
+{% endif %}
 
 <div class="member-list">
 	<h4>Former members and graduates</h4>
