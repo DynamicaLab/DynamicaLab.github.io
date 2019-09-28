@@ -2,7 +2,9 @@
 layout: basic
 title: Dynamica Research Lab
 use_large_title: True
-subtitle: "Understanding the structure and the dynamics of complex systems. <br>Université Laval, Québec, Canada."
+subtitle: "Understanding the structure and the dynamics of complex systems."
+subsubtitle: "Based in Université Laval"
+include_about_us: True
 background: '#08306b'
 custom_js:
   - /assets/js/d3.v4.min.js
@@ -12,6 +14,7 @@ custom_js:
 <div class="row" >
   <div class="col-md-8">
     <!-- News section -->
+    <h1>News</h1>
     <ul class="post-list">
       {% assign posts = paginator.posts | where:"type","post" %}
       {% for post in posts%}
@@ -25,7 +28,7 @@ custom_js:
           </h2>
           {% if post.imagesrc %}<img class="front-image" src="{{post.imagesrc}}">{% endif %}
           <section class="post-excerpt" itemprop="description">
-            <p>{{ post.excerpt | truncatewords: 50 }}</p>
+            <p>{{ post.excerpt | truncatewords: 30 }}</p>
           </section>
           <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more</a>
           <hr class="separator">
@@ -72,10 +75,19 @@ custom_js:
               {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
               {% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}
               {% if posttime > nowunix %}
-                <span class="event-date event-date-futur">{{ event.date | date: "%B %-d, %Y" }}</span>
-                <h5 class="event-title event-date-futur">
-                  {{ event.name }}
+                <p class="event-type">{{ event.eventtype }}</p>
+                <span class="event-date">{{ event.date | date: "%b. %-d, %Y" }}</span>
+                {% if event.title %}
+                <h5 class="event-title">
+                  {{ event.title }}
                 </h5>
+                {% endif %}
+                {% if event.subtitle %}
+                <p class="event-subtitle">{{ event.subtitle }}</p>
+                {% endif %}
+                {% if event.subsubtitle %}
+                <p class="event-subsubtitle">{{ event.subsubtitle }}</p>
+                {% endif %}
               {% endif %}
             </div>
             {% endfor %}

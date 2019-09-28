@@ -1,17 +1,26 @@
-- name: Sentinel North Scientific Conference
+- eventtype: Sentinel North Scientific Conference
   date: 2019-08-26
 
-- name: <b>PhD seminar</b><br><i>Apprentissage profond de dynamiques sur réseaux complexes</i><br>Charles Murphy
+- eventtype: Seminar
+  title: Apprentissage profond de dynamiques sur réseaux complexes
+  subtitle: Charles Murphy
   date: 2019-09-30
 
-- name: <b>Invited seminar</b><br><i>Reconstruction bayésienne de réseaux à partir de données bruitées</i><br><a href="http://www.jgyoung.ca/">Jean-Gabriel Young</a><br>University of Michigan
+- eventtype: Invited seminar
+  title: Reconstruction bayésienne de réseaux à partir de données bruitées
+  subtitle: <a href="http://www.jgyoung.ca/">Jean-Gabriel Young</a><br>University of Michigan
   date: 2019-10-11
 
-- name: <b>Visitor</b><br><a href="http://laurenthebertdufresne.github.io/">Laurent Hébert-Dufresne</a><br>University of Vermont
+- eventtype: Visitor
+  subtitle: <a href="http://laurenthebertdufresne.github.io/">Laurent Hébert-Dufresne</a><br>University of Vermont
   date: 2019-10-11
 
-- name: <b>Invited seminar</b><br>TBA<br><a href="https://scholar.google.com/citations?user=1CSy_CcAAAAJ&hl=en">George T. Cantwell</a><br>University of Michigan
+- eventtype: Invited seminar
+  title: To be announced
+  subtitle: <a href="https://scholar.google.com/citations?user=1CSy_CcAAAAJ&hl=en">George T. Cantwell</a><br>University of Michigan
   date: 2019-10-14
 
-- name: <b>Complex Networks Winter Workshop</b><br><a href="https://sentinellenord.ulaval.ca/en/cnww-2019">2nd edition</a><br>Québec
+- eventtype: Workshop
+  title: Complex Networks Winter Workshop
+  subtitle: <a href="https://sentinellenord.ulaval.ca/en/cnww-2019">2nd edition</a><br>Québec
   date: 2019-12-15

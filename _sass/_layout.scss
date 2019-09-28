@@ -27,6 +27,14 @@ a:hover {
 
 }
 
+.container {
+	width: 100%;
+	max-width: $content-width;
+}
+h1 {
+	color: black;
+	font-weight: bold;
+}
 .page-content {
 	// Appearance
 	background-color: white;
@@ -110,6 +118,7 @@ a:hover {
 	padding-top: 40px;
 	margin-bottom: 0px;
 	padding-bottom: 30px;
+	padding-left: 16px;
 
 	.header-front-title {
 		padding-top: 30px;
@@ -118,21 +127,48 @@ a:hover {
 		opacity: 0.98;
 		font-weight: bolder;
 	}
+	.header-subsub-title {
+		padding-top: 0px;
+		text-transform: uppercase;
+		color: white;
+		font-size: 90%;
+		opacity: 0.98;
+		font-weight: normal;
+
+	}
 	.header-sub-title {
 		color: white;
-		opacity: 0.7;
-		font-size: 140%;
-		letter-spacing: 0.6px;
-		font-weight: normal;
+		opacity: 1;
+		font-size: 200%;
+		max-width: 800px;	
+		padding-top: 16px;
+		font-weight: lighter;
+		padding-bottom: 60px;
 	}
 }
 
+.full-gray-background {
+	width: 100%;
+	padding: 30px;
+	background-color: $light-gray-background
+}
+.aboutusfront {
+	max-width: 800px;
+	line-height: 180%;
+	color: black;
+	font-size: 150%;
+	font-weight: lighter;
+	.title {
+		font-size: 70%;
+		font-weight: bold;
+	}
+
+}
 
 // ---------- Posts ----------
 ul.post-list {
 	padding-left: 0px;
 	.front-post {
-
 		padding-bottom: 80px;
 
 		.separator {
@@ -142,14 +178,16 @@ ul.post-list {
 		.post-title a, .post-title{
 			font-size: 125%;
 			font-weight: bold;
+			color: black !important;
 		}
 		img {
-			max-width: 100%;
-			padding: 40px;
+			max-width: 80%;
+			padding: 10px;
 		}
 		p {
-			font-size: 120%;
-			line-height: 180%;
+			font-size: 110%;
+			line-height: 120%;
+			max-width: 80%;
 		}
 		.read-more {
 			font-weight: bold;
@@ -193,16 +231,39 @@ ul.event-list {
 		font-weight: bold;
 	}
 	.event-container{
-		padding-top: 10px;
-
-		.event-title {
-			font-size: 110%;
-			color: $official-blue;
+		padding-top: 16px;
+		.event-type {
+			font-size: 80%;
+			text-transform: uppercase;
+			color: $default-black-text-color;
+			margin: 0;
+			margin-top: 4px;
+			padding: 0;
 		}
-	}
+		.event-title {
+			font-size: 100%;
+			color: $official-blue;
+			font-weight: bold;
+			margin: 0;
+			padding: 0;
+			margin-bottom: 4px;
+		}
+		.event-subtitle a{
+			font-size: 100% !important;
+			color: $default-black-text-color !important;
+			margin: 0 !important;
+			padding: 0 !important;
+		}
+		.event-subtitle a{
+			font-size: 100% !important;
+			color: $default-black-text-color !important;
+			margin: 0 !important;
+			padding: 0 !important;
+		}
+		.event-date {
+			margin-bottom: 4px;
+		}
 
-	.event-date-past {
-		color: gray !important;
 	}
 }
 
@@ -437,9 +498,10 @@ header {
 	padding: 0;
 	margin: 0;
 	height: auto;
+	// z-index: 1030;
 
 	.navbar-fixed-top {
-		position: fixed;
+		position: absolute;
 	    right: 0;
 	    left: 0;
 	    top: 0;
@@ -455,7 +517,9 @@ header {
 			margin-left:10px;
 		}
 		a.nav-link {
-			letter-spacing: 1px;
+			letter-spacing: 2px;
+			text-transform: uppercase;
+
 		}
 		a.nav-link:hover {
 			opacity: 0.6;
