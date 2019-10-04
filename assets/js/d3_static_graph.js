@@ -10,7 +10,7 @@ var el = d3.select("body")
 
 console.log(el);
 var svg = el.append("svg")
-            .attr("width", w)
+            .attr("width", w-20)
             .attr("height", h);
 
 
