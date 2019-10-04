@@ -42,7 +42,7 @@ imagesrc: "IMAGES" [Optional]
 Write anything.
 ```
 
-Dans l'en-tête du fichier, on retrouve la date (ce sera celle affichée sur le site, idéalement la même que dans le nom du fichier mais peut être différente). Il est important de conserver `layout: post` pour obtenir le bon rendu. Le tag `imagesrc` permet d'afficher une image thumbnail sur le site. Les images doivent être placées dans `assets/images/posts/`. À vous de maintenir un certain ordre dans les assets. 
+Dans l'en-tête du fichier, on retrouve la date (ce sera celle affichée sur le site, idéalement la même que dans le nom du fichier mais peut être différente). Il est important de conserver `layout: post` pour obtenir le bon rendu. Le tag `imagesrc` permet d'afficher une image thumbnail sur le site. Les images doivent être placées dans `/assets/images/posts/`. À vous de maintenir un certain ordre dans les assets. 
 
 Le contenu peut être écrit en mardown ou en HTML. Pour rajouter une image, utilisez le format:
 
@@ -95,16 +95,16 @@ Si l'article est en soumission, utilisez l'attribue `insubmission: True` comme d
   - title : "Predicting synchronization regimes with dimension reduction on modular graphs" 
     authors : "Vincent Thibeault, Guillaume St-Onge, Xavier Roy-Pomerleau, Patrick Desrosiers" 
     conf : "14th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2019_abstract_thibeault.pdf" 
-    slides : "assets/pdf/slides/SIAM_edward18.pdf"
-    poster : "assets/pdf/posters/poster.pdf"
-    poster_pf: "assets/pdf/posters/poster_friendly.pdf"
+    abstract : "/assets/pdf/abstracts/netsci2019_abstract_thibeault.pdf" 
+    slides : "/assets/pdf/slides/SIAM_edward18.pdf"
+    poster : "/assets/pdf/posters/poster.pdf"
+    poster_pf: "/assets/pdf/posters/poster_friendly.pdf"
     year : 2019
     country : USA
     city : Burlington
 ```
 
-S'il y a des fichiers, placez les dans `assets/pdf/{abstracts/poster/slides}/`. 
+S'il y a des fichiers, placez les dans `/assets/pdf/{abstracts/poster/slides}/`. 
 
 Le champ `poster_pf` est pour les versions imprimables.
 
@@ -120,7 +120,7 @@ Le champ `poster_pf` est pour les versions imprimables.
     subtitle: Statistical inference and complex networks
     type: Ph.D.
     year: 2018
-    fulltext : "assets/pdf/theses/young18_thesis.pdf"
+    fulltext : "/assets/pdf/theses/young18_thesis.pdf"
 ```
 Pour les doctorat: `type: Ph.D.` et pour les maîtrises: `type: M.Sc.`. 
 
