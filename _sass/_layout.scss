@@ -142,7 +142,7 @@ h1 {
 		color: white;
 		opacity: 1;
 		font-size: 200%;
-		max-width: 800px;	
+		max-width: 800px;
 		padding-top: 16px;
 		font-weight: lighter;
 		padding-bottom: 60px;
@@ -233,7 +233,7 @@ ul.event-list {
 		font-weight: bold;
 	}
 	.event-container{
-		padding-top: 16px;
+		padding-top: 8px;
 		.event-type {
 			font-size: 80%;
 			text-transform: uppercase;
@@ -612,7 +612,7 @@ footer {
 		}
 	}
 
-	
+
 
 
 }
@@ -625,7 +625,7 @@ footer {
   	 padding-bottom: 30px;
   }
   .navbar-transparent {
-		
+
 		background-color: white !important;
 		border-bottom: 1px solid rgba(8, 69, 148, .5);
 		transition: 0.2s background-color;
@@ -634,9 +634,7 @@ footer {
 			color: $official-blue !important;
 		}
 	}
-   
+
 
 
 }
-
-
