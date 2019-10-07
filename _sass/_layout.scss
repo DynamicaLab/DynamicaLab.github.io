@@ -62,7 +62,7 @@ h1 {
 	}
 	h2 {
 		font-weight: bold;
-		padding-top: 30px;
+		padding-top: 20px;
 		color: #252525;
 		font-size: 150%;
 	}
@@ -172,11 +172,15 @@ h1 {
 // ---------- Posts ----------
 ul.post-list {
 	padding-left: 0px;
+	max-width: 700px;
+	margin: auto;
 	.front-post {
-		padding-bottom: 80px;
+		padding-top: 0px;
+		overflow:hidden;
 
 		.separator {
 			margin-top: 30px;
+			margin-bottom: 30px;
 		}
 
 		.post-title a, .post-title{
@@ -185,8 +189,11 @@ ul.post-list {
 			color: black !important;
 		}
 		img {
-			max-width: 80%;
-			padding: 10px;
+			width: 90%;
+			margin: auto;
+			// padding-
+			padding-top: 10px;
+			padding-bottom: 10px;
 		}
 		p {
 			font-size: 110%;

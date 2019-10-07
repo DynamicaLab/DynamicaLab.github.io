@@ -14,8 +14,11 @@ custom_js:
 <div class="row" >
   <div class="col-md-8">
     <!-- News section -->
-    <h1>News</h1>
+    
+   
     <ul class="post-list">
+      <h1>News</h1>
+       <br>
       {% assign posts = paginator.posts | where:"type","post" %}
       {% for post in posts%}
         <div class="front-post">
