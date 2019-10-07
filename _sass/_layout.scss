@@ -99,6 +99,7 @@ h1 {
 
 }
 
+
 .d3graph {
 	position: absolute;
    	top: 0;
@@ -136,16 +137,17 @@ h1 {
 		font-size: 90%;
 		opacity: 0.98;
 		font-weight: normal;
+		z-index: 9999;
 
 	}
 	.header-sub-title {
+		padding-top: 30px;
 		color: white;
-		opacity: 1;
-		font-size: 200%;
 		max-width: 800px;
-		padding-top: 16px;
+		font-size: 200%;
+		opacity: 0.98;
+		padding-bottom: 40px;
 		font-weight: lighter;
-		padding-bottom: 60px;
 	}
 }
 
