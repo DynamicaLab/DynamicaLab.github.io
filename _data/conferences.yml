@@ -1,591 +1,607 @@
 conferences:
+  - title : "Inferring higher-order co-occurrence patterns and simplicial complexes from presence/absence data" 
+    authors : "Xavier Roy-Pomerleau, Louis J. Dubé, Patrick Desrosiers" 
+    conf : "Workshop on Higher-order Interaction Networks: Dynamics, Structure, Data"  
+    poster : "/assets/pdf/posters/Poster_XRPOMERLEAU_Oxford.pdf"
+    year : 2019
+    country : United Kingdom
+    city : Oxford
+
+  - title : "Detecting higher-order co-occurrence patterns within aquatic bacterial communities across changing Nunavik permafrost landscape"
+    authors : "Xavier Roy-Pomerleau, Jérôme Comte, Warwick F. Vincent, Louis J. Dubé, Patrick Desrosiers"
+    conf : "Sentinel North Annual Meeting"
+    abstract : "assets/pdf/abstracts/Pomerleau_SN19_Abstract_final.pdf"
+    year : 2019
+    country : Canada
+    city : Lévis
+
   - title : "Mesoscopic localization of
-  spreading processes on networks" 
+  spreading processes on networks"
     authors : "
   Guillaume St-Onge, Laurent Hébert-Dufresne , Louis
-  J. Dubé" 
-    conf : "14th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2019_abstract_st-onge.pdf" 
+  J. Dubé"
+    conf : "14th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2019_abstract_st-onge.pdf"
     year : 2019
     country : USA
     city : Burlington
 
-  - title : "Predicting synchronization regimes with dimension reduction on modular graphs" 
+  - title : "Predicting synchronization regimes with dimension reduction on modular graphs"
     authors : "
-Vincent Thibeault, Guillaume St-Onge, Xavier Roy-Pomerleau, Patrick Desrosiers" 
-    conf : "14th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2019_abstract_thibeault.pdf" 
+Vincent Thibeault, Guillaume St-Onge, Xavier Roy-Pomerleau, Patrick Desrosiers"
+    conf : "14th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2019_abstract_thibeault.pdf"
     year : 2019
     country : USA
     city : Burlington
 
-  - title : "Learning dynamical processes on complex networks from time series" 
+  - title : "Learning dynamical processes on complex networks from time series"
     authors : "
-Charles Murphy, Edward Laurence, Antoine Allard" 
-    conf : "14th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2019_abstract_murphy.pdf" 
+Charles Murphy, Edward Laurence, Antoine Allard"
+    conf : "14th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2019_abstract_murphy.pdf"
     year : 2019
     country : USA
     city : Burlington
 
-  - title : "Network archeology: phase transition in the recoverability of network history" 
+  - title : "Network archeology: phase transition in the recoverability of network history"
     authors : "
 Jean-Gabriel Young, Laurent Hébert-Dufresne, Edward Laurence,
 Charles Murphy, Guillaume St-Onge, Patrick Desrosiers
-" 
+"
     conf : "Sentinel
-      North Annual Meeting" 
-    abstract : "assets/pdf/abstracts/Young_SN18_Abstract_06-06-18.pdf" 
+      North Annual Meeting"
+    abstract : "assets/pdf/abstracts/Young_SN18_Abstract_06-06-18.pdf"
     year : 2018
     country : Canada
     city : Québec
 
-  - title : "Predicting breakdowns of dynamical complex networks" 
+  - title : "Predicting breakdowns of dynamical complex networks"
     authors : "
 Edward Laurence, Nicolas Doyon, Louis J. Dubé, Patrick Desrosiers
-" 
+"
     conf : "Sentinel
-      North Annual Meeting" 
-    abstract : "assets/pdf/abstracts/Laurence_SN18_Abstract_final.pdf" 
+      North Annual Meeting"
+    abstract : "assets/pdf/abstracts/Laurence_SN18_Abstract_final.pdf"
     year : 2018
     country : Canada
     city : Québec
 
-  - title : "The impact of community structure on network dynamics: The case of synchronization" 
+  - title : "The impact of community structure on network dynamics: The case of synchronization"
     authors : "
 Vincent Thibeault, Xavier Roy-Pomerleau, Guillaume St-Onge,
 Jean-Gabriel Young, Louis J. Dubé, Patrick Desrosiers
-" 
+"
     conf : "Sentinel
-      North Annual Meeting" 
-    abstract : "assets/pdf/abstracts/Thibeault_SN18_Abstract_final.pdf" 
-    poster : "assets/pdf/posters/Thibeault_SN18_poster.pdf" 
+      North Annual Meeting"
+    abstract : "assets/pdf/abstracts/Thibeault_SN18_Abstract_final.pdf"
+    poster : "assets/pdf/posters/Thibeault_SN18_poster.pdf"
     year : 2018
     country : Canada
     city : Québec
 
-  - title : "Complex network analysis of birds co-occurrence patterns in boreal forest" 
+  - title : "Complex network analysis of birds co-occurrence patterns in boreal forest"
     authors : "
        Béatrice Désy, Guillaume St-Onge, Patrick Desrosiers, Louis J.
        Dubé
-" 
+"
     conf : "Sentinel
-      North Annual Meeting" 
-    abstract : "assets/pdf/abstracts/BDesy_SN18_Abstract_final.pdf" 
+      North Annual Meeting"
+    abstract : "assets/pdf/abstracts/BDesy_SN18_Abstract_final.pdf"
     year : 2018
     country : Canada
     city : Québec
 
-  - title : "A new dimension-reduction method for complex dynamical networks" 
+  - title : "A new dimension-reduction method for complex dynamical networks"
     authors : "
 Edward Laurence, Nicolas Doyon, Louis J. Dubé, Patrick Desrosiers
-" 
-    conf : "SIAM Workshop on Network Science 2018" 
-    abstract : "assets/pdf/abstracts/siam2018_edward_abs.pdf" 
-    slides : "assets/pdf/slides/SIAM_edward18.pdf" 
+"
+    conf : "SIAM Workshop on Network Science 2018"
+    abstract : "assets/pdf/abstracts/siam2018_edward_abs.pdf"
+    slides : "assets/pdf/slides/SIAM_edward18.pdf"
     year : 2018
     country : USA
     city : Portland
 
-  - title : "Network archeology: phase transition in the recoverability of network history" 
+  - title : "Network archeology: phase transition in the recoverability of network history"
     authors : "
-Jean-Gabriel Young, Laurent Hébert-Dufresne, Edward Laurence, Charles Murphy, Guillaume St-Onge, Patrick Desrosiers" 
-    conf : "13th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2018_ogy_abs.pdf" 
-    slides : "https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history" 
+Jean-Gabriel Young, Laurent Hébert-Dufresne, Edward Laurence, Charles Murphy, Guillaume St-Onge, Patrick Desrosiers"
+    conf : "13th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2018_ogy_abs.pdf"
+    slides : "https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history"
     year : 2018
     country : France
     city : Paris
 
-  - title : "Synchronization dynamics on the stochastic bloc model" 
+  - title : "Synchronization dynamics on the stochastic bloc model"
     authors : "
-Vincent Thibeault, Xavier Roy-Pomerleau, Jean-Gabriel Young, Guillaume St-Onge, Patrick Desrosiers" 
-    conf : "13th International School and Conference on Network Science" 
-    poster : "assets/pdf/posters/poster_thibeault_netsci2018.pdf" 
+Vincent Thibeault, Xavier Roy-Pomerleau, Jean-Gabriel Young, Guillaume St-Onge, Patrick Desrosiers"
+    conf : "13th International School and Conference on Network Science"
+    poster : "assets/pdf/posters/poster_thibeault_netsci2018.pdf"
     year : 2018
     country : France
     city : Paris
 
-  - title : "Geometric evolution of complex networks" 
+  - title : "Geometric evolution of complex networks"
     authors : "
 Charles Murphy, Antoine Allard, Edward Laurence, Guillaume St-Onge, Louis J. Dubé
-" 
-    conf : "1st Macfang workshop" 
-    abstract : "assets/pdf/abstracts/Macfang2017_abstract_Murphy.pdf" 
-    poster : "assets/pdf/posters/poster_murphy_Macfang_2017.pdf" 
+"
+    conf : "1st Macfang workshop"
+    abstract : "assets/pdf/abstracts/Macfang2017_abstract_Murphy.pdf"
+    poster : "assets/pdf/posters/poster_murphy_Macfang_2017.pdf"
     year : 2017
     country : Spain
     city : Barcelona
 
-  - title : "Functional resilience in neural networks" 
+  - title : "Functional resilience in neural networks"
     authors : "
 Edward Laurence, Patrick Desrosiers, Nicolas Doyon, Louis J. Dubé
-" 
-    conf : "4th Mediterranean School of Complex Networks" 
-    slides : "assets/pdf/slides/MSCX_edward17.pdf" 
+"
+    conf : "4th Mediterranean School of Complex Networks"
+    slides : "assets/pdf/slides/MSCX_edward17.pdf"
     year : 2017
     country : Italy
     city : Salina
 
-  - title : "Femtosecond Self-Reconfiguration of Periodic Plasma Patterns in Dielectrics" 
+  - title : "Femtosecond Self-Reconfiguration of Periodic Plasma Patterns in Dielectrics"
     authors : "
-Jean-Luc Déziel, Louis J. Dubé, Sandra H. Messaddeq, Younès Messaddeq, Charles Varin " 
-    conf : "International Conference on Laser Ablation " 
-    abstract : "assets/pdf/abstracts/photonicsnorth2017_abs_jld.pdf" 
-    poster : "assets/pdf/posters/Cola2017_poster_deziel.pdf" 
+Jean-Luc Déziel, Louis J. Dubé, Sandra H. Messaddeq, Younès Messaddeq, Charles Varin "
+    conf : "International Conference on Laser Ablation "
+    abstract : "assets/pdf/abstracts/photonicsnorth2017_abs_jld.pdf"
+    poster : "assets/pdf/posters/Cola2017_poster_deziel.pdf"
     year : 2017
     city : Marseille
     country : France
 
-  - title : "Persitent activity of neural dynamics on hierarchical networks" 
+  - title : "Persitent activity of neural dynamics on hierarchical networks"
     authors : "
-Edward Laurence, Patrick Desrosiers, Louis J. Dubé" 
-    conf : "12th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2017_abs_el.pdf" 
-    poster : "assets/pdf/posters/netsci2017_poster_laurence1.pdf" 
+Edward Laurence, Patrick Desrosiers, Louis J. Dubé"
+    conf : "12th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2017_abs_el.pdf"
+    poster : "assets/pdf/posters/netsci2017_poster_laurence1.pdf"
     country : USA
     year : 2017
     city : Indianapolis
 
-  - title : "Functional resilience in dynamical complex networks with adaptive connectivity" 
-    authors : "Edward Laurence, Patrick Desrosiers, Nicolas Doyon, Louis J. Dubé" 
-    conf : "12th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2017_brain_network_abs_el.pdf" 
-    poster : "assets/pdf/posters/netsci2017_poster_laurence2.pdf" 
+  - title : "Functional resilience in dynamical complex networks with adaptive connectivity"
+    authors : "Edward Laurence, Patrick Desrosiers, Nicolas Doyon, Louis J. Dubé"
+    conf : "12th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2017_brain_network_abs_el.pdf"
+    poster : "assets/pdf/posters/netsci2017_poster_laurence2.pdf"
     country : USA
     year : 2017
     city : Indianapolis
 
-  - title : "Time-dependent connection threshold in growing random geometric graphs" 
+  - title : "Time-dependent connection threshold in growing random geometric graphs"
     authors : "
-Charles Murphy, Antoine Allard, Guillaume St-Onge, Louis J. Dubé" 
-    conf : "12th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2017_abs_cm.pdf" 
+Charles Murphy, Antoine Allard, Guillaume St-Onge, Louis J. Dubé"
+    conf : "12th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2017_abs_cm.pdf"
     country : USA
     year : 2017
     city : Indianapolis
 
-  - title : "Susceptible-infected-susceptible dynamics on the rewired configuration model" 
+  - title : "Susceptible-infected-susceptible dynamics on the rewired configuration model"
     authors : "
-Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy Louis J. Dubé" 
-    conf : "12th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2017_abs_sto.pdf" 
+Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy Louis J. Dubé"
+    conf : "12th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2017_abs_sto.pdf"
     country : USA
     year : 2017
     city : Indianapolis
 
-  - title : "Statistical mechanics of mesoscopic structure extraction" 
+  - title : "Statistical mechanics of mesoscopic structure extraction"
     authors : "
-Jean-Gabriel Young, Guillaume St-Onge,  Patrick Desrosiers, Louis J. Dubé" 
-    conf : "12th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2017_abs_jgy.pdf" 
+Jean-Gabriel Young, Guillaume St-Onge,  Patrick Desrosiers, Louis J. Dubé"
+    conf : "12th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2017_abs_jgy.pdf"
     country : USA
     year : 2017
     city : Indianapolis
 
-  - title : "Femtosecond Self-Reconfiguration of Laser-Induced Plasma Patterns in Dielectrics" 
+  - title : "Femtosecond Self-Reconfiguration of Laser-Induced Plasma Patterns in Dielectrics"
     authors : "
-Jean-Luc Déziel, Louis J. Dubé, Sandra H. Messaddeq, Younès Messaddeq, Charles Varin " 
-    conf : "19th Photonics North Conference" 
-    abstract : "assets/pdf/abstracts/photonicsnorth2017_abs_jld.pdf" 
+Jean-Luc Déziel, Louis J. Dubé, Sandra H. Messaddeq, Younès Messaddeq, Charles Varin "
+    conf : "19th Photonics North Conference"
+    abstract : "assets/pdf/abstracts/photonicsnorth2017_abs_jld.pdf"
     year : 2017
     country : Canada
     city : Ottawa
 
-  - title : "Ensemble symmetries and the detectability limit of finite size stochastic block models" 
-    authors : " (SINM 2016)" 
-    conf : "11th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2016_abs_jg.pdf" 
+  - title : "Ensemble symmetries and the detectability limit of finite size stochastic block models"
+    authors : " (SINM 2016)"
+    conf : "11th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2016_abs_jg.pdf"
     year : 2016
     country : South Korea
     city : Seoul
 
-  - title : "Time-dependent Spatial Growth of Complex Networks" 
+  - title : "Time-dependent Spatial Growth of Complex Networks"
     authors : "
-Charles Murphy, Edward Laurence, Guillaume St-Onge, Jean-Gabriel Young, Louis J. Dubé" 
-    conf : "11th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2016_abs_charles.pdf" 
+Charles Murphy, Edward Laurence, Guillaume St-Onge, Jean-Gabriel Young, Louis J. Dubé"
+    conf : "11th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2016_abs_charles.pdf"
     year : 2016
     country : South Korea
     city : Seoul
 
-  - title : "Co-evolution of Growth and Dynamics on Network" 
+  - title : "Co-evolution of Growth and Dynamics on Network"
     authors : "
-Guillaume St-Onge, Edward Laurence, Charles Murphy, Jean-Gabriel Young, Louis J. Dubé" 
-    conf : "11th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2016_abs_sto.pdf" 
+Guillaume St-Onge, Edward Laurence, Charles Murphy, Jean-Gabriel Young, Louis J. Dubé"
+    conf : "11th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2016_abs_sto.pdf"
     year : 2016
     country : South Korea
     city : Seoul
 
-  - title : "Toward The Dynamical Modelization Of Self-organized Plasma Formation In Solids" 
+  - title : "Toward The Dynamical Modelization Of Self-organized Plasma Formation In Solids"
     authors : "
-Jean-Luc Déziel, Charles Varin, Louis J. Dubé, Younes Messaddeq" 
-    conf : "18th Photonics North Conference" 
-    abstract : "assets/pdf/abstracts/abstractphotonicnorth2016.pdf" 
+Jean-Luc Déziel, Charles Varin, Louis J. Dubé, Younes Messaddeq"
+    conf : "18th Photonics North Conference"
+    abstract : "assets/pdf/abstracts/abstractphotonicnorth2016.pdf"
     year : 2016
     country : Canada
     city : Québec
 
-  - title : "Growth of laser-induced periodic surface structures under competing ablation and photo-expansion mechanisms" 
+  - title : "Growth of laser-induced periodic surface structures under competing ablation and photo-expansion mechanisms"
     authors : "
-Jean-Luc Déziel" 
-    conf : "17th Photonics North Conference" 
-    abstract : "assets/pdf/abstracts/photonicnorth2015_abstract_jld.pdf" 
-    poster : "assets/pdf/posters/photonicsnorth2015_poster_jld.pdf" 
+Jean-Luc Déziel"
+    conf : "17th Photonics North Conference"
+    abstract : "assets/pdf/abstracts/photonicnorth2015_abstract_jld.pdf"
+    poster : "assets/pdf/posters/photonicsnorth2015_poster_jld.pdf"
     year : 2015
     country : Canada
     city : Ottawa
 
-  - title : "Exact analytical solution of binary dynamics on networks" 
+  - title : "Exact analytical solution of binary dynamics on networks"
     authors : "
-Edward Laurence, Jean-Gabriel Young, Sergey Melnik, Louis J. Dubé" 
-    conf : "10th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2015_abs_ed.pdf" 
-    poster : "assets/pdf/posters/netsci2015_poster_edgar.pdf" 
+Edward Laurence, Jean-Gabriel Young, Sergey Melnik, Louis J. Dubé"
+    conf : "10th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2015_abs_ed.pdf"
+    poster : "assets/pdf/posters/netsci2015_poster_edgar.pdf"
     year : 2015
     country : Spain
     city : Zaragoza
 
-  - title : "Structural preferential attachment: scale-free benchmark graphs for overlapping community detection algorithms" 
+  - title : "Structural preferential attachment: scale-free benchmark graphs for overlapping community detection algorithms"
     authors : "
-Jean-Gabriel Young, Laurent Hébert-Dufresne, Edward Laurence, Louis J. Dubé" 
-    conf : "10th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2015_abs_ogy.pdf" 
-    poster : "assets/pdf/posters/netsci2015_poster_ogy.pdf" 
+Jean-Gabriel Young, Laurent Hébert-Dufresne, Edward Laurence, Louis J. Dubé"
+    conf : "10th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2015_abs_ogy.pdf"
+    poster : "assets/pdf/posters/netsci2015_poster_ogy.pdf"
     year : 2015
     country : Spain
     city : Zaragoza
 
-  - title : "Growth of laser-induced periodic surface structures under competing ablation and photo-expansion mechanisms" 
+  - title : "Growth of laser-induced periodic surface structures under competing ablation and photo-expansion mechanisms"
     authors : "
-Jean-Luc Déziel" 
-    conf : "11th International Conference on Excitonic and Photonic Processes in Condensed Matter and Nano Materials" 
-    abstract : "assets/pdf/abstracts/excon2015_abstract_jld.pdf" 
+Jean-Luc Déziel"
+    conf : "11th International Conference on Excitonic and Photonic Processes in Condensed Matter and Nano Materials"
+    abstract : "assets/pdf/abstracts/excon2015_abstract_jld.pdf"
     year : 2015
     city : Montréal
     country : Canada
 
-  - title : "Adding SALT to Coupled Microcavities: the making of active photonic molecule lasers" 
+  - title : "Adding SALT to Coupled Microcavities: the making of active photonic molecule lasers"
     authors : "
-Denis Gagnon, Joey Dumont, Jean-Luc Déziel, Louis J. Dubé" 
-    conf : "16th International Conference on Transparent Optical Networks" 
+Denis Gagnon, Joey Dumont, Jean-Luc Déziel, Louis J. Dubé"
+    conf : "16th International Conference on Transparent Optical Networks"
     year : 2014
     city : Graz
     country : Australia
 
-  - title : "Structural preferential attachment of community structure and its relation to Dunbar's number" 
+  - title : "Structural preferential attachment of community structure and its relation to Dunbar's number"
     authors : "
-Jean-Gabriel Young, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
-    conf : "9th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2014_abs_ogy.pdf" 
+Jean-Gabriel Young, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé"
+    conf : "9th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2014_abs_ogy.pdf"
     year : 2014
     country : USA
     city : Berkeley
 
-  - title : "Complex networks are an emerging property of hierarchical preferential attachment" 
-    authors : "Laurent Hébert-Dufresne, Edward Laurence, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
-    conf : "9th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2014_abs_lsd.pdf" 
-    poster : "assets/pdf/posters/netsci2014_poster_lhd.pdf" 
-    poster_pf : "assets/pdf/posters/netsci2014_poster_lhd_handout.pdf" 
+  - title : "Complex networks are an emerging property of hierarchical preferential attachment"
+    authors : "Laurent Hébert-Dufresne, Edward Laurence, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé"
+    conf : "9th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2014_abs_lsd.pdf"
+    poster : "assets/pdf/posters/netsci2014_poster_lhd.pdf"
+    poster_pf : "assets/pdf/posters/netsci2014_poster_lhd_handout.pdf"
     year : 2014
     country : USA
     city : Berkeley
 
-  - title : "Coherent beam shaping using two-dimensional photonic crystals" 
+  - title : "Coherent beam shaping using two-dimensional photonic crystals"
     authors : "
-Denis Gagnon, Joey Dumont, Louis J. Dubé" 
-    conf : "15th International Conference on Transparent Optical Networks" 
+Denis Gagnon, Joey Dumont, Louis J. Dubé"
+    conf : "15th International Conference on Transparent Optical Networks"
     city : Cartagena
     country : Spain
     year : 2013
 
-  - title : "S and Q Matrices Reloaded: applications to open, inhomogeneous, and complex cavities" 
+  - title : "S and Q Matrices Reloaded: applications to open, inhomogeneous, and complex cavities"
     authors : "
-Guillaume Painchaud-April, Joey Dumont, Denis Gagnon, Louis J. Dubé" 
-    conf : "15th International Conference on Transparent Optical Networks" 
+Guillaume Painchaud-April, Joey Dumont, Denis Gagnon, Louis J. Dubé"
+    conf : "15th International Conference on Transparent Optical Networks"
     city : Cartagena
     country : Spain
     year : 2013
 
-  - title : "Hard-core random networks as an effective model of bond percolation on real networks" 
+  - title : "Hard-core random networks as an effective model of bond percolation on real networks"
     authors : "
-Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
-    conf : "8th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2013_abs_lhd.pdf" 
+Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé"
+    conf : "8th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2013_abs_lhd.pdf"
     city : Copenhagen
     country : Denmark
     year : 2013
 
-  - title : "Bond and site percolation on clustered and correlated random graphs" 
+  - title : "Bond and site percolation on clustered and correlated random graphs"
     authors : "
-Antoine Allard, Laurent Hébert-Dufresne, Jean-Gabriel Young, Louis J. Dubé" 
-    conf : "8th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2013_abs_aa.pdf" 
-    poster : "assets/pdf/posters/netsci2013_poster_aa.pdf" 
-    poster_pf : "assets/pdf/posters/netsci2013_poster_aa_handout.pdf" 
+Antoine Allard, Laurent Hébert-Dufresne, Jean-Gabriel Young, Louis J. Dubé"
+    conf : "8th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2013_abs_aa.pdf"
+    poster : "assets/pdf/posters/netsci2013_poster_aa.pdf"
+    poster_pf : "assets/pdf/posters/netsci2013_poster_aa_handout.pdf"
     city : Copenhagen
     country : Denmark
     year : 2013
 
-  - title : "Local and global solutions to community detection: when resolution matters" 
+  - title : "Local and global solutions to community detection: when resolution matters"
     authors : "
-Jean-Gabriel Young, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
-    conf : "8th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2013_abs_ogy.pdf" 
-    poster : "assets/pdf/posters/netsci2013_poster_ogy.pdf" 
-    poster_pf : "assets/pdf/posters/netsci2013_poster_ogy_handout.pdf" 
+Jean-Gabriel Young, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé"
+    conf : "8th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2013_abs_ogy.pdf"
+    poster : "assets/pdf/posters/netsci2013_poster_ogy.pdf"
+    poster_pf : "assets/pdf/posters/netsci2013_poster_ogy_handout.pdf"
     city : Copenhagen
     country : Denmark
     year : 2013
 
-  - title : "Optimization in optical systems revisited: Beyond genetic algorithms" 
+  - title : "Optimization in optical systems revisited: Beyond genetic algorithms"
     authors : "
-Denis Gagnon, Joey Dumont, Louis J. Dubé" 
-    conf : "44th Annual DAMOP Meeting" 
-    abstract : "assets/pdf/abstracts/damop2013_abstract_dg.pdf" 
-    poster : "assets/pdf/posters/damop2013_dgagnon_poster.pdf" 
-    poster_pf : "assets/pdf/posters/damop2013_dgagnon_handout.pdf" 
+Denis Gagnon, Joey Dumont, Louis J. Dubé"
+    conf : "44th Annual DAMOP Meeting"
+    abstract : "assets/pdf/abstracts/damop2013_abstract_dg.pdf"
+    poster : "assets/pdf/posters/damop2013_dgagnon_poster.pdf"
+    poster_pf : "assets/pdf/posters/damop2013_dgagnon_handout.pdf"
     year : 2013
     city : Québec
     country : Canada
 
-  - title : "Unveiling Hidden Communities Through Cascading Detection on Network Structures " 
+  - title : "Unveiling Hidden Communities Through Cascading Detection on Network Structures "
     authors : "
-Jean-Gabriel Young, Antoine Allard, Laurent Hébert-Dufresne, Louis J. Dubé" 
-    conf : "2nd International Conference on Complex Sciences" 
+Jean-Gabriel Young, Antoine Allard, Laurent Hébert-Dufresne, Louis J. Dubé"
+    conf : "2nd International Conference on Complex Sciences"
     city : Santa Fe
     country : USA
     year : 2012
 
-  - title : "On the constrained growth of complex critical systems " 
+  - title : "On the constrained growth of complex critical systems "
     authors : "
-Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
-    conf : "2nd International Conference on Complex Sciences" 
+Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé"
+    conf : "2nd International Conference on Complex Sciences"
     city : Santa Fe
     country : USA
     year : 2012
 
-  - title : "Exact solution of percolation on small arbitrary graphs" 
+  - title : "Exact solution of percolation on small arbitrary graphs"
     authors : "
-Antoine Allard, Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Louis J. Dubé" 
-    conf : "7th International School and Conference on Network Science" 
+Antoine Allard, Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Louis J. Dubé"
+    conf : "7th International School and Conference on Network Science"
     city : Evanston
     country : USA
     year : 2012
 
-  - title : "Using network organization to hinder propagation in structured populations" 
+  - title : "Using network organization to hinder propagation in structured populations"
     authors : "
-Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé" 
-    conf : "7th International School and Conference on Network Science" 
-    poster : "assets/pdf/posters/netsci2012_poster_hebertdufresne.pdf" 
+Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, Louis J. Dubé"
+    conf : "7th International School and Conference on Network Science"
+    poster : "assets/pdf/posters/netsci2012_poster_hebertdufresne.pdf"
     city : Evanston
     country : USA
     year : 2012
 
-  - title : "Stochastic Network Models: Analytical Tools for STI Studies" 
+  - title : "Stochastic Network Models: Analytical Tools for STI Studies"
     authors : "
-Pierre-André Noël, Antoine Allard, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé" 
-    conf : "19th Biennial Conference of the International Society for Sexually Transmitted Diseases Research" 
-    abstract : "assets/pdf/abstracts/isstdr2011_abstract_noel.pdf" 
-    poster : "assets/pdf/posters/isstdr2011_poster_noel.pdf" 
-    poster_pf : "assets/pdf/posters/isstdr2011_poster_noel_blanc.pdf" 
+Pierre-André Noël, Antoine Allard, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé"
+    conf : "19th Biennial Conference of the International Society for Sexually Transmitted Diseases Research"
+    abstract : "assets/pdf/abstracts/isstdr2011_abstract_noel.pdf"
+    poster : "assets/pdf/posters/isstdr2011_poster_noel.pdf"
+    poster_pf : "assets/pdf/posters/isstdr2011_poster_noel_blanc.pdf"
     city : Québec
     country : Canada
     year : 2011
 
-  - title : "Structural preferential attachment: network organisation beyond the link" 
+  - title : "Structural preferential attachment: network organisation beyond the link"
     authors : "
-Laurent Hébert-Dufresne, Antoine Allard, Vincent Marceau, Pierre-André Noël, Louis J. Dubé" 
-    conf : "6th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2011_abstract_hebertdufresne.pdf" 
+Laurent Hébert-Dufresne, Antoine Allard, Vincent Marceau, Pierre-André Noël, Louis J. Dubé"
+    conf : "6th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2011_abstract_hebertdufresne.pdf"
     city : Budapest
     country : Hungary
     year : 2011
 
-  - title : "Modelling the dynamical interaction between epidemics on overlay networks" 
+  - title : "Modelling the dynamical interaction between epidemics on overlay networks"
     authors : "
-Vincent Marceau, Pierre-André Noël, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
-    conf : "6th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2011_abstract_marceau.pdf" 
+Vincent Marceau, Pierre-André Noël, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé"
+    conf : "6th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2011_abstract_marceau.pdf"
     city : Budapest
     country : Hungary
     year : 2011
 
-  - title : "A study of network representations for Markov dynamics modelling" 
-    authors : "Pierre-André Noël, Antoine Allard, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé" 
-    conf : "6th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2011_abstract_noel.pdf" 
-    poster : "assets/pdf/posters/netsci2011_poster_noel.pdf" 
-    poster_pf : "assets/pdf/posters/netsci2011_poster_noel_blanc.pdf" 
+  - title : "A study of network representations for Markov dynamics modelling"
+    authors : "Pierre-André Noël, Antoine Allard, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé"
+    conf : "6th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2011_abstract_noel.pdf"
+    poster : "assets/pdf/posters/netsci2011_poster_noel.pdf"
+    poster_pf : "assets/pdf/posters/netsci2011_poster_noel_blanc.pdf"
     city : Budapest
     country : Hungary
     year : 2011
 
-  - title : "Scattering Description of the Resonant Modes of Open 2D Dielectric Cavities" 
+  - title : "Scattering Description of the Resonant Modes of Open 2D Dielectric Cavities"
     authors : "
-Guillaume Painchaud-April, Louis J. Dubé" 
-    conf : "2nd International Workshop on Microcavities and their Applications" 
-    abstract : "assets/pdf/abstracts/woma2011_abstract_painchaudapril.pdf" 
+Guillaume Painchaud-April, Louis J. Dubé"
+    conf : "2nd International Workshop on Microcavities and their Applications"
+    abstract : "assets/pdf/abstracts/woma2011_abstract_painchaudapril.pdf"
     city : Pusan
     country : South Korea
     year : 2011
 
-  - title : "Numerical Design and Optimization Strategies for Annular Silica Microcavities" 
+  - title : "Numerical Design and Optimization Strategies for Annular Silica Microcavities"
     authors : "
-Denis Gagnon, Guillaume Painchaud-April, Julien Poirier, Louis J. Dubé, Francis Vanier, Ahmad Hayat, Yves-Alain Peter" 
-    conf : "2nd International Workshop on Microcavities and their Applications" 
-    abstract : "assets/pdf/abstracts/woma2011_abstract_gagnon.pdf" 
-    poster : "assets/pdf/posters/woma2011_poster_gagnon.pdf" 
-    poster_pf : "assets/pdf/posters/woma2011_poster_gagnon_blanc.pdf" 
+Denis Gagnon, Guillaume Painchaud-April, Julien Poirier, Louis J. Dubé, Francis Vanier, Ahmad Hayat, Yves-Alain Peter"
+    conf : "2nd International Workshop on Microcavities and their Applications"
+    abstract : "assets/pdf/abstracts/woma2011_abstract_gagnon.pdf"
+    poster : "assets/pdf/posters/woma2011_poster_gagnon.pdf"
+    poster_pf : "assets/pdf/posters/woma2011_poster_gagnon_blanc.pdf"
     city : Pusan
     country : South Korea
     year : 2011
 
-  - title : "Phase Space Engineering in Optical Microcavities I: Preserving near-field uniformity while inducing far-field directionality" 
+  - title : "Phase Space Engineering in Optical Microcavities I: Preserving near-field uniformity while inducing far-field directionality"
     authors : "
-Guillaume Painchaud-April, Julien Poirier, Denis Gagnon, Louis J. Dubé" 
-    conf : "12th International Conference on Transparent Optical Networks" 
+Guillaume Painchaud-April, Julien Poirier, Denis Gagnon, Louis J. Dubé"
+    conf : "12th International Conference on Transparent Optical Networks"
     year : 2010
     city : Munich
     country : Germany
 
-  - title : "Phase Space Engineering in Optical Microcavities II. Controlling the far-field" 
+  - title : "Phase Space Engineering in Optical Microcavities II. Controlling the far-field"
     authors : "
-Julien Poirier, Guillaume Painchaud-April, Denis Gagnon, Louis J. Dubé" 
-    conf : "12th International Conference on Transparent Optical Networks" 
-    poster : "assets/pdf/posters/icton2010_poster_poirier.pdf" 
+Julien Poirier, Guillaume Painchaud-April, Denis Gagnon, Louis J. Dubé"
+    conf : "12th International Conference on Transparent Optical Networks"
+    poster : "assets/pdf/posters/icton2010_poster_poirier.pdf"
     year : 2010
     city : Munich
     country : Germany
 
-  - title : "Adaptive networks: Coevolution of disease and topology" 
+  - title : "Adaptive networks: Coevolution of disease and topology"
     authors : "
-Vincent Marceau, Pierre-André Noël, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé" 
-    conf : "5th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2010_abstract_marceau.pdf" 
-    poster : "assets/pdf/posters/netsci2010_poster_marceau.pdf" 
+Vincent Marceau, Pierre-André Noël, Laurent Hébert-Dufresne, Antoine Allard, Louis J. Dubé"
+    conf : "5th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2010_abstract_marceau.pdf"
+    poster : "assets/pdf/posters/netsci2010_poster_marceau.pdf"
     city : Boston
     country : USA
     year : 2010
 
-  - title : "Propagation dynamics on networks featuring complex topologies" 
+  - title : "Propagation dynamics on networks featuring complex topologies"
     authors : "
-Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Antoine Allard, Louis J. Dubé" 
-    conf : "5th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2010_abstract_hebertdufresne.pdf" 
-    poster : "assets/pdf/posters/netsci2010_poster_hebertdufresne.pdf" 
+Laurent Hébert-Dufresne, Pierre-André Noël, Vincent Marceau, Antoine Allard, Louis J. Dubé"
+    conf : "5th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2010_abstract_hebertdufresne.pdf"
+    poster : "assets/pdf/posters/netsci2010_poster_hebertdufresne.pdf"
     city : Boston
     country : USA
     year : 2010
 
-  - title : "Exact(?) SIR dynamics on networks of finite size" 
+  - title : "Exact(?) SIR dynamics on networks of finite size"
     authors : "
-Pierre-André Noël, Antoine Allard, Louis J. Dubé" 
-    conf : "5th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2010_abstract_noel.pdf" 
-    poster : "assets/pdf/posters/netsci2010_poster_noel.pdf" 
+Pierre-André Noël, Antoine Allard, Louis J. Dubé"
+    conf : "5th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2010_abstract_noel.pdf"
+    poster : "assets/pdf/posters/netsci2010_poster_noel.pdf"
     city : Boston
     country : USA
     year : 2010
 
-  - title : "Multitype modular networks as a model of clustered social networks" 
+  - title : "Multitype modular networks as a model of clustered social networks"
     authors : "
-Antoine Allard, Pierre-André Noël, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé" 
-    conf : "5th International School and Conference on Network Science" 
-    abstract : "assets/pdf/abstracts/netsci2010_abstract_allard.pdf" 
-    poster : "assets/pdf/posters/netsci2010_poster_allard.pdf" 
+Antoine Allard, Pierre-André Noël, Laurent Hébert-Dufresne, Vincent Marceau, Louis J. Dubé"
+    conf : "5th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2010_abstract_allard.pdf"
+    poster : "assets/pdf/posters/netsci2010_poster_allard.pdf"
     city : Boston
     country : USA
     year : 2010
 
-  - title : "Phase Space as an Optical Engineering Tool in Open Microcavity Designs" 
+  - title : "Phase Space as an Optical Engineering Tool in Open Microcavity Designs"
     authors : "
-Guillaume Painchaud-April, Julien Poirier, Louis J. Dubé" 
-    conf : "10th SIAM Conference on Applications of Dynamical Systems" 
-    abstract : "assets/pdf/abstracts/siamds2009_abstract_painchaudapril.pdf" 
-    poster : "assets/pdf/posters/siamds2009_poster_painchaudapril.pdf" 
+Guillaume Painchaud-April, Julien Poirier, Louis J. Dubé"
+    conf : "10th SIAM Conference on Applications of Dynamical Systems"
+    abstract : "assets/pdf/abstracts/siamds2009_abstract_painchaudapril.pdf"
+    poster : "assets/pdf/posters/siamds2009_poster_painchaudapril.pdf"
     city : Snowbird
     country : USA
     year : 2009
 
-  - title : "Time Evolution of Epidemics on Complex Networks" 
+  - title : "Time Evolution of Epidemics on Complex Networks"
     authors : "
-Pierre-André Noël, Antoine Allard, Louis J. Dubé" 
-    conf : "10th SIAM Conference on Applications of Dynamical Systems" 
-    abstract : "assets/pdf/abstracts/siamds2009_abstract_noel.pdf" 
-    poster : "assets/pdf/posters/siamds2009_poster_noel.pdf" 
+Pierre-André Noël, Antoine Allard, Louis J. Dubé"
+    conf : "10th SIAM Conference on Applications of Dynamical Systems"
+    abstract : "assets/pdf/abstracts/siamds2009_abstract_noel.pdf"
+    poster : "assets/pdf/posters/siamds2009_poster_noel.pdf"
     city : Snowbird
     country : USA
     year : 2009
 
-  - title : "Controlling transport properties in dielectric billiards" 
+  - title : "Controlling transport properties in dielectric billiards"
     authors : "
-Julien Poirier, Guillaume Painchaud-April, Louis J. Dubé" 
-    conf : "10th SIAM Conference on Applications of Dynamical Systems" 
-    abstract : "assets/pdf/abstracts/siamds2009_abstract_poirier.pdf" 
-    poster : "assets/pdf/posters/siamds2009_poster_poirier.pdf" 
+Julien Poirier, Guillaume Painchaud-April, Louis J. Dubé"
+    conf : "10th SIAM Conference on Applications of Dynamical Systems"
+    abstract : "assets/pdf/abstracts/siamds2009_abstract_poirier.pdf"
+    poster : "assets/pdf/posters/siamds2009_poster_poirier.pdf"
     city : Snowbird
     country : USA
     year : 2009
 
-  - title : "Heterogeneous Bond Percolation on Complex Networks: Application to Epidemiology" 
+  - title : "Heterogeneous Bond Percolation on Complex Networks: Application to Epidemiology"
     authors : "
-Antoine Allard, Pierre-André Noël, Louis J. Dubé, Babak Pourbohloul" 
-    conf : "63rd Canadian Association of Physicists Annual Congress" 
-    abstract : "assets/pdf/abstracts/cap2008_abstract_allard.pdf" 
-    poster : "assets/pdf/posters/cap2008_poster_allard.pdf" 
+Antoine Allard, Pierre-André Noël, Louis J. Dubé, Babak Pourbohloul"
+    conf : "63rd Canadian Association of Physicists Annual Congress"
+    abstract : "assets/pdf/abstracts/cap2008_abstract_allard.pdf"
+    poster : "assets/pdf/posters/cap2008_poster_allard.pdf"
     city : Québec
     country : Canada
     year : 2008
 
-  - title : "Highly Directional Emission from Inhomogeneous Dielectric Microcavities" 
+  - title : "Highly Directional Emission from Inhomogeneous Dielectric Microcavities"
     authors : "
-Guillaume Painchaud-April, Julien Poirier, Samir Saïdi, Yves-Alain Peter, Étienne Brasselet, Louis J. Dubé" 
-    conf : "63rd Canadian Association of Physicists Annual Congress" 
-    abstract : "assets/pdf/abstracts/cap2008_abstract_painchaudapril_a.pdf" 
-    poster : "assets/pdf/posters/cap2008_poster_painchaudapril_a.pdf" 
+Guillaume Painchaud-April, Julien Poirier, Samir Saïdi, Yves-Alain Peter, Étienne Brasselet, Louis J. Dubé"
+    conf : "63rd Canadian Association of Physicists Annual Congress"
+    abstract : "assets/pdf/abstracts/cap2008_abstract_painchaudapril_a.pdf"
+    poster : "assets/pdf/posters/cap2008_poster_painchaudapril_a.pdf"
     city : Québec
     country : Canada
     year : 2008
 
-  - title : "Transport Mechanisms in Dielectric Optical Microcavities" 
+  - title : "Transport Mechanisms in Dielectric Optical Microcavities"
     authors : "
-Guillaume Painchaud-April, Julien Poirier, Louis J. Dubé" 
-    conf : "63rd Canadian Association of Physicists Annual Congress" 
-    abstract : "assets/pdf/abstracts/cap2008_abstract_painchaudapril_b.pdf" 
-    poster : "assets/pdf/posters/cap2008_poster_painchaudapril_b.pdf" 
+Guillaume Painchaud-April, Julien Poirier, Louis J. Dubé"
+    conf : "63rd Canadian Association of Physicists Annual Congress"
+    abstract : "assets/pdf/abstracts/cap2008_abstract_painchaudapril_b.pdf"
+    poster : "assets/pdf/posters/cap2008_poster_painchaudapril_b.pdf"
     city : Québec
     country : Canada
     year : 2008
 
-  - title : "Time Evolution of Epidemic Dynamics on Finite and Infinite Networks" 
+  - title : "Time Evolution of Epidemic Dynamics on Finite and Infinite Networks"
     authors : "
-Pierre-André Noël, B. Davoudi, R.C. Brunham, Louis J. Dubé, Babak Pourbohloul" 
-    conf : "63rd Canadian Association of Physicists Annual Congress" 
-    abstract : "assets/pdf/abstracts/cap2008_abstract_noel.pdf" 
-    poster : "assets/pdf/posters/cap2008_poster_noel.pdf" 
+Pierre-André Noël, B. Davoudi, R.C. Brunham, Louis J. Dubé, Babak Pourbohloul"
+    conf : "63rd Canadian Association of Physicists Annual Congress"
+    abstract : "assets/pdf/abstracts/cap2008_abstract_noel.pdf"
+    poster : "assets/pdf/posters/cap2008_poster_noel.pdf"
     city : Québec
     country : Canada
     year : 2008
 
-  - title : "Classical chaos in a novel inhomogeneous photonic billiard" 
+  - title : "Classical chaos in a novel inhomogeneous photonic billiard"
     authors : "
-Samir Saidi, Guillaume Painchaud-April, Julien Poirier, Pierre-Yves St-Louis, Josette Lépine, Louis J. Dubé" 
-    conf : "9th SIAM Conference on Applications of Dynamical Systems" 
-    abstract : "assets/pdf/abstracts/siamds2007_abstract_saidi.pdf" 
-    poster : "assets/pdf/posters/siamds2007_poster_saidi.pdf" 
+Samir Saidi, Guillaume Painchaud-April, Julien Poirier, Pierre-Yves St-Louis, Josette Lépine, Louis J. Dubé"
+    conf : "9th SIAM Conference on Applications of Dynamical Systems"
+    abstract : "assets/pdf/abstracts/siamds2007_abstract_saidi.pdf"
+    poster : "assets/pdf/posters/siamds2007_poster_saidi.pdf"
     year : 2007
     city : Snowbird
     country : USA
 
-  - title : "Wave chaos in a new class of optical microcavity" 
+  - title : "Wave chaos in a new class of optical microcavity"
     authors : "
-Guillaume Painchaud-April, Julien Poirier, Pierre-Yves St-Louis, Josette Lépine, Samir Saidi, Louis J. Dubé" 
-    conf : "9th SIAM Conference on Applications of Dynamical Systems" 
-    abstract : "assets/pdf/abstracts/siamds2007_abstract_painchaudapril.pdf" 
-    poster : "assets/pdf/posters/siamds2007_poster_painchaudapril.pdf" 
+Guillaume Painchaud-April, Julien Poirier, Pierre-Yves St-Louis, Josette Lépine, Samir Saidi, Louis J. Dubé"
+    conf : "9th SIAM Conference on Applications of Dynamical Systems"
+    abstract : "assets/pdf/abstracts/siamds2007_abstract_painchaudapril.pdf"
+    poster : "assets/pdf/posters/siamds2007_poster_painchaudapril.pdf"
     year : 2007
     city : Snowbird
     country : USA
