@@ -1,4 +1,12 @@
 conferences:
+  - title : "Inferring higher-order co-occurrence patterns and simplicial complexes from presence/absence data" 
+    authors : "Xavier Roy-Pomerleau, Louis J. Dubé, Patrick Desrosiers" 
+    conf : "Workshop on Higher-order Interaction Networks: Dynamics, Structure, Data"  
+    poster : "/assets/pdf/posters/Poster_XRPOMERLEAU_Oxford.pdf"
+    year : 2019
+    country : United Kingdom
+    city : Oxford
+
   - title : "Detecting higher-order co-occurrence patterns within aquatic bacterial communities across changing Nunavik permafrost landscape"
     authors : "Xavier Roy-Pomerleau, Jérôme Comte, Warwick F. Vincent, Louis J. Dubé, Patrick Desrosiers"
     conf : "Sentinel North Annual Meeting"
