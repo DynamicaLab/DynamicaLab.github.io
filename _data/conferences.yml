@@ -1,4 +1,12 @@
 conferences:
+  - title : "Detecting higher-order co-occurrence patterns within aquatic bacterial communities across changing Nunavik permafrost landscape" 
+    authors : "Xavier Roy-Pomerleau, Jérôme Comte, Warwick F. Vincent, Louis J. Dubé, Patrick Desrosiers" 
+    conf : "Sentinel North 2019 Scientific Meeting"
+    abstract : "assets/pdf/abstracts/Pomerleau_SN19_Abstract_final.pdf"  
+    year : 2019
+    country : Canada
+    city : Québec
+    
   - title : "Mesoscopic localization of
   spreading processes on networks" 
     authors : "
