@@ -14,13 +14,13 @@ custom_js:
 <div class="row" >
   <div class="col-md-8">
     <!-- News section -->
-    
-   
+    {% assign posts = paginator.posts | where:"type","post" %}
+
+   {% if paginator.previous_page == False%}
     <ul class="post-list">
       <h1>News</h1>
        <br>
-      {% assign posts = paginator.posts | where:"type","post" %}
-      {% for post in posts%}
+      {% for post in posts limit:site.numfrontpost%}
         <div class="front-post">
           <section class="post-meta">
             <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}
@@ -38,6 +38,30 @@ custom_js:
         </div>
       {% endfor %}
     </ul>
+    {% endif %}
+
+    <ul class="post-list">
+      <h3>Older posts</h3>
+       <br>
+       {% if paginator.previous_page == False%}
+         {% assign offset = site.numfrontpost %}
+       {% else %}
+          {% assign offset = 0 %}
+       {% endif %}
+       
+      {% for post in posts offset:offset %}
+        <div class="row">
+          <div class="col-sm-3 olderposts-date">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </div>
+          <div class="col-sm-9 olderposts-title">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+        </div>
+        <hr>          
+      {% endfor %}
+    </ul>
+
     <!-- PAGINATION -->
     <nav class="pagination" role="navigation">
       <div class="container-pagination">
@@ -57,7 +81,7 @@ custom_js:
         {% assign npage = paginator.page %}
         {% assign posts = site.posts | where:"type","post" %}
         {% assign totposts = posts | size %}
-        {% assign totpage = totposts | divided_by: 5.0 %}
+        {% assign totpage = totposts | divided_by: site.paginate %}
         <span class="page-number">Page {{ paginator.page }} of {{ totpage | round }}</span>
         {% if npage < totpage %}
           <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">

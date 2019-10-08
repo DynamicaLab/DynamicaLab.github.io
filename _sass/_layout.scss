@@ -27,7 +27,17 @@ a:hover {
   	padding-left: 0px;
 
 }
+.olderposts-date {
+	color: gray;
+	// text-transform: uppercase;
+	// font-size: 70%;
+	// letter-spacing: 2px;
+	// font-weight: bold;
+}
 
+.olderposts-title a {
+	color: $default-black-text-color !important;
+}
 .container {
 	width: 100%;
 	max-width: $content-width;

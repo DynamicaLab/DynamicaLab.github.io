@@ -11,6 +11,7 @@ sass:
 
 relative_permalinks: false
 
-paginate: 5
+paginate: 20
+numfrontpost: 3
 paginate_path: "/page:num/"
 inter_post_navigation: false
