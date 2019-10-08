@@ -4,8 +4,9 @@ html, body {
 	padding: 0px;
 	color: $default-black-text-color;
 	font-size: 15px;
-	font-weight: 700;
+	font-weight: 500;
 	scroll-behavior: smooth;
+	// font-weight: lighter;
 }
 
 a {
@@ -188,7 +189,10 @@ ul.post-list {
 			margin-top: 30px;
 			margin-bottom: 30px;
 		}
-
+		.post-date {
+			color: gray;
+			padding-bottom: 8px;
+		}
 		.post-title a, .post-title{
 			font-size: 125%;
 			font-weight: bold;
@@ -203,8 +207,10 @@ ul.post-list {
 		}
 		p {
 			font-size: 110%;
-			line-height: 120%;
 			max-width: 80%;
+		}
+		.post-excerpt {
+			font-weight: lighter;
 		}
 		.read-more {
 			font-weight: bold;
@@ -255,7 +261,9 @@ ul.event-list {
 			color: $default-black-text-color;
 			margin: 0;
 			margin-top: 4px;
+			margin-bottom: 8px;
 			padding: 0;
+			font-weight: bold;
 		}
 		.event-title {
 			font-size: 100%;
@@ -278,7 +286,7 @@ ul.event-list {
 			padding: 0 !important;
 		}
 		.event-date {
-			margin-bottom: 4px;
+			margin-bottom: 8px;
 		}
 
 	}
