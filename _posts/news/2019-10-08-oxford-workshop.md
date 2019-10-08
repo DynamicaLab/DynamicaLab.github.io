@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Student abroad for a workshop on higher-order interaction networks"
-date:   2019-09-9
+date:   2019-09-09
 published: True
 type: "post"
 imagesrc: "/assets/images/posts/2019-10-08-oxford-workshop.png"
