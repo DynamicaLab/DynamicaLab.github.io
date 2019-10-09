@@ -1,7 +1,7 @@
 ---
 layout: basic
 background: '#014636'
-custom_js: 
+custom_js:
   - /assets/js/d3.v4.min.js
   - /assets/js/d3_static_graph.js
 title: Lab
@@ -12,7 +12,7 @@ subtitle: Our research deals with the interaction and coevolution of structure a
 <div class="container portfolio-container-header center-block" >
   <div class="row">
     {% assign posts = site.posts | where:"type","project" %}
-    {% for post in posts %} 
+    {% for post in posts %}
       <div class="card-container col-sm-6 col-md-6">
         <div class="card-inside center-block">
           <a class="portfolio-hred" href="{{ post.url | prepend: site.baseurl }}">

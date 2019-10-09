@@ -48,7 +48,7 @@ custom_js:
        {% else %}
           {% assign offset = 0 %}
        {% endif %}
-       
+
       {% for post in posts offset:offset %}
         <div class="row">
           <div class="col-sm-3 olderposts-date">
@@ -58,7 +58,7 @@ custom_js:
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </div>
         </div>
-        <hr>          
+        <hr>
       {% endfor %}
     </ul>
 
