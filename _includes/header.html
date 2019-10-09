@@ -1,6 +1,6 @@
 <div class="container" {% if page.use_large_title %} style="min-height: 200px; z-index: 999999;"{% endif %}>
 	{% if page.use_large_title %}<br>{% endif %}
-	{% if page.show_title %}<h1 class="header-front-title">{{ page.title }}</h1>{% endif %}
+	{% if page.layout!="post" %}<h1 class="header-front-title">{{ page.title }}</h1>{% endif %}
 	{% if page.subsubtitle %}
 	<h1 class="header-subsub-title">{{ page.subsubtitle }}</h1>
 	{% endif %}
