@@ -1,4 +1,10 @@
 articles:
+  - title : "Recovering the past states of growing trees"
+    authors : "George T. Cantwell, Guillaume St-Onge, Jean-Gabriel Young"
+    arxiv : "https://arxiv.org/abs/1910.04788"
+    year : 2019
+    insubmission: True
+
   - title : "Smeared phase transition of percolation on real complex networks"
     authors : "Laurent Hébert-Dufresne, Antoine Allard"
     year: 2019
