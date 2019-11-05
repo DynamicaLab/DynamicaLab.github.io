@@ -1,6 +1,11 @@
+
+- eventtype: Seminar
+  title: Une introduction aux réseaux de convolution de graphes
+  subtitle: Edward Laurence<br><a href="https://www.facebook.com/events/2340695842857639/">AI Meetup</a>
+  date: 2019-11-07
+
 - eventtype: Sentinel North Scientific Conference
   date: 2019-08-26
-
 
 - eventtype: Seminar
   title: Apprentissage profond de dynamiques sur réseaux complexes
@@ -25,3 +30,4 @@
   title: Complex Networks Winter Workshop
   subtitle: <a href="https://sentinellenord.ulaval.ca/en/cnww-2019">2nd edition</a><br>Québec
   date: 2019-12-15
+
