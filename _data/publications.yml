@@ -1,4 +1,25 @@
 articles:
+  - title: Phase Transition in the Recoverability of Network History
+    authors: Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, Laurent Hébert-Dufresne, Patrick Desrosiers
+    journal: Phys. Rev. X
+    edition: 9
+    pagenumber: "041056"
+    year: 2019
+    arxiv: 'https://arxiv.org/abs/1803.09191'
+    fulltext: 'https://doi.org/10.1103/PhysRevX.9.041056'
+    github: 'https://github.com/jg-you/network-archaeology'
+
+  - title: "Mercator: uncovering faithful hyperbolic embeddings of complex networks"
+    authors: Guillermo García-Pérez, Antoine Allard, M. Ángeles Serrano, Marián Boguñá
+    journal: New J. Phys.
+    edition: 21
+    pagenumber: "123033"
+    year: 2019
+    arxiv: 'https://arxiv.org/abs/1904.10814'
+    fulltext: 'https://doi.org/10.1088/1367-2630/ab57d2'
+    github: 'https://github.com/networkgeometry/mercator'
+    type: Preprints
+
   - title : "Recovering the past states of growing trees"
     authors : "George T. Cantwell, Guillaume St-Onge, Jean-Gabriel Young"
     arxiv : "https://arxiv.org/abs/1910.04788"
@@ -58,14 +79,6 @@ articles:
     pagenumber: "030309"
     arxiv: 'https://arxiv.org/abs/1806.04214'
     fulltext: 'https://doi.org/10.1103/PhysRevE.98.032309'
-    type: Preprints
-
-  - title: "Network archaeology: phase transition in the recoverability of network history"
-    authors: Jean-Gabriel Young, Guillaume St-Onge, Laurent Hébert-Dufresne, Edward Laurence, Charles Murphy,  Patrick Desrosiers
-    year: 2018
-    insubmission: True
-    arxiv: 'https://arxiv.org/abs/1803.09191'
-    github: 'https://github.com/jg-you/network-archaeology'
     type: Preprints
 
   - title: Exact analytical solution of irreversible binary dynamics on networks
