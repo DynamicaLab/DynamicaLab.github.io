@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "New publication in Physical Review X"
-date:   2019-12-18
+date:   2019-12-17
 published: True
 type: "post"
-imagesrc: "/assets/images/posts/2019-12-18-archaeology.png"
+imagesrc: "/assets/images/posts/2019-12-17-archaeology.png"
 ---
 
 The latest contribution of Dynamica has just been published in [Physical Review X](https://journals.aps.org/prx/).
