@@ -166,6 +166,18 @@ h1 {
 		padding-bottom: 40px;
 		font-weight: lighter;
 	}
+  .logo-dynamica {
+		// text-align: center;
+		max-width: auto;
+		max-height: 175px;
+		margin-top: 3em;
+		margin-bottom: 2em;
+    margin-right: 8%;
+    float: right;
+    position: relative;
+    z-index: 99999999999;
+    // overflow: auto;
+	}
 }
 
 .full-gray-background {
@@ -624,6 +636,13 @@ footer {
 		}
 	}
 }
+
+@media only screen and (max-width: 999px) {
+  .logo-dynamica {
+    display: none !important;
+  }
+}
+
 
 @media only screen and (max-width: 764px) {
   .navbar {
