@@ -15,6 +15,11 @@ leaders:
     image: "/assets/images/members/patrick.jpg"
     website: "https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao"
 
+postdoc:
+  - name: Marina
+    lastname: Vegué Llorente
+    image: "/assets/images/members/default.png"
+
 doctoral:
   - name: Jean-Luc
     lastname: Déziel
