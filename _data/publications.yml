@@ -1,4 +1,13 @@
 articles:
+  - title: Navigable maps of structural brain networks across species
+    authors: Antoine Allard, M. Ángeles Serrano
+    journal: PLOS Comput. Biol.
+    edition: 16
+    pagenumber: "e1007584"
+    year: 2020
+    arxiv: 'https://arxiv.org/abs/1801.06079'
+    fulltext: 'https://doi.org/10.1371/journal.pcbi.1007584'
+
   - title: Phase Transition in the Recoverability of Network History
     authors: Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, Laurent Hébert-Dufresne, Patrick Desrosiers
     journal: Phys. Rev. X
