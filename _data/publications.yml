@@ -1,4 +1,11 @@
 articles:
+  - title : "Beyond R<sub>0</sub>: the importance of contact tracing when predicting epidemics"
+    authors : "Laurent Hébert-Dufresne, Benjamin M. Althouse, Samuel V. Scarpino, Antoine Allard"
+    arxiv : "https://arxiv.org/abs/2002.04004"
+    medrxiv : "https://doi.org/10.1101/2020.02.10.20021725"
+    year : 2020
+    insubmission: True
+
   - title: Navigable maps of structural brain networks across species
     authors: Antoine Allard, M. Ángeles Serrano
     journal: PLOS Comput. Biol.
