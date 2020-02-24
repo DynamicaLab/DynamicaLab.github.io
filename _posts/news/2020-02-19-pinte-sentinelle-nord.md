@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dynamica proudly represented at the Pinte Sentinelle Nord"
+title:  "Strong representation of Dynamica at the latest Pinte Sentinelle Nord"
 date:   2020-02-19
 published: True
 type: "post"
