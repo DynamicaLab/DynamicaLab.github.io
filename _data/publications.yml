@@ -1,4 +1,10 @@
 articles:
+  - title : "School closures, event cancellations, and the mesoscopic localization of epidemics in networks with higher-order structure"
+    authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2003.05924"
+    year : 2020
+    #insubmission: True
+
   - title : "Beyond R<sub>0</sub>: the importance of contact tracing when predicting epidemics"
     authors : "Laurent Hébert-Dufresne, Benjamin M. Althouse, Samuel V. Scarpino, Antoine Allard"
     arxiv : "https://arxiv.org/abs/2002.04004"
