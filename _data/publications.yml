@@ -3,7 +3,7 @@ articles:
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2003.05924"
     year : 2020
-    #insubmission: True
+    insubmission: True
 
   - title : "Beyond R<sub>0</sub>: the importance of contact tracing when predicting epidemics"
     authors : "Laurent Hébert-Dufresne, Benjamin M. Althouse, Samuel V. Scarpino, Antoine Allard"
