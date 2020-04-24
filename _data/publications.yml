@@ -1,5 +1,12 @@
 articles:
-  - title : "School closures, event cancellations, and the mesoscopic localization of epidemics in networks with higher-order structure"
+
+  - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
+    authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2004.10203"
+    year : 2020
+    insubmission: True
+
+  - title : "Social confinement and mesoscopic localization of epidemics on networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2003.05924"
     year : 2020
