@@ -46,6 +46,10 @@ master:
     lastname: Désy
     image: "/assets/images/members/default.png"
 
+  - name: Simon
+    lastname: Lizotte
+    image: "/assets/images/members/default.png"
+
   - name: Francis
     lastname: Normand
     image: "/assets/images/members/default.png"
@@ -57,6 +61,19 @@ master:
   - name: Vincent
     lastname: Thibeault
     image: "/assets/images/members/vincent.jpg"
+
+interns:
+  - name: Bastian
+    lastname: Raulier
+    image: "/assets/images/members/default.png"
+
+  - name: Olivier
+    lastname: Trout
+    image: "/assets/images/members/default.png"
+
+  - name: Jeson
+    lastname: Hermans
+    image: "/assets/images/members/default.png"
 
 formers:
   - name: Antoine
