@@ -1,5 +1,11 @@
 articles:
 
+  - title : "The role of directionality, heterogeneity and correlations in epidemic risk and spread"
+    authors : "Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2005.11283"
+    year : 2020
+    insubmission: True
+
   - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2004.10203"
