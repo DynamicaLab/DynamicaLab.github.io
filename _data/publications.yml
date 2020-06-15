@@ -1,5 +1,29 @@
 articles:
 
+  - title : "Deep learning of stochastic contagion dynamics on complex networks"
+    authors : "Charles Murphy, Edward Laurence, Antoine Allard"
+    arxiv : "https://arxiv.org/abs/2006.05410"
+    year : 2020
+    insubmission: True
+
+  - title : "Detecting structural perturbations from time series with deep learning"
+    authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
+    arxiv : "https://arxiv.org/abs/2006.05232"
+    year : 2020
+    insubmission: True
+
+  - title : "Threefold way to the dimension reduction of dynamics on networks: an application to synchronization"
+    authors : "Vincent Thibeault, Guillaume St-Onge, Louis J. Dubé, Patrick Desrosiers"
+    arxiv : "https://arxiv.org/abs/2005.10922"
+    year : 2020
+    insubmission: True
+
+  - title : "Stochasticity and heterogeneity in the transmission dynamics of SARS-CoV-2"
+    authors : "Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, Laurent Hébert-Dufresne, Hao Hu"
+    arxiv : "https://arxiv.org/abs/2005.13689"
+    year : 2020
+    insubmission: True
+
   - title : "The role of directionality, heterogeneity and correlations in epidemic risk and spread"
     authors : "Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2005.11283"
