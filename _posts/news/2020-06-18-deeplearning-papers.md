@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using deep learning to model dynamics on networks"
+title:  "Two new contributions: Deep learning and dynamics on networks"
 date:   2020-06-18
 published: True
 type: "post"
