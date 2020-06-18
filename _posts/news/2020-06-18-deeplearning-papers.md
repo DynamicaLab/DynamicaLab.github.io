@@ -23,7 +23,7 @@ As shown below, this extremely versatile tool is successfully applied to multipl
 The approach is proved highly effective in realistic settings involving noise in the time series and limited training data, while remaining computationally scalable to large systems.
 
 <img class="block-image" src="{{ "/assets/images/posts/2020-06-18-zoo2p0.png" }}">
-<caption>Accuracy of the detection of broken links for (A--C) epidemic spreading, (D--F) population dynamics and (G--I) neural dynamics.</caption>
+<!-- <caption>Accuracy of the detection of broken links for (A--C) epidemic spreading, (D--F) population dynamics and (G--I) neural dynamics.</caption> -->
 
 ##### Deep learning of stochastic contagion dynamics on complex networks
 
@@ -33,4 +33,4 @@ It is shown that GNNs can be trained to effectively reproduce the inner mechanis
 The paper also addresses the possibility to use GNNs to gain insights about the critical behaviors of contagion dynamics from data---some kind of numerical Petri dish.
 
 <img class="block-image" src="{{ "/assets/images/posts/2020-06-18-dynalearn.png" }}">
-<caption> Transition probabilities for (A) simple and (B) complex contagion dynamics as predicted by the GNN model. The predictions of the GNN are compared to the transitions probabilities as given by the process that generated the time series (GT, for ground truth) and the maximum likelihood estimators (MLE).</caption>
+<!-- <caption> Transition probabilities for (A) simple and (B) complex contagion dynamics as predicted by the GNN model. The predictions of the GNN are compared to the transitions probabilities as given by the process that generated the time series (GT, for ground truth) and the maximum likelihood estimators (MLE).</caption> -->
