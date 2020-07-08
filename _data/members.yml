@@ -15,10 +15,16 @@ leaders:
     image: "/assets/images/members/patrick.jpg"
     website: "https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao"
 
+
 postdoc:
   - name: Marina
     lastname: Vegué Llorente
+    image: "/assets/images/members/marina.jpg"
+
+  - name: Ilhem
+    lastname: Bouderbala
     image: "/assets/images/members/default.png"
+
 
 doctoral:
   - name: Jean-Luc
@@ -41,10 +47,15 @@ doctoral:
     website: "http://gstonge.github.io"
     github: "https://github.com/gstonge"
 
+  - name: Vincent
+    lastname: Thibeault
+    image: "/assets/images/members/vincent.jpg"
+
+
 master:
   - name: Béatrice
     lastname: Désy
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/beatrice.jpg"
 
   - name: Simon
     lastname: Lizotte
@@ -58,14 +69,15 @@ master:
     lastname: Roy-Pomerleau
     image: "/assets/images/members/xav.jpg"
 
-  - name: Vincent
-    lastname: Thibeault
-    image: "/assets/images/members/vincent.jpg"
+  - name: François
+    lastname: Thibault
+    image: "/assets/images/members/default.png"
+
 
 interns:
   - name: Bastian
     lastname: Raulier
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/bastian.jpg"
 
   - name: Olivier
     lastname: Trout
@@ -74,6 +86,7 @@ interns:
   - name: Jeson
     lastname: Hermans
     image: "/assets/images/members/default.png"
+
 
 formers:
   - name: Antoine
