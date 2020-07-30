@@ -1,4 +1,13 @@
 conferences:
+  - title : "Network analysis of collective motion"
+    authors : "Vincent Thibeault, Brennan Klein, Brendan Case, Francis Normand"
+    conf : "Complex Networks Winter Workshop"
+    abstract : "assets/pdf/abstracts/Thibeault_CNWW2019_Abstract_final.pdf"
+    slides : "assets/pdf/slides/Thibeault_Vincent_CNWW2019_slides_final.pdf"
+    year : 2019
+    country : Canada
+    city : Québec
+
   - title : "Inferring higher-order co-occurrence patterns and simplicial complexes from presence/absence data"
     authors : "Xavier Roy-Pomerleau, Louis J. Dubé, Patrick Desrosiers"
     conf : "Workshop on Higher-order Interaction Networks: Dynamics, Structure, Data"
@@ -31,6 +40,7 @@ conferences:
 Vincent Thibeault, Guillaume St-Onge, Xavier Roy-Pomerleau, Patrick Desrosiers"
     conf : "14th International School and Conference on Network Science"
     abstract : "assets/pdf/abstracts/netsci2019_abstract_thibeault.pdf"
+    slides : "assets/pdf/slides/Thibeault_Vincent_NETSCI2019_slides_final.pdf"
     year : 2019
     country : USA
     city : Burlington
@@ -43,6 +53,16 @@ Charles Murphy, Edward Laurence, Antoine Allard"
     year : 2019
     country : USA
     city : Burlington
+    
+  - title : "Predicting synchronization regimes with reduced dimensional dynamics on modular graphs"
+    authors : "
+Vincent Thibeault, Xavier Roy-Pomerleau, Guillaume St-Onge,
+Jean-Gabriel Young, Louis J. Dubé, Patrick Desrosiers"
+    conf : "Mediterranean School of Complex Networks"
+    slides : "assets/pdf/slides/Thibeault_Vincent_MSCx2018_slide_final.pdf"
+    year : 2018
+    country : Italy
+    city : Salina
 
   - title : "Network archeology: phase transition in the recoverability of network history"
     authors : "
@@ -113,7 +133,7 @@ Jean-Gabriel Young, Laurent Hébert-Dufresne, Edward Laurence, Charles Murphy, G
     country : France
     city : Paris
 
-  - title : "Synchronization dynamics on the stochastic bloc model"
+  - title : "Synchronization dynamics on the stochastic block model"
     authors : "
 Vincent Thibeault, Xavier Roy-Pomerleau, Jean-Gabriel Young, Guillaume St-Onge, Patrick Desrosiers"
     conf : "13th International School and Conference on Network Science"
