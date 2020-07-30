@@ -50,6 +50,9 @@ doctoral:
   - name: Vincent
     lastname: Thibeault
     image: "/assets/images/members/vincent.jpg"
+    website: "https://scholar.google.ca/citations?user=jHEI8xcAAAAJ&hl=fr&oi=ao"
+    github: "https://github.com/VinceThi"
+    twitter: "http://twitter.com/vince_thib"    
 
 
 master:
