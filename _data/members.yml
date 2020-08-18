@@ -52,7 +52,7 @@ doctoral:
     image: "/assets/images/members/vincent.jpg"
     website: "https://scholar.google.ca/citations?user=jHEI8xcAAAAJ&hl=fr&oi=ao"
     github: "https://github.com/VinceThi"
-    twitter: "http://twitter.com/vince_thib"    
+    twitter: "http://twitter.com/vince_thib"
 
 
 master:
@@ -67,10 +67,6 @@ master:
   - name: Francis
     lastname: Normand
     image: "/assets/images/members/default.png"
-
-  - name: Xavier
-    lastname: Roy-Pomerleau
-    image: "/assets/images/members/xav.jpg"
 
   - name: François
     lastname: Thibault
@@ -176,6 +172,12 @@ formers:
     lastname: Ribordy
     year: 2019
     task: Summer 2019
+
+  - name: Xavier
+    lastname: Roy-Pomerleau
+    year: 2020
+    task: M.Sc. 2020
+    image: "/assets/images/members/xav.jpg"
 
   - name: Samir
     lastname: Saidi
