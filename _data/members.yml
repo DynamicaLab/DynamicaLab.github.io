@@ -68,6 +68,10 @@ master:
     lastname: Normand
     image: "/assets/images/members/default.png"
 
+  - name: Vincent
+    lastname: Painchaud
+    image: "/assets/images/members/vincentp.jpg"
+
   - name: François
     lastname: Thibault
     image: "/assets/images/members/default.png"
