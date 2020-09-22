@@ -68,6 +68,13 @@ thesis:
     type: Ph.D.
     year: 1997
     fulltext : "assets/pdf/theses/poulin97_thesis.pdf"
+    
+  - title: "Inférence d'interactions d'ordre supérieur et de complexes simpliciaux à partir de données de présence/absence"
+    subtitle : "Inferring higher-order interactions and simplicial complexes from presence/absence data"
+    authors: Xavier Roy-Pomerleau
+    type: M.Sc.
+    year: 2020
+    fulltext : "assets/pdf/theses/Roy-Pomerleau20_master.pdf"
 
   - title: "De la structure croissante des réseaux complexes:
                 approche de la géométrie des réseaux"
@@ -106,14 +113,7 @@ des réseaux complexes"
     type: M.Sc.
     year: 2014
     fulltext : "assets/pdf/theses/young14_master.pdf"
-
-  - title: "On the Modelization of Optical Devices"
-    subtitle : "From Dielectric Cavities to Radiating Structures"
-    authors: Joey Dumont
-    type: M.Sc.
-    year: 2014
-    fulltext : "assets/pdf/theses/dumont14_master.pdf"
-
+    
   - title: "On the Modelization of Optical Devices"
     subtitle : "From Dielectric Cavities to Radiating Structures"
     authors: Joey Dumont
