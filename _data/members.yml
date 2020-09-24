@@ -31,12 +31,6 @@ doctoral:
     lastname: Déziel
     image: "/assets/images/members/jeanluc.jpg"
 
-  - name: Edward
-    lastname: Laurence
-    image: "/assets/images/members/edw.jpg"
-    website: "http://edwardlaurence.me"
-    github: "https://github.com/laurencee9"
-
   - name: Charles
     lastname: Murphy
     image: "/assets/images/members/charles.jpg"
@@ -140,7 +134,7 @@ formers:
   - name: Edward
     lastname: Laurence
     year: 2016
-    task: M.Sc. 2016
+    task: M.Sc. 2016 & Ph.D. 2020
     website: "http://edwardlaurence.me/"
 
   - name: Gregory
