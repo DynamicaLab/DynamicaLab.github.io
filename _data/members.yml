@@ -23,7 +23,7 @@ postdoc:
 
   - name: Ilhem
     lastname: Bouderbala
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/ilhem.jpg"
 
 
 doctoral:
@@ -61,6 +61,10 @@ master:
   - name: Francis
     lastname: Normand
     image: "/assets/images/members/default.png"
+
+  - name: Vincent
+    lastname: Painchaud
+    image: "/assets/images/members/vincentp.jpg"
 
   - name: François
     lastname: Thibault
