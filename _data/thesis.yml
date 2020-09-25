@@ -1,6 +1,13 @@
 
 
 thesis:
+  - title: La résilience des réseaux complexes
+    authors: Edward Laurence
+    subtitle: Resilience of complex networks
+    type: Ph.D.
+    year: 2020
+    fulltext : "assets/pdf/theses/laurence20_thesis.pdf"
+
   - title: Inférence et réseaux complexes
     authors: Jean-Gabriel Young
     subtitle: Statistical inference and complex networks
