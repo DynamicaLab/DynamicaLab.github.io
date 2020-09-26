@@ -1,4 +1,22 @@
 conferences:
+  - title : "Influence maximization in simplicial contagion"
+    authors : "Guillaume St-Onge, Iacopo Iacopini, Giovanni Petri, Alain Barrat, Vito Latora, Laurent Hébert-Dufresne"
+    conf : "15th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2020_abstract_sto.pdf"
+    slides : "assets/pdf/slides/netsci2020_slides_sto.pdf"
+    year : 2020
+    country : Italy
+    city : Rome
+
+  - title : "Localization, bistability and optimal seeding of contagions on higher-order networks"
+    authors : "Guillaume St-Onge, Antoine Allard, Laurent Hébert-Dufresne"
+    conf : "Alife"
+    abstract : "assets/pdf/abstracts/alife2020_abstract_sto.pdf"
+    slides : "assets/pdf/slides/alife2020_slides_sto.pdf"
+    year : 2020
+    country : Canada
+    city : Montréal
+
   - title : "Network analysis of collective motion"
     authors : "Vincent Thibeault, Brennan Klein, Brendan Case, Francis Normand"
     conf : "Complex Networks Winter Workshop"
@@ -24,11 +42,8 @@ conferences:
     country : Canada
     city : Lévis
 
-  - title : "Mesoscopic localization of
-  spreading processes on networks"
-    authors : "
-  Guillaume St-Onge, Laurent Hébert-Dufresne , Louis
-  J. Dubé"
+  - title : "Mesoscopic localization of spreading processes on networks"
+    authors : "Guillaume St-Onge, Laurent Hébert-Dufresne, Louis J. Dubé"
     conf : "14th International School and Conference on Network Science"
     abstract : "assets/pdf/abstracts/netsci2019_abstract_st-onge.pdf"
     year : 2019
