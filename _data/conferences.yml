@@ -1,4 +1,13 @@
 conferences:
+  - title : "Deep learning of stochastic contagion dynamics on complex networks"
+    authors : "Charles Murphy, Edward Laurence, Antoine Allard"
+    conf : "15th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2020_abstract_murphy.pdf"
+    slides : "assets/pdf/slides/netsci2020_slides_murphy.pdf"
+    year : 2020
+    country : Italy
+    city : Rome
+
   - title : "Influence maximization in simplicial contagion"
     authors : "Guillaume St-Onge, Iacopo Iacopini, Giovanni Petri, Alain Barrat, Vito Latora, Laurent Hébert-Dufresne"
     conf : "15th International School and Conference on Network Science"
@@ -68,7 +77,7 @@ Charles Murphy, Edward Laurence, Antoine Allard"
     year : 2019
     country : USA
     city : Burlington
-    
+
   - title : "Predicting synchronization regimes with reduced dimensional dynamics on modular graphs"
     authors : "
 Vincent Thibeault, Xavier Roy-Pomerleau, Guillaume St-Onge,
