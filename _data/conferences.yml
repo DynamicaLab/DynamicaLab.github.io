@@ -1,4 +1,13 @@
 conferences:
+  - title : "Stochastic dimensional reduction on large biological neural networks"
+    authors : "Vincent Painchaud, Nicolas Doyon and Patrick Desrosiers"
+    conf : "15th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/netsci2020_abstract_painchaud.pdf"
+    poster : "assets/pdf/posters/netsci2020_poster_painchaud.pdf"
+    year : 2020
+    country : Italy
+    city : Rome
+
   - title : "Inferring higher-order co-occurrence patterns and simplicial complexes from presence/absence data"
     authors : "Xavier Roy-Pomerleau, Louis J. Dubé and Patrick Desrosiers"
     conf : "15th International School and Conference on Network Science"
