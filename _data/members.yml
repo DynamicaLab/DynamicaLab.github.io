@@ -54,6 +54,10 @@ master:
     lastname: Désy
     image: "/assets/images/members/beatrice.jpg"
 
+  - name: Antoine
+    lastname: Légaré
+    image: "/assets/images/members/default.png"
+
   - name: Simon
     lastname: Lizotte
     image: "/assets/images/members/default.png"
@@ -65,6 +69,10 @@ master:
   - name: Vincent
     lastname: Painchaud
     image: "/assets/images/members/vincentp.jpg"
+
+  - name: Olivier
+    lastname: Ribordy
+    image: "/assets/images/members/default.png"
 
   - name: François
     lastname: Thibault
