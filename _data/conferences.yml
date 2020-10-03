@@ -1,6 +1,15 @@
 conferences:
+  - title : "A threefold approach for reducing the dimension of dynamics on networks: An application to synchronization"
+    authors : "Vincent Thibeault, Guillaume St-Onge, Louis J. Dubé, Patrick Desrosiers"
+    conf : "15th International School and Conference on Network Science"
+    abstract : "assets/pdf/abstracts/Thibeault_Netsci2020_abstract.pdf"
+    poster : "assets/pdf/posters/Thibeault_Netsci2020_poster.pdf"
+    year : 2020
+    country : Italy
+    city : Rome
+
   - title : "Stochastic dimensional reduction on large biological neural networks"
-    authors : "Vincent Painchaud, Nicolas Doyon and Patrick Desrosiers"
+    authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
     conf : "15th International School and Conference on Network Science"
     abstract : "assets/pdf/abstracts/netsci2020_abstract_painchaud.pdf"
     poster : "assets/pdf/posters/netsci2020_poster_painchaud.pdf"
@@ -9,7 +18,7 @@ conferences:
     city : Rome
 
   - title : "Inferring higher-order co-occurrence patterns and simplicial complexes from presence/absence data"
-    authors : "Xavier Roy-Pomerleau, Louis J. Dubé and Patrick Desrosiers"
+    authors : "Xavier Roy-Pomerleau, Louis J. Dubé, Patrick Desrosiers"
     conf : "15th International School and Conference on Network Science"
     abstract : "assets/pdf/abstracts/XRP_Netsci2020_abstract.pdf"
     poster : "assets/pdf/posters/XRP_NetSci2020_poster.pdf"
