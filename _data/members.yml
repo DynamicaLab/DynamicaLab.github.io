@@ -64,7 +64,7 @@ master:
 
   - name: Francis
     lastname: Normand
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/francisn.png"
 
   - name: Vincent
     lastname: Painchaud
