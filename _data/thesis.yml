@@ -76,6 +76,15 @@ thesis:
     year: 1997
     fulltext : "assets/pdf/theses/poulin97_thesis.pdf"
     
+    
+  - title: "Réduire la dimension des systèmes complexes: un regard sur l’émergence de la synchronisation"
+    subtitle : "Reducing the dimension of complex systems: a look at the emergence of synchronization"
+    authors: Vincent Thibeault
+    type: M.Sc.
+    year: 2020
+    fulltext : "assets/pdf/theses/Thibeault20_master.pdf"
+        
+    
   - title: "Inférence d'interactions d'ordre supérieur et de complexes simpliciaux à partir de données de présence/absence"
     subtitle : "Inferring higher-order interactions and simplicial complexes from presence/absence data"
     authors: Xavier Roy-Pomerleau
