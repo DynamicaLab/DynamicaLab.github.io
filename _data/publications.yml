@@ -12,12 +12,6 @@ articles:
     year : 2020
     insubmission: True
 
-  - title : "Threefold way to the dimension reduction of dynamics on networks: an application to synchronization"
-    authors : "Vincent Thibeault, Guillaume St-Onge, Louis J. Dubé, Patrick Desrosiers"
-    arxiv : "https://arxiv.org/abs/2005.10922"
-    year : 2020
-    insubmission: True
-
   - title : "Stochasticity and heterogeneity in the transmission dynamics of SARS-CoV-2"
     authors : "Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, Laurent Hébert-Dufresne, Hao Hu"
     arxiv : "https://arxiv.org/abs/2005.13689"
@@ -48,6 +42,16 @@ articles:
     medrxiv : "https://doi.org/10.1101/2020.02.10.20021725"
     year : 2020
     insubmission: True
+
+  - title : "Threefold way to the dimension reduction of dynamics on networks: an application to synchronization"
+    authors : "Vincent Thibeault, Guillaume St-Onge, Louis J. Dubé, Patrick Desrosiers"
+    arxiv : "https://arxiv.org/abs/2005.10922"
+    year : 2020
+    journal: Phys. Rev. Research
+    edition: 2
+    pagenumber: "043215"
+    fulltext: 'https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.043215'
+
 
   - title: Navigable maps of structural brain networks across species
     authors: Antoine Allard, M. Ángeles Serrano
