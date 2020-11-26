@@ -60,7 +60,9 @@ master:
 
   - name: Simon
     lastname: Lizotte
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/simon.png"
+    website: "https://siliz4.github.io"
+    github: "https://github.com/SILIZ4"
 
   - name: Francis
     lastname: Normand
