@@ -1,6 +1,13 @@
 
 
 thesis:
+  - title: Formation et auto-organisation de plasma induit par impulsions laser intenses dans un milieu diélectrique
+    authors: Jean-Luc Déziel
+    subtitle: Plasma formation and self-organisation in a dielectric medium induced by short intense laser pulses
+    type: Ph.D.
+    year: 2020
+    fulltext : "assets/pdf/theses/deziel2020_thesis.pdf"
+
   - title: La résilience des réseaux complexes
     authors: Edward Laurence
     subtitle: Resilience of complex networks
@@ -75,16 +82,16 @@ thesis:
     type: Ph.D.
     year: 1997
     fulltext : "assets/pdf/theses/poulin97_thesis.pdf"
-    
-    
+
+
   - title: "Réduire la dimension des systèmes complexes: un regard sur l’émergence de la synchronisation"
     subtitle : "Reducing the dimension of complex systems: a look at the emergence of synchronization"
     authors: Vincent Thibeault
     type: M.Sc.
     year: 2020
     fulltext : "assets/pdf/theses/Thibeault20_master.pdf"
-        
-    
+
+
   - title: "Inférence d'interactions d'ordre supérieur et de complexes simpliciaux à partir de données de présence/absence"
     subtitle : "Inferring higher-order interactions and simplicial complexes from presence/absence data"
     authors: Xavier Roy-Pomerleau
@@ -122,14 +129,14 @@ thesis:
     year: 2015
     fulltext : "assets/pdf/theses/deziel15_master.pdf"
 
-  - title: "De la détection de la structure communautaire 
+  - title: "De la détection de la structure communautaire
 des réseaux complexes"
     subtitle : "Of community detection in complex networks"
     authors: Jean-Gabriel Young
     type: M.Sc.
     year: 2014
     fulltext : "assets/pdf/theses/young14_master.pdf"
-    
+
   - title: "On the Modelization of Optical Devices"
     subtitle : "From Dielectric Cavities to Radiating Structures"
     authors: Joey Dumont
