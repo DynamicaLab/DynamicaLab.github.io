@@ -12,11 +12,14 @@ articles:
     year : 2020
     insubmission: True
 
-  - title : "Stochasticity and heterogeneity in the transmission dynamics of SARS-CoV-2"
+  - title : "Superspreading events in the transmission dynamics of SARS-CoV-2: Opportunities for interventions and control"
     authors : "Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, Laurent Hébert-Dufresne, Hao Hu"
     arxiv : "https://arxiv.org/abs/2005.13689"
     year : 2020
-    insubmission: True
+    journal: PLOS Biol.
+    edition: 18
+    pagenumber: "e3000897"
+    fulltext: 'https://doi.org/10.1371/journal.pbio.3000897'
 
   - title : "The role of directionality, heterogeneity and correlations in epidemic risk and spread"
     authors : "Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne"
@@ -41,7 +44,11 @@ articles:
     arxiv : "https://arxiv.org/abs/2002.04004"
     medrxiv : "https://doi.org/10.1101/2020.02.10.20021725"
     year : 2020
-    insubmission: True
+    journal: J. R. Soc. Interface
+    edition: 17
+    pagenumber: "20200393"
+    fulltext: 'https://doi.org/10.1098/rsif.2020.0393'
+
 
   - title : "Threefold way to the dimension reduction of dynamics on networks: an application to synchronization"
     authors : "Vincent Thibeault, Guillaume St-Onge, Louis J. Dubé, Patrick Desrosiers"
