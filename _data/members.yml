@@ -27,9 +27,6 @@ postdoc:
 
 
 doctoral:
-  - name: Jean-Luc
-    lastname: Déziel
-    image: "/assets/images/members/jeanluc.jpg"
 
   - name: Charles
     lastname: Murphy
@@ -86,10 +83,6 @@ interns:
     lastname: Raulier
     image: "/assets/images/members/bastian.jpg"
 
-  - name: Olivier
-    lastname: Trout
-    image: "/assets/images/members/default.png"
-
   - name: Jeson
     lastname: Hermans
     image: "/assets/images/members/default.png"
@@ -116,8 +109,11 @@ formers:
 
   - name: Jean-Luc
     lastname: Déziel
-    year: 2015
-    task: M.Sc. 2015
+    msc: 2015
+    phd: 2020
+    year: 2020
+    task: M.Sc. 2015 & Ph.D. 2020
+    image: "/assets/images/members/jeanluc.jpg"
 
   - name: Philippe
     lastname: Després
@@ -202,6 +198,11 @@ formers:
     lastname: Thibault
     year: 2019
     task: Summer 2019
+
+  - name: Olivier
+    lastname: Trout
+    year: 2020
+    task: Summer 2020
 
   - name: Jean-Gabriel
     lastname: Young
