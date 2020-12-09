@@ -53,7 +53,7 @@ master:
 
   - name: Antoine
     lastname: Légaré
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/antoine_légaré.png"
 
   - name: Simon
     lastname: Lizotte
