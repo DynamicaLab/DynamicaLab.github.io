@@ -27,18 +27,23 @@ articles:
     year : 2020
     insubmission: True
 
-  - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
-    authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
-    arxiv : "https://arxiv.org/abs/2004.10203"
-    year : 2021
-    journal: Phys. Rev. E (accepted)
-
   - title : "Social confinement and mesoscopic localization of epidemics on networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2003.05924"
     year : 2021
     journal: Phys. Rev. Lett. (accepted)
 
+  - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
+    authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2004.10203"
+    year : 2021
+    journal: Phys. Rev. E (accepted)
+
+  - title : "Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network"
+    authors : "Blake J. M. Williams, Guillaume St-Onge, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2007.07429"
+    year : 2021
+    journal: PLOS Comput. Biol. (accepted)
 
   - title : "Beyond R<sub>0</sub>: the importance of contact tracing when predicting epidemics"
     authors : "Laurent Hébert-Dufresne, Benjamin M. Althouse, Samuel V. Scarpino, Antoine Allard"
