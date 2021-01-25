@@ -30,14 +30,15 @@ articles:
   - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2004.10203"
-    year : 2020
-    insubmission: True
+    year : 2021
+    journal: Phys. Rev. E (accepted)
 
   - title : "Social confinement and mesoscopic localization of epidemics on networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2003.05924"
-    year : 2020
-    insubmission: True
+    year : 2021
+    journal: Phys. Rev. Lett. (accepted)
+
 
   - title : "Beyond R<sub>0</sub>: the importance of contact tracing when predicting epidemics"
     authors : "Laurent Hébert-Dufresne, Benjamin M. Althouse, Samuel V. Scarpino, Antoine Allard"
@@ -90,11 +91,15 @@ articles:
     github: 'https://github.com/networkgeometry/mercator'
     type: Preprints
 
-  - title : "Recovering the past states of growing trees"
+  - title : "Inference, Model Selection, and the Combinatorics of Growing Trees"
     authors : "George T. Cantwell, Guillaume St-Onge, Jean-Gabriel Young"
     arxiv : "https://arxiv.org/abs/1910.04788"
-    year : 2019
-    insubmission: True
+    year : 2021
+    journal: Phys. Rev. Lett.
+    edition: 126
+    pagenumber: "038301"
+    fulltext: "https://doi.org/10.1103/PhysRevLett.126.038301"
+    github: "https://github.com/gcant/temporal-recovery-tree-py"
 
   - title : "Smeared phase transition of percolation on real complex networks"
     authors : "Laurent Hébert-Dufresne, Antoine Allard"
