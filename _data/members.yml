@@ -1,8 +1,4 @@
 leaders:
-  - name: Louis J.
-    lastname: Dubé
-    image: "/assets/images/members/dube.png"
-
   - name: Antoine
     lastname: Allard
     image: "/assets/images/members/antoine.jpg"
@@ -15,15 +11,19 @@ leaders:
     image: "/assets/images/members/patrick.jpg"
     website: "https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao"
 
+  - name: Louis J.
+    lastname: Dubé
+    image: "/assets/images/members/dube.png"
+
 
 postdoc:
-  - name: Marina
-    lastname: Vegué Llorente
-    image: "/assets/images/members/marina.jpg"
-
   - name: Ilhem
     lastname: Bouderbala
     image: "/assets/images/members/ilhem.jpg"
+
+  - name: Marina
+    lastname: Vegué Llorente
+    image: "/assets/images/members/marina.jpg"
 
 
 doctoral:
@@ -45,11 +45,18 @@ doctoral:
     github: "https://github.com/VinceThi"
     twitter: "http://twitter.com/vince_thib"
 
+  - name: Zahra
+    lastname: Yazdani
+    image: "/assets/images/members/default.png"
 
 master:
   - name: Béatrice
     lastname: Désy
     image: "/assets/images/members/beatrice.jpg"
+
+  - name: Gabriel
+    lastname: Genest
+    image: "/assets/images/members/default.png"
 
   - name: Antoine
     lastname: Légaré
