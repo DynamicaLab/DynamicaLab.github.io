@@ -79,13 +79,7 @@ master:
 
 
 interns:
-  - name: Bastian
-    lastname: Raulier
-    image: "/assets/images/members/bastian.jpg"
 
-  - name: Jeson
-    lastname: Hermans
-    image: "/assets/images/members/default.png"
 
 
 formers:
@@ -141,6 +135,11 @@ formers:
     task: M.Sc. 2011 & Ph.D. 2014
     website: "http://laurenthebertdufresne.github.io/"
 
+  - name: Jeson
+    lastname: Hermans
+    year: 2020
+    task: Summer & Fall 2020
+
   - name: Edward
     lastname: Laurence
     year: 2020
@@ -171,6 +170,12 @@ formers:
     lastname: Poirier
     year: 2011
     task: M.Sc. 2011
+
+  - name: Bastian
+    lastname: Raulier
+    year: 2020
+    task: Summer 2020
+    image: "/assets/images/members/bastian.jpg"
 
   - name: Olivier
     lastname: Ribordy
