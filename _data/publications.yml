@@ -30,16 +30,20 @@ articles:
   - title : "Social confinement and mesoscopic localization of epidemics on networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2003.05924"
+    fulltext: "https://doi.org/10.1103/PhysRevLett.126.098301"
+    edition: 126
+    pagenumber: "098301"
     year : 2021
     journal: Phys. Rev. Lett.
-    inpress: True
 
   - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2004.10203"
+    fulltext: "https://doi.org/10.1103/PhysRevE.103.032301"
+    editor: 103
+    pagenumber: 032301
     year : 2021
     journal: Phys. Rev. E
-    inpress: True
 
   - title : "Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network"
     authors : "Blake J. M. Williams, Guillaume St-Onge, Laurent Hébert-Dufresne"
