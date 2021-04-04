@@ -422,6 +422,10 @@ ul.event-list {
 //   // background:none !important;
 // }
 
+.award-icon {
+			padding: 1px;
+}
+
 .publi-list {
 	padding-left:0px;
 	padding-right: 30px;
@@ -463,6 +467,9 @@ ul.event-list {
 		}
 		.conference-href {
 			margin-top: 8px;
+		}
+		.conference-award {
+			margin-top: 12px;
 		}
     .publi-ref {
       margin-bottom: 10px;

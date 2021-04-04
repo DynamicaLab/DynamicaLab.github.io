@@ -28,5 +28,10 @@
 		<a class="poster_pf" href="{{ include.publi.poster_pf }}">Printer-friendly</a> 
 	{% endif %}
 	</p>
+  <p class="conference-award">
+  {% if include.publi.award %}
+     <i class="icon fas fa-trophy award-icon"></i> <i>{{include.publi.award}}</i>
+	{% endif %}
+  </p>
 
 </div>
