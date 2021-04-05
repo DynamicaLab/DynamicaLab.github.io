@@ -40,7 +40,7 @@ articles:
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2004.10203"
     fulltext: "https://doi.org/10.1103/PhysRevE.103.032301"
-    editor: 103
+    edition: 103
     pagenumber: 032301
     year : 2021
     journal: Phys. Rev. E
@@ -48,9 +48,11 @@ articles:
   - title : "Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network"
     authors : "Blake J. M. Williams, Guillaume St-Onge, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2007.07429"
+    fulltext: "https://doi.org/10.1371/journal.pcbi.1008606"
     year : 2021
     journal: PLOS Comput. Biol.
-    inpress: True
+    edition: 17
+    pagenumber: e1008606
 
   - title : "Beyond R<sub>0</sub>: the importance of contact tracing when predicting epidemics"
     authors : "Laurent Hébert-Dufresne, Benjamin M. Althouse, Samuel V. Scarpino, Antoine Allard"
@@ -152,7 +154,7 @@ articles:
     year: 2019
     journal: Comput. Phys. Commun.
     edition: "240"
-    pagenumber: "30-37"
+    pagenumber: "30"
     arxiv: "https://arxiv.org/abs/1808.05859"
     github: "https://github.com/gstonge/spreading_CR"
     fulltext: "https://doi.org/10.1016/j.cpc.2019.02.008"
