@@ -1,5 +1,11 @@
 articles:
 
+  - title : "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
+    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
+    arxiv : "https://arxiv.org/abs/2101.07229"
+    year : 2021
+    insubmission: True
+
   - title : "Deep learning of stochastic contagion dynamics on complex networks"
     authors : "Charles Murphy, Edward Laurence, Antoine Allard"
     arxiv : "https://arxiv.org/abs/2006.05410"
