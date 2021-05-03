@@ -88,8 +88,8 @@ interns:
   - name: Olivier
     lastname: Lapointe-Gagné
     image: "/assets/images/members/default.png"
-    
-    - name: Pierre-Luc
+
+  - name: Pierre-Luc
     lastname: Larouche
     image: "/assets/images/members/default.png"
 
