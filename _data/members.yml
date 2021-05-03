@@ -84,6 +84,7 @@ master:
     lastname: Thibault
     image: "/assets/images/members/default.png"
 
+
 interns:
   - name: Olivier
     lastname: Lapointe-Gagné
