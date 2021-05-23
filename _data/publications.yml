@@ -11,6 +11,18 @@ articles:
     year : 2021
     insubmission: True
 
+  - title : "The unintended consequences of inconsistent pandemic control policies"
+    authors : "B. M. Althouse, B. Case, S. V. Scarpino, A. Allard, A. M. Berdahl, E. R. White and L. Hébert-Dufresne"
+    medrxiv : "https://doi.org/10.1101/2020.08.21.20179473"
+    year : 2020
+    insubmission: True
+
+  - title : "Distributed consent and its impact on privacy and observability in social networks"
+    authors : "J. Lovato, A. Allard, R. Harp and L. Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2006.16140"
+    year : 2020
+    insubmission: True
+
   - title : "Deep learning of stochastic contagion dynamics on complex networks"
     authors : "Charles Murphy, Edward Laurence, Antoine Allard"
     arxiv : "https://arxiv.org/abs/2006.05410"
