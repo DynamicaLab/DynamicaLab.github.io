@@ -1,9 +1,17 @@
 conferences:
 
-  - title : "Dimension reduction on heterogeneous networks" 
-    authors : "Marina Vegué, Vincent Thibeault, Patrick Desrosiers, Antoine Allard" 
-    conf : "Fourth Northeast Regional Conference on Complex Systems" 
-    abstract : "assets/pdf/abstracts/nerccs2021_abstract_vegue.pdf" 
+  - title : "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
+    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
+    conf : "SIAM Conference on Applications of Dynamical Systems (DS21)"
+    slides : "assets/pdf/slides/siamds2021_st-onge.pdf"
+    year : 2021
+    country : USA
+    city : Portland
+
+  - title : "Dimension reduction on heterogeneous networks"
+    authors : "Marina Vegué, Vincent Thibeault, Patrick Desrosiers, Antoine Allard"
+    conf : "Fourth Northeast Regional Conference on Complex Systems"
+    abstract : "assets/pdf/abstracts/nerccs2021_abstract_vegue.pdf"
     slides : "assets/pdf/slides/nerccs2021_slides_vegue.pdf"
     year : 2021
     country : USA
