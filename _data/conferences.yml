@@ -1,5 +1,13 @@
 conferences:
 
+  - title : "A stochastic approach to the study of large biological neural networks' dynamics"
+    authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
+    conf : "SIAM Conference on Applications of Dynamical Systems (DS21)"
+    poster : "assets/pdf/posters/siamds2021_poster_painchaud.pdf"
+    year : 2021
+    country : USA
+    city : Portland
+
   - title : "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     conf : "SIAM Conference on Applications of Dynamical Systems (DS21)"
