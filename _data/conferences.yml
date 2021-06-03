@@ -34,7 +34,7 @@ conferences:
     country : USA
     city : Buffalo
     
-   - title : "Dimension reduction of high-dimensional dynamics on networks with adaptation"
+  - title : "Dimension reduction of high-dimensional dynamics on networks with adaptation"
     authors : "Vincent Thibeault, Marina Vegué, Antoine Allard, Patrick Desrosiers"
     conf : "Fourth Northeast Regional Conference on Complex Systems"
     abstract : "assets/pdf/abstracts/Thibeault_Vincent_NERCCS2021_abstract_final.pdf"
