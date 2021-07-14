@@ -7,7 +7,16 @@ conferences:
     slides : "assets/pdf/slides/networks2021_slides_desrosiers.pdf"
     year : 2021
     country : USA
-    city : Bloomington
+    city : Washington DC
+
+  - title : "Realistic clustering patterns in directed geometric networks"
+    authors : "Antoine Allard, M. Ángeles Serrano, Marián Boguñá"
+    conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
+    abstract : "assets/pdf/abstracts/networks2021_abstract_allard.pdf"
+    slides : "assets/pdf/slides/networks2021_slides_allard.pdf"
+    year : 2021
+    country : USA
+    city : Washington DC
 
   - title : "A stochastic approach to the study of large biological neural networks' dynamics"
     authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
