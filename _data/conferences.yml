@@ -1,5 +1,14 @@
 conferences:
 
+  - title : "Dimension reduction of high-dimensional dynamics on networks with adaptation"
+    authors : "Vincent Thibeault, Marina Vegué, Antoine Allard, Patrick Desrosiers"
+    conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
+    abstract : "assets/pdf/abstracts/Thibeault_Vincent_Networks2021_abstract_final.pdf"
+    slides : "assets/pdf/slides/Thibeault_Vincent_Networks2021_slides_final.pdf"
+    year : 2021
+    country : USA
+    city : Bloomington
+
   - title : "Dimension reduction on heterogeneous networks"
     authors : "Marina Vegué, Vincent Thibeault, Patrick Desrosiers, Antoine Allard"
     conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
