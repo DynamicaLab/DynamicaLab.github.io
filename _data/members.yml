@@ -10,6 +10,7 @@ leaders:
     lastname : Desrosiers
     image: "/assets/images/members/patrick.jpg"
     website: "https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao"
+    github: "https://github.com/pdesrosiers"
 
   - name: Louis J.
     lastname: Dubé
