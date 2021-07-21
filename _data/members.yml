@@ -212,6 +212,12 @@ formers:
     year: 2020
     task: M.Sc. 2020
     image: "/assets/images/members/xav.jpg"
+    
+  - name: Vincent
+    lastname: Thibeault
+    year: 2020
+    task: M.Sc. 2020
+    website: "https://scholar.google.ca/citations?user=jHEI8xcAAAAJ&hl=fr&oi=ao"
 
   - name: Samir
     lastname: Saidi
