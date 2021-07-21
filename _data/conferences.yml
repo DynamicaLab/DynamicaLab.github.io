@@ -4,6 +4,7 @@ conferences:
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
     slides : "assets/pdf/slides/networks2021_st-onge_slides.pdf"
+    abstract : "assets/pdf/abstracts/networks2021_st-onge_abstract.pdf"
     year : 2021
     country : USA
     city : Bloomington
