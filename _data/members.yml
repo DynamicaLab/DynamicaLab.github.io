@@ -61,6 +61,7 @@ master:
   - name: Jérémie
     lastname: Gince
     image: "/assets/images/members/jgince.png"
+    github: "https://github.com/JeremieGince"
 
   - name: Jeson
     lastname: Hermans
