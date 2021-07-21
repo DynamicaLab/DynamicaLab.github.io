@@ -65,7 +65,7 @@ master:
 
   - name: Jeson
     lastname: Hermans
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/jeson.png"
 
   - name: Antoine
     lastname: Légaré
@@ -213,7 +213,7 @@ formers:
     year: 2020
     task: M.Sc. 2020
     image: "/assets/images/members/xav.jpg"
-    
+
   - name: Vincent
     lastname: Thibeault
     year: 2020
