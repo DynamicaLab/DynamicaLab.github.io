@@ -1,5 +1,14 @@
 conferences:
 
+  - title : "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
+    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
+    conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
+    slides : "assets/pdf/slides/networks2021_st-onge_slides.pdf"
+    year : 2021
+    country : USA
+    city : Bloomington
+
+
   - title : "Dimension reduction of high-dimensional dynamics on networks with adaptation"
     authors : "Vincent Thibeault, Marina Vegué, Antoine Allard, Patrick Desrosiers"
     conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
