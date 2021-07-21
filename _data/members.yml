@@ -58,6 +58,14 @@ master:
     lastname: Genest
     image: "/assets/images/members/gabriel.jpg"
 
+  - name: Jérémie
+    lastname: Gince
+    image: "/assets/images/members/jgince.png"
+
+  - name: Jeson
+    lastname: Hermans
+    image: "/assets/images/members/default.png"
+
   - name: Antoine
     lastname: Légaré
     image: "/assets/images/members/antoine_légaré.png"
