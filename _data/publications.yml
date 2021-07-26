@@ -1,4 +1,13 @@
 articles:
+  - title : "Dynamical rate equation model for femtosecond laser-induced breakdown in dielectrics"
+    authors : "Jean-Luc Déziel, Louis J. Dubé, Charles Varin"
+    arxiv : "https://arxiv.org/abs/1906.08338"
+    year : 2021
+    journal: Phys. Rev. B
+    edition: 104
+    pagenumber: "045201"
+    fulltext: 'https://doi.org/10.1103/PhysRevB.104.045201'
+
   - title : "Influential groups for seeding and sustaining hypergraph contagions"
     authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2105.07092"
