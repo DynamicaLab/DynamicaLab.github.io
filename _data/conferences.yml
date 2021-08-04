@@ -1,5 +1,23 @@
 conferences:
 
+  - title : "Firing rate distributions in plastic networks of spiking neurons"
+    authors : "Marina Vegué, Antoine Allard, Patrick Desrosiers"
+    conf : "SIAM Conference on Applications of Dynamical Systems (DS21)"
+    abstract : "assets/pdf/abstracts/siam2021_abstract_vegue.pdf"
+    slides : "assets/pdf/slides/siam_networks_2021_slides_vegue.pdf"
+    year : 2021
+    country : USA
+    city : Portland
+
+  - title : "Firing rate distributions in plastic networks of spiking neurons"
+    authors : "Marina Vegué, Antoine Allard, Patrick Desrosiers"
+    conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
+    abstract : "assets/pdf/abstracts/networks2021_abstract_vegue.pdf"
+    slides : "assets/pdf/slides/siam_networks_2021_slides_vegue.pdf"
+    year : 2021
+    country : USA
+    city : Bloomington
+
   - title : "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
@@ -8,7 +26,6 @@ conferences:
     year : 2021
     country : USA
     city : Bloomington
-
 
   - title : "Dimension reduction of high-dimensional dynamics on networks with adaptation"
     authors : "Vincent Thibeault, Marina Vegué, Antoine Allard, Patrick Desrosiers"
