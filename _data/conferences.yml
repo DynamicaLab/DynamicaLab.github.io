@@ -1,22 +1,4 @@
 conferences:
-    # - title : "Information theory of dynamics on networks: Quantifying the structure function relationship"
-    # authors : "Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers"
-    # conf : "SIAM Conference on Applications of Dynamical Systems (DS21)"
-    # # abstract : "assets/pdf/abstracts/networks2021_abstract_murphy.pdf"
-    # # slides : "assets/pdf/slides/siam_networks_2021_slides_murphy.pdf"
-    # year : 2021
-    # country : USA
-    # city : Portland
-    #
-    # - title : "Information theory of dynamics on networks: Quantifying the structure function relationship"
-    # authors : "Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers"
-    # conf : "Networks 2021: A Joint Sunbelt and NetSci Conference"
-    # # abstract : "assets/pdf/abstracts/networks2021_abstract_murphy.pdf"
-    # # slides : "assets/pdf/slides/siam_networks_2021_slides_murphy.pdf"
-    # year : 2021
-    # country : USA
-    # city : Bloomington
-
   - title : "Firing rate distributions in plastic networks of spiking neurons"
     authors : "Marina Vegué, Antoine Allard, Patrick Desrosiers"
     conf : "SIAM Conference on Applications of Dynamical Systems (DS21)"
