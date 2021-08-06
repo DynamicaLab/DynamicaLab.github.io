@@ -1,4 +1,13 @@
 articles:
+  - title : "Deep learning of stochastic contagion dynamics on complex networks"
+    authors : "Charles Murphy, Edward Laurence, Antoine Allard"
+    arxiv : "https://arxiv.org/abs/2006.05410"
+    year : 2021
+    journal : Nature Commun.
+    edition : 12
+    pagenumber : "4720"
+    fulltext : "https://doi.org/10.1038/s41467-021-24732-2"
+
   - title : "Dynamical rate equation model for femtosecond laser-induced breakdown in dielectrics"
     authors : "Jean-Luc Déziel, Louis J. Dubé, Charles Varin"
     arxiv : "https://arxiv.org/abs/1906.08338"
@@ -29,12 +38,6 @@ articles:
   - title : "Distributed consent and its impact on privacy and observability in social networks"
     authors : "J. Lovato, A. Allard, R. Harp and L. Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2006.16140"
-    year : 2020
-    insubmission: True
-
-  - title : "Deep learning of stochastic contagion dynamics on complex networks"
-    authors : "Charles Murphy, Edward Laurence, Antoine Allard"
-    arxiv : "https://arxiv.org/abs/2006.05410"
     year : 2020
     insubmission: True
 
