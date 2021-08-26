@@ -3,7 +3,7 @@ articles:
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     arxiv : "https://arxiv.org/abs/2101.07229"
     year : 2021
-    journal : Physical Review Letters
+    journal : Phys. Rev. Lett.
     inpress: True
 
   - title : "Deep learning of stochastic contagion dynamics on complex networks"
