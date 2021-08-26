@@ -1,4 +1,11 @@
 articles:
+  - title : "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
+    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
+    arxiv : "https://arxiv.org/abs/2101.07229"
+    year : 2021
+    journal : Physical Review Letters
+    inpress: True
+
   - title : "Deep learning of stochastic contagion dynamics on complex networks"
     authors : "Charles Murphy, Edward Laurence, Antoine Allard"
     arxiv : "https://arxiv.org/abs/2006.05410"
@@ -22,12 +29,6 @@ articles:
     arxiv : "https://arxiv.org/abs/2105.07092"
     year : 2021
     insubmission : true
-
-  - title : "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
-    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
-    arxiv : "https://arxiv.org/abs/2101.07229"
-    year : 2021
-    insubmission: True
 
   - title : "The unintended consequences of inconsistent pandemic control policies"
     authors : "B. M. Althouse, B. Case, S. V. Scarpino, A. Allard, A. M. Berdahl, E. R. White and L. Hébert-Dufresne"
