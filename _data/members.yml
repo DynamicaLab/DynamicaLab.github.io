@@ -96,17 +96,7 @@ master:
 
 
 interns:
-  - name: Olivier
-    lastname: Lapointe-Gagné
-    image: "/assets/images/members/default.png"
 
-  - name: Pierre-Luc
-    lastname: Larouche
-    image: "/assets/images/members/pierreluc.jpg"
-
-  - name: Jérémi
-    lastname: Lesage
-    image: "/assets/images/members/jeremi.jpg"
 
 
 formers:
@@ -166,6 +156,24 @@ formers:
     lastname: Hermans
     year: 2020
     task: Summer & Fall 2020
+
+  - name: Olivier
+    lastname: Lapointe-Gagné
+    year: 2021
+    task: Summer 2021
+    image: "/assets/images/members/default.png"
+
+  - name: Pierre-Luc
+    lastname: Larouche
+    year: 2021
+    task: Summer 2021
+    image: "/assets/images/members/pierreluc.jpg"
+
+  - name: Jérémi
+    lastname: Lesage
+    year: 2021
+    task: Summer 2021
+    image: "/assets/images/members/jeremi.jpg"
 
   - name: Edward
     lastname: Laurence
