@@ -11,3 +11,5 @@ _site/
 # End of https://www.gitignore.io/api/jekyll
 
 *.DS_Store
+dynamicalab.github.io.sublime-project
+dynamicalab.github.io.sublime-workspace
