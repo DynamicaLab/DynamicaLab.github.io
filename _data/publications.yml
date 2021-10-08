@@ -26,7 +26,7 @@ articles:
     pagenumber: "045201"
     fulltext: 'https://doi.org/10.1103/PhysRevB.104.045201'
 
-  - title : "Influential groups for seeding and sustaining hypergraph contagions"
+  - title : "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
     authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2105.07092"
     year : 2021
