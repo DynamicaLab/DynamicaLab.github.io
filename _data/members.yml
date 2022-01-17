@@ -88,7 +88,7 @@ master:
 
   - name: Olivier
     lastname: Ribordy
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/olivier2.png"
 
   - name: François
     lastname: Thibault
