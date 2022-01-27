@@ -83,6 +83,13 @@ thesis:
     year: 1997
     fulltext : "assets/pdf/theses/poulin97_thesis.pdf"
 
+  - title: "Dynamique markovienne ternaire cyclique sur graphes et quelques applications en biologie mathématique"
+    subtitle : "Cyclic ternary Markovian dynamics on graphs and some applications in mathematical biology"
+    authors: Vincent Painchaud
+    type: M.Sc.
+    year: 2021
+    fulltext : "assets/pdf/theses/painchaud22_master.pdf"
+
 
   - title: "Réduire la dimension des systèmes complexes: un regard sur l’émergence de la synchronisation"
     subtitle : "Reducing the dimension of complex systems: a look at the emergence of synchronization"
