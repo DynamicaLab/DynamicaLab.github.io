@@ -1,4 +1,10 @@
 articles:
+  - title : "One for All"
+    authors : "Patrick Desrosiers, Xavier Roy-Pomerleau"
+    year : 2022
+    journal : Nature Physics
+    fulltext : "https://doi.org/10.1038/s41567-021-01449-z"
+
   - title : "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     arxiv : "https://arxiv.org/abs/2101.07229"
