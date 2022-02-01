@@ -1,4 +1,10 @@
 articles:
+  - title : "Effects of global change on animal biodiversity in boreal forest landscape: an assemblage dissimilarity analysis"
+    authors : "Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin"
+    biorxiv : "https://www.biorxiv.org/content/10.1101/2022.01.31.477297v1"
+    year : 2022
+    insubmission: True
+
   - title : "One for All"
     authors : "Patrick Desrosiers, Xavier Roy-Pomerleau"
     year : 2022
