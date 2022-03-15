@@ -199,6 +199,7 @@ formers:
 
   - name: Vincent
     lastname: Painchaud
+    year: 2021
     task: M.Sc. 2021
     image: "/assets/images/members/vincentp.jpg"
     website: "https://github.com/vincentpainchaud"
