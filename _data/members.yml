@@ -82,10 +82,6 @@ master:
     lastname: Normand
     image: "/assets/images/members/francisn.jpg"
 
-  - name: Vincent
-    lastname: Painchaud
-    image: "/assets/images/members/vincentp.jpg"
-
   - name: Olivier
     lastname: Ribordy
     image: "/assets/images/members/olivier2.png"
@@ -200,6 +196,12 @@ formers:
     lastname: Painchaud-April
     year: 2014
     task: M.Sc. 2008 & Ph.D. 2014
+
+  - name: Vincent
+    lastname: Painchaud
+    task: M.Sc. 2021
+    image: "/assets/images/members/vincentp.jpg"
+    website: "https://github.com/vincentpainchaud"
 
   - name: Julien
     lastname: Poirier
