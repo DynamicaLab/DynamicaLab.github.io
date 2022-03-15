@@ -9,6 +9,8 @@ articles:
     authors : "Patrick Desrosiers, Xavier Roy-Pomerleau"
     year : 2022
     journal : Nature Physics
+    edition : 18
+    pagenumber : 238
     fulltext : "https://doi.org/10.1038/s41567-021-01449-z"
 
   - title : "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
