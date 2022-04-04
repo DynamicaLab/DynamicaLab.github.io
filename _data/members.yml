@@ -32,12 +32,6 @@ doctoral:
     lastname: Murphy
     image: "/assets/images/members/charles.jpg"
 
-  - name: Guillaume
-    lastname: St-Onge
-    image: "/assets/images/members/gui.jpg"
-    website: "http://gstonge.github.io"
-    github: "https://github.com/gstonge"
-
   - name: Vincent
     lastname: Thibeault
     image: "/assets/images/members/vincent_thibeault.png"
@@ -225,6 +219,14 @@ formers:
     year: 2020
     task: M.Sc. 2020
     image: "/assets/images/members/xav.jpg"
+
+  - name: Guillaume
+    lastname: St-Onge
+    image: "/assets/images/members/gui.jpg"
+    website: "http://gstonge.github.io"
+    github: "https://github.com/gstonge"
+    year: 2022
+    task: Msc 2017 & PhD 2022
 
   - name: Vincent
     lastname: Thibeault
