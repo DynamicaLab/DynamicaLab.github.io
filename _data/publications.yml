@@ -1,4 +1,10 @@
 articles:
+  - title : "Beyond Wilson-Cowan dynamics: oscillations and chaos without inhibition"
+    authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
+    arxiv : "https://arxiv.org/abs/2204.00583"
+    year : 2022
+    insubmission: True
+
   - title : "Effects of global change on animal biodiversity in boreal forest landscape: an assemblage dissimilarity analysis"
     authors : "Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin"
     biorxiv : "https://www.biorxiv.org/content/10.1101/2022.01.31.477297v1"
