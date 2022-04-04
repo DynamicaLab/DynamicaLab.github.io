@@ -1,3 +1,16 @@
+- eventtype: Symposium
+  title: Joint Dynamica/Numerica symposium
+  date: 2022-04-28
+
+- eventtype: Seminar
+  title: Structural and dynamical features of hiPSCs-derived neuronal networks
+  subtitle: Zahra Yazdani's PhD exam
+  date: 2022-04-21
+
+- eventtype: Seminar
+  title: Reconstruction d'hypergraphes de données bruitées par inférence bayésienne
+  subtitle: Simon Lizotte MSc's colloquium
+  date: 2022-04-05
 
 - eventtype: Seminar
   title: Une introduction aux réseaux de convolution de graphes
