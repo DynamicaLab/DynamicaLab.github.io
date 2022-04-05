@@ -6,6 +6,15 @@ conferences:
     country : USA
     city : Buffalo
 
+  - title : "Whole-brain Ca2+ imaging in larval zebrafish"
+    authors : "Antoine Légaré, Vincent Boily, Mado Lemieux, Patrick Desrosiers, Paul De Koninck"
+    conf : "14th Canadian Neuroscience Meeting"
+    abstract : "assets/pdf/abstracts/can2021_abstract_legare.pdf"
+    slides : "assets/pdf/slides/can2021_slides_legare.pdf"
+    year : 2021
+    country : Canada
+    city : Online
+
   - title : "Firing rate distributions in plastic networks of spiking neurons"
     authors : "Marina Vegué, Antoine Allard, Patrick Desrosiers"
     conf : "SIAM Conference on Applications of Dynamical Systems (DS21)"
