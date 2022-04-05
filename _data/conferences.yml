@@ -1,4 +1,13 @@
 conferences:
+  - title : "The low-dimension hypothesis implies higher-order interactions in complex systems"
+    authors : "Vincent Thibeault, Antoine Allard, Patrick Desrosiers"
+    conf : "Fifth Northeast Regional Conference on Complex Systems (NERCCS 2022)"
+    abstract : "assets/pdf/abstracts/Thibeault_Vincent_NERCCS_2022.pdf"
+    slides : "assets/pdf/slides/Thibeault_presentation_NERCCS_2022.pdf"
+    year : 2022
+    country : USA
+    city : Buffalo
+
   - title : "Firing rate distributions in plastic networks of spiking neurons"
     authors : "Marina Vegué, Antoine Allard, Patrick Desrosiers"
     conf : "SIAM Conference on Applications of Dynamical Systems (DS21)"
