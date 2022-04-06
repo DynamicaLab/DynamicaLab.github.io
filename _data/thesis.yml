@@ -1,6 +1,13 @@
 
 
 thesis:
+  - title: Processus de contagion sur réseaux complexes au-delà des interactions dyadiques
+    authors: Guillaume St-Onge
+    subtitle: Contagion processes in complex networks beyond dyadic interactions
+    type: Ph.D.
+    year: 2022
+    fulltext : "http://hdl.handle.net/20.500.11794/72971"
+
   - title: Formation et auto-organisation de plasma induit par impulsions laser intenses dans un milieu diélectrique
     authors: Jean-Luc Déziel
     subtitle: Plasma formation and self-organisation in a dielectric medium induced by short intense laser pulses
