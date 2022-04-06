@@ -6,6 +6,13 @@ conferences:
     country : USA
     city : Buffalo
 
+  - title : "Nonlinear infection rate to compress mechanistic epidemic models"
+    authors : "Guillaume St-Onge, Laurent Hébert-Dufresne, Antoine Allard"
+    conf : "Fifth Northeast Regional Conference on Complex Systems (NERCCS 2022)"
+    year : 2022
+    country : USA
+    city : Buffalo
+
   - title : "Whole-brain Ca2+ imaging in larval zebrafish"
     authors : "Antoine Légaré, Vincent Boily, Mado Lemieux, Patrick Desrosiers, Paul De Koninck"
     conf : "14th Canadian Neuroscience Meeting"
@@ -96,7 +103,7 @@ conferences:
 
   - title : "Dimension reduction on heterogeneous networks"
     authors : "Marina Vegué, Vincent Thibeault, Patrick Desrosiers, Antoine Allard"
-    conf : "Fourth Northeast Regional Conference on Complex Systems"
+    conf : "Fourth Northeast Regional Conference on Complex Systems (NERCCS 2021)"
     abstract : "assets/pdf/abstracts/nerccs2021_abstract_vegue.pdf"
     slides : "assets/pdf/slides/nerccs2021_slides_vegue.pdf"
     year : 2021
@@ -105,7 +112,7 @@ conferences:
 
   - title : "Dimension reduction of high-dimensional dynamics on networks with adaptation"
     authors : "Vincent Thibeault, Marina Vegué, Antoine Allard, Patrick Desrosiers"
-    conf : "Fourth Northeast Regional Conference on Complex Systems"
+    conf : "Fourth Northeast Regional Conference on Complex Systems (NERCCS 2021)"
     abstract : "assets/pdf/abstracts/Thibeault_Vincent_NERCCS2021_abstract_final.pdf"
     slides : "assets/pdf/slides/Thibeault_Vincent_NERCCS2021_slides_final.pdf"
     year : 2021
@@ -114,7 +121,7 @@ conferences:
 
   - title : "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
-    conf : "Fourth Northeast Regional Conference on Complex Systems"
+    conf : "Fourth Northeast Regional Conference on Complex Systems (NERCCS 2021)"
     abstract : "assets/pdf/abstracts/nerccs2021_abstract_st-onge.pdf"
     slides : "assets/pdf/slides/nerccs2021_slides_st-onge.pdf"
     year : 2021

@@ -1,4 +1,16 @@
 articles:
+  - title : Hierarchical team structure and multidimensional localization (or siloing) on networks
+    authors : Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James P. Bagrow, Antoine Allard
+    arxiv : https://arxiv.org/abs/2203.00745
+    year : 2022
+    insubmission: True
+
+  - title : The network epidemiology of an Ebola epidemic
+    authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Jamie Bedson, Laura A. Skrip, Danielle Pedi, Mohammed F. Jalloh, Bastian Raulier, Olivier Lapointe-Gagné, Amara Jambai, Antoine Allard and Benjamin M. Althouse
+    arxiv : "https://arxiv.org/abs/2111.08686"
+    year : 2021
+    insubmission: True
+
   - title : "Beyond Wilson-Cowan dynamics: oscillations and chaos without inhibition"
     authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
     arxiv : "https://arxiv.org/abs/2204.00583"
@@ -14,7 +26,7 @@ articles:
   - title : "One for All"
     authors : "Patrick Desrosiers, Xavier Roy-Pomerleau"
     year : 2022
-    journal : Nature Physics
+    journal : Nat. Phys.
     edition : 18
     pagenumber : 238
     fulltext : "https://doi.org/10.1038/s41567-021-01449-z"
@@ -28,14 +40,14 @@ articles:
     pagenumber : 158301
     fulltext : "https://doi.org/10.1103/PhysRevLett.127.158301"
 
-  - title : "Deep learning of stochastic contagion dynamics on complex networks"
-    authors : "Charles Murphy, Edward Laurence, Antoine Allard"
-    arxiv : "https://arxiv.org/abs/2006.05410"
+  - title : Deep learning of stochastic contagion dynamics on complex networks
+    authors : Charles Murphy, Edward Laurence, Antoine Allard
+    arxiv : https://arxiv.org/abs/2006.05410
     year : 2021
     journal : Nat. Commun.
     edition : 12
-    pagenumber : "4720"
-    fulltext : "https://doi.org/10.1038/s41467-021-24732-2"
+    pagenumber : 4720
+    fulltext : https://doi.org/10.1038/s41467-021-24732-2
 
   - title : "Dynamical rate equation model for femtosecond laser-induced breakdown in dielectrics"
     authors : "Jean-Luc Déziel, Louis J. Dubé, Charles Varin"
@@ -46,24 +58,24 @@ articles:
     pagenumber: "045201"
     fulltext: 'https://doi.org/10.1103/PhysRevB.104.045201'
 
-  - title : "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
-    authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
-    arxiv : "https://arxiv.org/abs/2105.07092"
+  - title : Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs
+    authors : Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne
+    arxiv : https://arxiv.org/abs/2105.07092
     year : 2022
     journal : Commun. Phys.
     edition : 5
-    pagenumber : "25"
-    fulltext : "https://doi.org/10.1038/s42005-021-00788-w"
+    pagenumber : 25
+    fulltext : https://doi.org/10.1038/s42005-021-00788-w
 
-  - title : "The unintended consequences of inconsistent pandemic control policies"
-    authors : "B. M. Althouse, B. Case, S. V. Scarpino, A. Allard, A. M. Berdahl, E. R. White and L. Hébert-Dufresne"
-    medrxiv : "https://doi.org/10.1101/2020.08.21.20179473"
+  - title : The unintended consequences of inconsistent pandemic control policies
+    authors : Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Antoine Allard, Andrew M. Berdahl, Easton R. White, Laurent Hébert-Dufresne
+    medrxiv : https://doi.org/10.1101/2020.08.21.20179473
     year : 2020
     insubmission: True
 
-  - title : "Distributed consent and its impact on privacy and observability in social networks"
-    authors : "J. Lovato, A. Allard, R. Harp and L. Hébert-Dufresne"
-    arxiv : "https://arxiv.org/abs/2006.16140"
+  - title : Limits of Individual Consent and Models of Distributed Consent in Online Social Networks
+    authors : Juniper Lovato, Antoine Allard, Randall Harp, Jeremiah Onaolapo, Laurent Hébert-Dufresne
+    arxiv : https://arxiv.org/abs/2006.16140
     year : 2020
     insubmission: True
 
@@ -74,19 +86,19 @@ articles:
     insubmission: True
 
   - title : "Superspreading events in the transmission dynamics of SARS-CoV-2: Opportunities for interventions and control"
-    authors : "Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, Laurent Hébert-Dufresne, Hao Hu"
-    arxiv : "https://arxiv.org/abs/2005.13689"
+    authors : Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, Laurent Hébert-Dufresne, Hao Hu
+    arxiv : https://arxiv.org/abs/2005.13689
     year : 2020
     journal: PLOS Biol.
     edition: 18
-    pagenumber: "e3000897"
-    fulltext: 'https://doi.org/10.1371/journal.pbio.3000897'
+    pagenumber: e3000897
+    fulltext: https://doi.org/10.1371/journal.pbio.3000897
 
-  - title : "The role of directionality, heterogeneity and correlations in epidemic risk and spread"
-    authors : "Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne"
-    arxiv : "https://arxiv.org/abs/2005.11283"
-    year : 2020
-    insubmission: True
+  - title : The role of directionality, heterogeneity and correlations in epidemic risk and spread
+    authors : Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne
+    arxiv : https://arxiv.org/abs/2005.11283
+    year : 2022
+    journal: SIAM Rev. (in press)
 
   - title : "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
@@ -114,6 +126,23 @@ articles:
     journal: PLOS Comput. Biol.
     edition: 17
     pagenumber: e1008606
+
+  - title : Geometric renormalization unravels self-similarity of the multiscale human connectome
+    authors : Muhua Zheng, Antoine Allard, Patric Hagmann, Yasser Alemán-Gómez, M. Ángeles Serrano
+    arxiv : https://arxiv.org/abs/1904.11793
+    year : 2020
+    journal: Proc. Natl. Acad. Sci. U.S.A.
+    edition: 117
+    pagenumber: 20244
+    fulltext: https://doi.org/10.1073/pnas.1922248117
+
+  - title : Genome-scale modeling of metabolism in the polar diatom Fragilariopsis cylindrus underscores the strong robustness of growth rate in response to cellular perturbations
+    authors : Michel Lavoie, Blanche Saint-Béat, Jan Strauss, Sébastien Guérin, Antoine Allard, Simon V. Hardy, Angela Falciatore, Johann Lavaud
+    year : 2020
+    journal: Biology
+    edition: 9
+    pagenumber: 30
+    fulltext: https://doi.org/10.3390/biology9020030
 
   - title : "Beyond R<sub>0</sub>: the importance of contact tracing when predicting epidemics"
     authors : "Laurent Hébert-Dufresne, Benjamin M. Althouse, Samuel V. Scarpino, Antoine Allard"
@@ -243,7 +272,7 @@ articles:
     type: Preprints
 
   - title: Geometric evolution of complex networks with degree correlations
-    authors: Charles Murphy, Antoine Allard, Edward Laurence, Guillaume St-Onge and  Louis J. Dubé
+    authors: Charles Murphy, Antoine Allard, Edward Laurence, Guillaume St-Onge,  Louis J. Dubé
     year: 2018
     journal: Phys. Rev. E
     edition: 97
@@ -350,7 +379,7 @@ articles:
     year : 2014
 
   - title : "Coexistence of phases and the observability of random graphs [Editor's Suggestion]"
-    authors : "Antoine Allard, Laurent Hébert-Dufresne, Jean-Gabriel Young Louis J. Dubé"
+    authors : "Antoine Allard, Laurent Hébert-Dufresne, Jean-Gabriel Young, Louis J. Dubé"
     edition : "89"
     journal : "Phys. Rev. E"
     fulltext : "http://dx.doi.org/10.1103/PhysRevE.89.022801"
@@ -593,7 +622,7 @@ articles:
     arxiv : "http://arxiv.org/abs/1005.1093"
 
   - title : "Universality of Level Spacing Distributions in Classical Chaos"
-    authors : "J.F. Laprise, O. Blondeau-Fournier, J. Kröger, H. Kröger, Pierre-Yves St-Louis, Louis J. Dubé, E. Endresse, A. Burra, R. Zomorrodi, G. Melkonyan, and K.J.M. Moriarty"
+    authors : "J.F. Laprise, O. Blondeau-Fournier, J. Kröger, H. Kröger, Pierre-Yves St-Louis, Louis J. Dubé, E. Endresse, A. Burra, R. Zomorrodi, G. Melkonyan, K.J.M. Moriarty"
     journal : "Phys. Lett. A "
     edition : "372"
     year : 2008
@@ -625,7 +654,7 @@ articles:
     fulltext : "http://dx.doi.org/10.1364/JOSAB.23.000036"
 
   - title : "Bifurcation Analysis of Optically Induced Dynamics in Nematic Liquid Crystals: Elliptical Polarization at Normal Incidence"
-    authors : "D.O. Krimer, L. Kramer, Étienne Brasselet, T. Galstian, and Louis J. Dubé"
+    authors : "D.O. Krimer, L. Kramer, Étienne Brasselet, T. Galstian, Louis J. Dubé"
     journal : "J. Opt. Soc. Am. B "
     edition : "22"
     pagenumber : "1681-1690"
@@ -681,7 +710,7 @@ articles:
     fulltext : "http://www.sciencedirect.com/science/article/B6TVM-45S9J30-2/2/9c8ff4c89438fb58eefab3e30fb06d70"
 
   - title : "Targeting Unknown and Unstable Periodic Orbits"
-    authors : "Bernard Doyon and Louis J. Dubé"
+    authors : "Bernard Doyon, Louis J. Dubé"
     journal : "Phys. Rev. E"
     edition : "65"
     pagenumber : "037202 (1-4)"
