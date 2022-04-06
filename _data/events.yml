@@ -8,6 +8,16 @@
   date: 2022-04-21
 
 - eventtype: Seminar
+  title: Reconstruction d’hypergraphes de données bruitées par inférence bayésienne
+  subtitle: Simon Lizotte's seminar at CIMMUL
+  date: 2022-04-08
+
+- eventtype: Seminar
+  title: Deep learning of contagion dynamics on complex networks
+  subtitle: Charles Murphy's seminar at Quantact
+  date: 2022-04-08
+
+- eventtype: Seminar
   title: Reconstruction d'hypergraphes de données bruitées par inférence bayésienne
   subtitle: Simon Lizotte's MSc colloquium
   date: 2022-04-05
