@@ -31,6 +31,14 @@ articles:
     pagenumber : 238
     fulltext : "https://doi.org/10.1038/s41567-021-01449-z"
 
+  - title : Predicting the diversity of early epidemic spread on networks
+    authors : Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Roberts, Antoine Allard, Laurent Hébert-Dufresne
+    year : 2022
+    journal : Phys. Rev. Research
+    edition : 4
+    pagenumber : 013123
+    fulltext : "https://doi.org/10.1103/PhysRevResearch.4.013123"
+
   - title : "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     arxiv : "https://arxiv.org/abs/2101.07229"
