@@ -23,6 +23,14 @@ articles:
     year : 2022
     insubmission: True
 
+  - title : "Toward an integrative neurovascular framework for studying brain networks"
+    authors : "Jérémie Guilbert, Antoine Légaré, Paul De Koninck, Patrick Desrosiers, Michèle Desjardins"
+    year : 2022
+    journal : Neurophotonics
+    edition : 9
+    pagenumber : 032211
+    fulltext : "https://doi.org/10.1117/1.NPh.9.3.032211"
+
   - title : "One for All"
     authors : "Patrick Desrosiers, Xavier Roy-Pomerleau"
     year : 2022
