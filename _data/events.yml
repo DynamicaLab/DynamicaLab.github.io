@@ -1,3 +1,18 @@
+- eventtype: Seminar
+  title: TBD
+  subtitle: Béatrice Désy's MSc colloquium
+  date: 2022-06-02
+
+- eventtype: Seminar
+  title: TBD
+  subtitle: Olivier Ribordy's MSc colloquium
+  date: 2022-06-02
+
+- eventtype: Seminar
+  title: TBD
+  subtitle: François Thibault's MSc colloquium
+  date: 2022-06-01
+
 - eventtype: Symposium
   title: Joint Dynamica/Numerica symposium
   date: 2022-04-28
