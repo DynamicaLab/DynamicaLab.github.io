@@ -49,10 +49,6 @@ master:
     lastname: Désy
     image: "/assets/images/members/beatrice.jpg"
 
-  - name: Gabriel
-    lastname: Genest
-    image: "/assets/images/members/gabriel.jpg"
-
   - name: Jérémie
     lastname: Gince
     image: "/assets/images/members/jgince.png"
