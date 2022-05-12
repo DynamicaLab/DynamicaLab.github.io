@@ -1,4 +1,10 @@
 articles:
+  - title : "Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns"
+    authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Alexander Daniels, Antoine Allard
+    arxiv : https://arxiv.org/abs/2204.08444
+    year : 2022
+    insubmission: True
+
   - title : Hierarchical team structure and multidimensional localization (or siloing) on networks
     authors : Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James P. Bagrow, Antoine Allard
     arxiv : https://arxiv.org/abs/2203.00745
@@ -92,8 +98,8 @@ articles:
   - title : Limits of Individual Consent and Models of Distributed Consent in Online Social Networks
     authors : Juniper Lovato, Antoine Allard, Randall Harp, Jeremiah Onaolapo, Laurent Hébert-Dufresne
     arxiv : https://arxiv.org/abs/2006.16140
-    year : 2020
-    insubmission: True
+    year : 2022
+    journal : 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22; in press)
 
   - title : "Detecting structural perturbations from time series with deep learning"
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
