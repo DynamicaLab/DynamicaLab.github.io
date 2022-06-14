@@ -1,4 +1,10 @@
 articles:
+  - title : "Duality between predictability and reconstructability in complex systems"
+    authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    arxiv : https://arxiv.org/abs/2206.04000
+    year : 2022
+    insubmission: True
+
   - title : "Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns"
     authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Alexander Daniels, Antoine Allard
     arxiv : https://arxiv.org/abs/2204.08444
