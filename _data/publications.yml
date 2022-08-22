@@ -1,4 +1,10 @@
 articles:
+  - title : "Long-term effect of forest harvesting on boreal species assemblages under climate change"
+    authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Junior A. Tremblay, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
+    biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664v1
+    year : 2022
+    insubmission: True
+
   - title : "Duality between predictability and reconstructability in complex systems"
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     arxiv : https://arxiv.org/abs/2206.04000
@@ -31,7 +37,7 @@ articles:
 
   - title : "Effects of global change on animal biodiversity in boreal forest landscape: an assemblage dissimilarity analysis"
     authors : "Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin"
-    biorxiv : "https://www.biorxiv.org/content/10.1101/2022.01.31.477297v1"
+    biorxiv : "https://www.biorxiv.org/content/10.1101/2022.01.31.477297v2"
     year : 2022
     insubmission: True
 
