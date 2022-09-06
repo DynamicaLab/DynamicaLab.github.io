@@ -33,7 +33,10 @@ articles:
     authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
     arxiv : "https://arxiv.org/abs/2204.00583"
     year : 2022
-    insubmission: True
+    journal: Biol. Cybern.
+    edition: 116
+    pagenumber: 5
+    fulltext: "https://doi.org/10.1007/s00422-022-00941-w"
 
   - title : "Effects of global change on animal biodiversity in boreal forest landscape: an assemblage dissimilarity analysis"
     authors : "Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin"
