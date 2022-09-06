@@ -1,4 +1,10 @@
 articles:
+  - title : "The low-rank hypothesis of complex systems"
+    authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    arxiv : https://arxiv.org/abs/2208.04848
+    year : 2022
+    insubmission: True
+
   - title : "Long-term effect of forest harvesting on boreal species assemblages under climate change"
     authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Junior A. Tremblay, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
     biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664v1
