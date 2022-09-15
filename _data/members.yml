@@ -43,6 +43,14 @@ doctoral:
     lastname: Yazdani
     image: "/assets/images/members/zahra.jpg"
 
+  - name: Antoine
+    lastname: Légaré
+    image: "/assets/images/members/antoine_légaré.png"
+
+  - name: Marziyeh
+    lastname: Pourmousavi
+    image: "/assets/images/members/default.png"
+
 
 master:
   - name: Béatrice
@@ -57,10 +65,6 @@ master:
   - name: Jeson
     lastname: Hermans
     image: "/assets/images/members/jeson.png"
-
-  - name: Antoine
-    lastname: Légaré
-    image: "/assets/images/members/antoine_légaré.png"
 
   - name: Simon
     lastname: Lizotte
@@ -83,7 +87,13 @@ master:
 
 interns:
 
+  - name: Benjamin
+    lastname: Claveau
+    image: "/assets/images/members/default.png"
 
+  - name: Anthony
+    lastname: Drouin
+    image: "/assets/images/members/default.png"
 
 formers:
   - name: Antoine
