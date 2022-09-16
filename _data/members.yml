@@ -28,9 +28,17 @@ postdoc:
 
 
 doctoral:
+  - name: Antoine
+    lastname: Légaré
+    image: "/assets/images/members/antoine_légaré.png"
+
   - name: Charles
     lastname: Murphy
     image: "/assets/images/members/charles.jpg"
+
+  - name: Marziyeh
+    lastname: Pourmousavi
+    image: "/assets/images/members/marziyeh.png"
 
   - name: Vincent
     lastname: Thibeault
@@ -42,14 +50,6 @@ doctoral:
   - name: Zahra
     lastname: Yazdani
     image: "/assets/images/members/zahra.jpg"
-
-  - name: Antoine
-    lastname: Légaré
-    image: "/assets/images/members/antoine_légaré.png"
-
-  - name: Marziyeh
-    lastname: Pourmousavi
-    image: "/assets/images/members/default.png"
 
 
 master:
@@ -65,6 +65,10 @@ master:
   - name: Jeson
     lastname: Hermans
     image: "/assets/images/members/jeson.png"
+
+  - name: Jérémi
+    lastname: Lesage
+    image: "/assets/images/members/jeremi.jpg"
 
   - name: Simon
     lastname: Lizotte
@@ -89,7 +93,7 @@ interns:
 
   - name: Benjamin
     lastname: Claveau
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/benjamin.png"
 
   - name: Anthony
     lastname: Drouin
