@@ -13,18 +13,18 @@
     {% if include.publi.inpress %}
       <!-- journals -->
       {% if include.publi.journal %}
-        <p class="publi-ref">{{include.publi.journal}} (Accepted) </p>
+        <p class="publi-ref">{{include.publi.journal}} (in press) </p>
       {% else %}
         <!-- books -->
         {% if include.publi.book %}
-          <p class="publi-ref">{{include.publi.book}}, (Accepted)</p>
+          <p class="publi-ref">{{include.publi.book}}, (in press)</p>
         {% endif %}
       {% endif %}
     {% else %}
     <!-- Published -->
       <!-- journals -->
       {% if include.publi.journal %}
-        <p class="publi-ref">{{include.publi.journal}}, <span class="edition">{{include.publi.edition}}</span>, <span class="pagenumber">{{include.publi.pagenumber}}</span></p>
+        <p class="publi-ref">{{include.publi.journal}}, <span class="edition">{{include.publi.edition}}</span>, <span class="pagenumber">{{include.publi.pagenumber}} ({{include.publi.year}})</span></p>
       {% else %}
         <!-- books -->
         {% if include.publi.book %}
