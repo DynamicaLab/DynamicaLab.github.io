@@ -23,7 +23,7 @@ custom_js:
       {% for pupliyear in publis %}
         {% if pupliyear.name == "true" %}
           <div class="publication-year-container">
-            <h5 class="publi-year-category" id="year{{pupliyear.name}}">Submitted manuscripts and preprints</h5>
+            <h5 class="publi-year-category" id="year{{pupliyear.name}}">Preprints</h5>
             {% for pupli in pupliyear.items %}
               {% include publi-view.html publi=pupli%}
             {% endfor %}
@@ -41,8 +41,10 @@ custom_js:
         <div class="publication-year-container">
           <h5 class="publi-year-category" id="year{{pupliyear.name}}">{{ pupliyear.name }}</h5>
           {% for pupli in pupliyear.items %}
-            <!-- {{ publi}} -->
-        	  {% include publi-view.html publi=pupli%}
+            <!-- {{ pupli }} -->
+            {% if pupli.insubmission != true %}
+        	    {% include publi-view.html publi=pupli%}
+            {% endif %}
           {% endfor %}
           <hr class="separator">
         </div>
@@ -123,20 +125,20 @@ custom_js:
         </div>
 
 
-      <div class="filtering-articles filtering-container publi-active">
+<!--       <div class="filtering-articles filtering-container publi-active">
         <hr>
         <h5 class="blue-subtitle">Year</h5>
         {% assign publiss = site.data.publications.articles | group_by:"year" %}
         {% assign publis = publiss | sort: "name" | reverse %}
           <div class="publication-year-container">
-            <a class="publi-year-category" href="#yeartrue">Under review</a>
+            <a class="publi-year-category" href="#yeartrue">Preprints</a>
           </div>
         {% for pupliyear in publis %}
           <div class="publication-year-container">
             <a class="publi-year-category" href="#year{{ pupliyear.name }}">{{ pupliyear.name }}</a>
           </div>
         {% endfor %}
-      </div>
+      </div> -->
 <!--       <div class="filtering-conferences filtering-container publi-hidden">
         <hr>
         <h5 class="blue-subtitle">Conference</h5>
@@ -148,7 +150,7 @@ custom_js:
           </div>
         {% endfor %}
       </div> -->
-      <div class="filtering-thesis filtering-container publi-hidden">
+<!--       <div class="filtering-thesis filtering-container publi-hidden">
         <hr>
         <h5 class="blue-subtitle">Theses</h5>
         {% assign publiss = site.data.thesis.thesis | group_by:"type" %}
@@ -159,7 +161,7 @@ custom_js:
           </div>
         {% endfor %}
       </div>
-    </div>
+    </div> -->
 
   </div>
 </div>

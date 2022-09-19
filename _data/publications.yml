@@ -141,7 +141,8 @@ articles:
     authors : Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne
     arxiv : https://arxiv.org/abs/2005.11283
     year : 2022
-    journal: SIAM Rev. (in press)
+    journal: SIAM Rev.
+    inpress: True
 
   - title : "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
