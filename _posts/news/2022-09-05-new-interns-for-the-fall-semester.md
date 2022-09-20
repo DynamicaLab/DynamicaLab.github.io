@@ -1,4 +1,4 @@
-ç---
+---
 layout: post
 title:  "New interns for the fall semester"
 date:   2022-09-05
