@@ -256,7 +256,8 @@ nav.pagination {
 	padding: 16px;
 }
 .paginator-icon {
-	font-size: 300%;
+	font-size: 200%;
+	vertical-align: middle;
 }
 .paginator-icon.inactive-icon {
 	opacity: 0.2 !important;
@@ -264,10 +265,10 @@ nav.pagination {
 
 // ---------- Posts ----------
 ul.event-list {
-	padding-top: 30px;
+	padding-top: 0px;
 	margin: 0;
 	padding-left: 0px;
-	padding-top: 0px;
+	padding-bottom: 20px;
 
 	h4 {
 		color: $official-blue;
@@ -276,14 +277,14 @@ ul.event-list {
 		font-weight: bold;
 	}
 	.event-container{
-		padding-top: 8px;
+		padding-top: 15px;
 		.event-type {
 			font-size: 80%;
 			text-transform: uppercase;
 			color: $default-black-text-color;
 			margin: 0;
 			margin-top: 4px;
-			margin-bottom: 6px;
+			margin-bottom: 4px;
 			padding: 0;
 			font-weight: bold;
 		}
@@ -295,14 +296,14 @@ ul.event-list {
 			padding: 0;
 			margin-bottom: 4px;
 		}
-		.event-subtitle a{
-			font-size: 100% !important;
+		.event-subtitle {
+			font-size: 90% !important;
 			color: $default-black-text-color !important;
 			margin: 0 !important;
 			padding: 0 !important;
 		}
-		.event-subtitle a{
-			font-size: 100% !important;
+		.event-subsubtitle {
+			font-size: 80% !important;
 			color: $default-black-text-color !important;
 			margin: 0 !important;
 			padding: 0 !important;

@@ -17,23 +17,20 @@ custom_js:
     <!-- News section -->
     {% assign posts = paginator.posts | where:"type","post" %}
 
-   {% if paginator.previous_page == False%}
+    {% if paginator.previous_page == False%}
     <ul class="post-list">
       <h1>News</h1>
        <br>
       {% for post in posts limit:site.numfrontpost%}
         <div class="front-post">
-          <section class="post-meta">
-            <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}
-            </div>
-          </section>
-          <h2 class="post-title">
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
+          <!-- <section class="post-meta"> -->
+          <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+          <!-- </section> -->
+          <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
           {% if post.imagesrc %}<img class="front-image" src="{{post.imagesrc}}">{% endif %}
-          <section class="post-excerpt" itemprop="description">
-            <p>{{ post.excerpt | truncatewords: 30 }}</p>
-          </section>
+          <!-- <section class="post-excerpt" itemprop="description"> -->
+          <p>{{ post.excerpt | truncatewords: 30 }}</p>
+          <!-- </section> -->
           <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more</a>
           <hr class="separator">
         </div>
@@ -42,7 +39,7 @@ custom_js:
     {% endif %}
 
     <ul class="post-list">
-      <h3>Older posts</h3>
+      <h4>Older posts</h4>
        <br>
        {% if paginator.previous_page == False%}
          {% assign offset = site.numfrontpost %}
@@ -97,27 +94,29 @@ custom_js:
   <div class="col-md-4">
     <div class="right-navbar">
         <ul class="event-list">
-          <h4>Upcoming Events</h4>
+          <h4>Recent and upcoming events</h4>
+            {% assign i = 0 %}
             {% for event in site.data.events %}
-             <div class="event-container">
               {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
               {% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}
-              {% if posttime > nowunix %}
-                <p class="event-type">{{ event.eventtype }}</p>
-                <span class="event-date">{{ event.date | date: "%b. %-d, %Y" }}</span>
-                {% if event.title %}
-                <h5 class="event-title">
-                  {{ event.title }}
-                </h5>
-                {% endif %}
-                {% if event.subtitle %}
-                <p class="event-subtitle">{{ event.subtitle }}</p>
-                {% endif %}
-                {% if event.subsubtitle %}
-                <p class="event-subsubtitle">{{ event.subsubtitle }}</p>
-                {% endif %}
+              {% if posttime > nowunix or i < site.minnumevents %}
+                {% assign i = i | plus:1 %}
+                <div class="event-container">
+                  <p class="event-type">{{ event.eventtype }}</p>
+                  <span class="event-date">{{ event.date | date: "%b. %-d, %Y" }}</span>
+                  {% if event.title %}
+                  <h5 class="event-title">
+                    {{ event.title }}
+                  </h5>
+                  {% endif %}
+                  {% if event.subtitle %}
+                  <p class="event-subtitle">{{ event.subtitle }}</p>
+                  {% endif %}
+                  {% if event.subsubtitle %}
+                  <p class="event-subsubtitle">{{ event.subsubtitle }}</p>
+                  {% endif %}
+                </div>
               {% endif %}
-            </div>
             {% endfor %}
         </ul>
     </div>
