@@ -2,7 +2,7 @@
 layout: post
 title:  "New master and doctoral students"
 date:   2022-09-05
-published: False
+published: True
 type: "post"
 imagesrc : ""
 ---
