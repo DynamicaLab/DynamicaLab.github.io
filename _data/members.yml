@@ -5,7 +5,7 @@ leaders:
     website: "http://antoineallard.github.io/"
     github: "https://github.com/antoineallard"
     twitter: "http://twitter.com/all_are"
-    longcv: "https://antoineallard.github.io/files/cv/allard_a_cv.pdf"
+    cv: "https://antoineallard.github.io/files/cv/allard_a_cv.pdf"
 
   - name: Patrick
     lastname : Desrosiers
@@ -17,8 +17,7 @@ honorary:
   - name: Louis J.
     lastname: Dubé
     image: "/assets/images/members/dube.png"
-    shortcv: "/assets/pdf/cv/dube_lj_cv_short.pdf"
-    longcv: "/assets/pdf/cv/dube_lj_cv_long.pdf"
+    cv: "/assets/pdf/cv/dube_lj_cv_short.pdf"
 
 
 postdoc:

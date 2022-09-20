@@ -10,10 +10,7 @@
 	{% if include.member.website %}
 		<a href="{{ include.member.website }}" title="personal website"><i class="icon ion-md-globe member-ion-icons"></i></a>
 	{% endif %}
-	{% if include.member.shortcv %}
-		<a href="{{ include.member.shortcv }}" title="short CV"><i class="member-academicons-icons"><iconify-icon icon="academicons:cv-square"></iconify-icon></i></a>
-	{% endif %}
-	{% if include.member.longcv %}
-		<a href="{{ include.member.longcv }}" title="long CV"><i class="member-academicons-icons"><iconify-icon icon="academicons:cv-square"></iconify-icon></i></a>
+	{% if include.member.cv %}
+		<a href="{{ include.member.cv }}" title="CV"><i class="member-academicons-icons"><iconify-icon icon="academicons:cv-square"></iconify-icon></i></a>
 	{% endif %}
 </div>
