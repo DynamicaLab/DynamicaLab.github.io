@@ -1,6 +1,12 @@
 
 
 thesis:
+  - title: Network-based approaches for case-control studies diagnostic/investigations
+    authors: Francis Normand
+    type: M.Sc.
+    year: 2022
+    fulltext : "http://hdl.handle.net/20.500.11794/73573"
+
   - title: Processus de contagion sur réseaux complexes au-delà des interactions dyadiques
     authors: Guillaume St-Onge
     subtitle: Contagion processes in complex networks beyond dyadic interactions
