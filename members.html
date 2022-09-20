@@ -18,6 +18,17 @@ custom_js:
 </div>
 {% endif %}
 
+{% if site.data.members.honorary %}
+<div class="member-list">
+	<h4>Honorary Member</h4>
+	<div class="row">
+		{% for member in site.data.members.honorary %}
+			{% include member-view.html member=member %}
+		{% endfor %}
+	</div>
+</div>
+{% endif %}
+
 {% if site.data.members.postdoc %}
 <div class="member-list">
 	<h4>Postdoctoral fellows</h4>
