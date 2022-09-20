@@ -59,6 +59,13 @@ articles:
     year : 2021
     insubmission: True
 
+  - title : The role of directionality, heterogeneity and correlations in epidemic risk and spread
+    authors : Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne
+    arxiv : https://arxiv.org/abs/2005.11283
+    year : 2022
+    journal: SIAM Rev.
+    inpress: True
+
   - title : "Beyond Wilson-Cowan dynamics: oscillations and chaos without inhibition"
     authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
     arxiv : "https://arxiv.org/abs/2204.00583"
@@ -144,7 +151,9 @@ articles:
     authors : Juniper Lovato, Antoine Allard, Randall Harp, Jeremiah Onaolapo, Laurent Hébert-Dufresne
     arxiv : https://arxiv.org/abs/2006.16140
     year : 2022
-    journal : 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22; in press)
+    journal : "FAccT'22: 2022 ACM Conference on Fairness, Accountability, and Transparency"
+    pagenumber: 2251–2262
+    fulltext: https://doi.org/10.1145/3531146.3534640
 
   - title : "Detecting structural perturbations from time series with deep learning"
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
@@ -160,13 +169,6 @@ articles:
     edition: 18
     pagenumber: e3000897
     fulltext: https://doi.org/10.1371/journal.pbio.3000897
-
-  - title : The role of directionality, heterogeneity and correlations in epidemic risk and spread
-    authors : Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne
-    arxiv : https://arxiv.org/abs/2005.11283
-    year : 2022
-    journal: SIAM Rev.
-    inpress: True
 
   - title : "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"

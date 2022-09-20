@@ -1,4 +1,25 @@
 conferences:
+  - title: Dimension matters when modelling network communities in hyperbolic spaces
+    authors: Béatrice Désy, Patrick Desrosiers, Antoine Allard
+    conf: International School and Conference on Network Science (Netsci2022)
+    country: China
+    year: 2022
+    city: Shanghai
+
+  - title: Random graph models with fixed centrality patterns and degree sequence
+    authors: François Thibault, Antoine Allard
+    conf: International School and Conference on Network Science (Netsci2022)
+    country: China
+    year: 2022
+    city: Shanghai
+
+  - title: On the importance of correlation in graph reconstruction
+    authors: Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    conf: International School and Conference on Network Science (Netsci2022)
+    country: China
+    year: 2022
+    city: Shanghai
+
   - title : "The low-dimension hypothesis implies higher-order interactions in complex systems"
     authors : "Vincent Thibeault, Antoine Allard, Patrick Desrosiers"
     conf : "Fifth Northeast Regional Conference on Complex Systems (NERCCS 2022)"

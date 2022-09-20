@@ -24,7 +24,7 @@
     <!-- Published -->
       <!-- journals -->
       {% if include.publi.journal %}
-        <p class="publi-ref">{{include.publi.journal}}, <span class="edition">{{include.publi.edition}}</span>, <span class="pagenumber">{{include.publi.pagenumber}} ({{include.publi.year}})</span></p>
+        <p class="publi-ref">{{include.publi.journal}}{% if include.publi.edition %}, <span class="edition">{{include.publi.edition}}</span>{% endif %}{% if include.publi.pagenumber %}, <span class="pagenumber">{{include.publi.pagenumber}}{% endif %} ({{include.publi.year}})</span></p>
       {% else %}
         <!-- books -->
         {% if include.publi.book %}
