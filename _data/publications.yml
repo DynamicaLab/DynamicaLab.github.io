@@ -1,19 +1,43 @@
 articles:
-  - title : "The low-rank hypothesis of complex systems"
+  - title : Dimension matters when modeling network communities in hyperbolic spaces
+    authors : Béatrice Désy, Patrick Desrosiers, Antoine Allard
+    arxiv : https://arxiv.org/abs/2209.09201
+    year : 2022
+    insubmission: True
+
+  - title : Hypergraph reconstruction from noisy pairwise observations
+    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    arxiv : https://arxiv.org/abs/2208.06503
+    year : 2022
+    insubmission: True
+
+  - title : The low-rank hypothesis of complex systems
     authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     arxiv : https://arxiv.org/abs/2208.04848
     year : 2022
     insubmission: True
 
-  - title : "Long-term effect of forest harvesting on boreal species assemblages under climate change"
+  - title : "NBS-SNI, an extension of the Network-based statistic: Investigating differences in functional connections between important structural actors in case-control studies"
+    authors : Francis Normand, Daniel C. Côté, Antoine Allard
+    biorxiv : https://doi.org/10.1101/2022.08.29.505749
+    year : 2022
+    insubmission: True
+
+  - title : Long-term effect of forest harvesting on boreal species assemblages under climate change
     authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Junior A. Tremblay, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
     biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664v1
     year : 2022
     insubmission: True
 
-  - title : "Duality between predictability and reconstructability in complex systems"
+  - title : Duality between predictability and reconstructability in complex systems
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     arxiv : https://arxiv.org/abs/2206.04000
+    year : 2022
+    insubmission: True
+
+  - title : Dimension reduction of dynamics on modular and heterogeneous directed networks
+    authors : Marina Vegué Llorente, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
+    arxiv : https://arxiv.org/abs/2206.11230
     year : 2022
     insubmission: True
 
