@@ -6,24 +6,20 @@ leaders:
     github: "https://github.com/antoineallard"
     twitter: "http://twitter.com/all_are"
     cv: "https://antoineallard.github.io/files/cv/allard_a_cv.pdf"
+    googlescholar: "https://scholar.google.ca/citations?user=7zq4KLMAAAAJ&hl=en"
 
   - name: Patrick
     lastname : Desrosiers
     image: "/assets/images/members/patrick.jpg"
-    website: "https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao"
+    googlescholar: "https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao"
     github: "https://github.com/pdesrosiers"
+
 
 honorary:
   - name: Louis J.
     lastname: Dubé
     image: "/assets/images/members/dube.png"
     cv: "/assets/pdf/cv/dube_lj_cv_short.pdf"
-
-
-postdoc:
-  - name: Ilhem
-    lastname: Bouderbala
-    image: "/assets/images/members/ilhem.jpg"
 
 
 doctoral:
@@ -52,7 +48,7 @@ doctoral:
   - name: Vincent
     lastname: Thibeault
     image: "/assets/images/members/vincent_thibeault.png"
-    website: "https://scholar.google.ca/citations?user=jHEI8xcAAAAJ&hl=fr&oi=ao"
+    googlescholar: "https://scholar.google.ca/citations?user=jHEI8xcAAAAJ&hl=fr&oi=ao"
     github: "https://github.com/VinceThi"
     twitter: "http://twitter.com/vince_thib"
 
@@ -77,7 +73,6 @@ master:
 
 
 interns:
-
   - name: Émile
     lastname: Baril
     image: "/assets/images/members/emile.jpg"
@@ -104,6 +99,13 @@ formers:
     lastname: Beaulieu
     year: 2000
     task: M.Sc. 2000
+
+  - name: Ilhem
+    lastname: Bouderbala
+    year: 2022
+    task: Postdoc 2020-2022
+    website: https://scholar.google.com/citations?user=yfpAbS8AAAAJ
+    image: "/assets/images/members/ilhem.jpg"
 
   - name: Etienne
     lastname: Brasselet

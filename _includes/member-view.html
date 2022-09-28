@@ -1,14 +1,17 @@
 <div class="col-6 col-sm-3 col-md-2">
 	<img src="{{include.member.image}}" class="member-image">
 	<h5 class="member-name"><span class="firstname">{{include.member.name}} </span>{{include.member.lastname}}</h5>
-	{% if include.member.github %}
-		<a href="{{ include.member.github }}" title="Github"><i class="icon ion-logo-github member-ion-icons"></i></a>
+	{% if include.member.website %}
+		<a href="{{ include.member.website }}" title="personal website"><i class="icon ion-md-globe member-ion-icons"></i></a>
+	{% endif %}
+	{% if include.member.googlescholar %}
+		<a href="{{ include.member.googlescholar }}" title="Google Scholar"><i class="member-academicons-icons"><iconify-icon icon="academicons:google-scholar-square"></iconify-icon></i></a>
 	{% endif %}
   {% if include.member.twitter %}
   <a href="{{ include.member.twitter }}" title="Twitter"><i class="icon ion-logo-twitter member-ion-icons"></i></a>
   {% endif %}
-	{% if include.member.website %}
-		<a href="{{ include.member.website }}" title="personal website"><i class="icon ion-md-globe member-ion-icons"></i></a>
+	{% if include.member.github %}
+		<a href="{{ include.member.github }}" title="Github"><i class="icon ion-logo-github member-ion-icons"></i></a>
 	{% endif %}
 	{% if include.member.cv %}
 		<a href="{{ include.member.cv }}" title="CV"><i class="member-academicons-icons"><iconify-icon icon="academicons:cv-square"></iconify-icon></i></a>
