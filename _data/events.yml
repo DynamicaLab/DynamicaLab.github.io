@@ -1,4 +1,10 @@
 - eventtype: Seminar
+  title: "Féminisme en sciences: Pouvoir, privilège et objectivité"
+  subtitle: Dynamica Lab's monthly seminars
+  subsubtitle: by Béatrice Désy
+  date: 2022-10-11
+
+- eventtype: Seminar
   title: Effets de la dimension des réseaux hyperboliques sur la modélisation de la structure communautaire
   subtitle: Béatrice Désy's MSc colloquium
   date: 2022-06-02
