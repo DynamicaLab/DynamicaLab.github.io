@@ -1,4 +1,19 @@
 conferences:
+  - title: The hidden low-dimensional dynamics of large neuronal networks
+    authors: Patrick Desrosiers
+    conf: Frontiers in Neurophotonics Symposium 2022 (FINS2022)
+    country: Canada
+    year: 2022
+    city: Quebec City
+    slides : "assets/pdf/slides/Desrosiers-FINS-2022-08-12.pdf"
+
+  - title: Influence of neuromodulation on brain states and their transitions in larval zebrafish
+    authors: Antoine Légaré
+    conf: Frontiers in Neurophotonics Symposium 2022 (FINS2022)
+    country: Canada
+    year: 2022
+    city: Quebec City
+
   - title: Dimension matters when modelling network communities in hyperbolic spaces
     authors: Béatrice Désy, Patrick Desrosiers, Antoine Allard
     conf: International School and Conference on Network Science (Netsci2022)
