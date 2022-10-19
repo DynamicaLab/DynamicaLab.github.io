@@ -13,6 +13,7 @@ conferences:
     country: Canada
     year: 2022
     city: Quebec City
+    slides: "assets/pdf/slides/FINS2022_ALegare.pdf"
 
   - title: Dimension matters when modelling network communities in hyperbolic spaces
     authors: Béatrice Désy, Patrick Desrosiers, Antoine Allard
