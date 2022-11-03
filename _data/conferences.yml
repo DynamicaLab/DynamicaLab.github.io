@@ -1,4 +1,20 @@
 conferences:
+
+  - title : On the effectiveness of reconstructing biodiversity from indicator species along a climate gradient
+    authors : Ilhem Bouderbala, Daniel Fortin, Junior A. Tremblay, Antoine Allard, Louis-Paul Rivest, Patrick Desrosiers
+    conf : Sentinel North Scientific Meeting
+    poster : "assets/pdf/affiches/Ilhem_Poster_SN_2022.pdf"
+    year : 2022
+    country : Canada
+    city : Québec
+
+  - title : Influence des neuromodulateurs sur les états cérébraux du poisson-zèbre en développement
+    authors : Antoine Légaré, Vincent Boily, Sandrine Poulin, Mado Lemieux, Patrick Desrosiers, Paul De Koninck
+    conf : Sentinel North Scientific Meeting
+    year : 2022
+    country : Canada
+    city : Québec
+
   - title: The hidden low-dimensional dynamics of large neuronal networks
     authors: Patrick Desrosiers
     conf: Frontiers in Neurophotonics Symposium 2022 (FINS2022)
