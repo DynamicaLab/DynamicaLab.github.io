@@ -8,9 +8,10 @@ conferences:
     country : Canada
     city : Québec
 
-  - title : Influence des neuromodulateurs sur les états cérébraux du poisson-zèbre en développement
+  - title : Whole-brain neuronal dynamics underlying spontaneous behavior in larval zebrafish
     authors : Antoine Légaré, Vincent Boily, Sandrine Poulin, Mado Lemieux, Patrick Desrosiers, Paul De Koninck
     conf : Sentinel North Scientific Meeting
+    poster : "assets/pdf/affiches/CAN2022_Poster_AL.pdf"
     year : 2022
     country : Canada
     city : Québec
