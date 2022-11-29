@@ -1,4 +1,10 @@
 articles:
+  - title : Predicting cognitive decline in a low-dimensional representation of brain morphology
+    authors : Rémi Lamontagne-Caron, Patrick Desrosiers, Olivier Potvin, Simon Duchesne, Nicolas Doyon, Alzheimer's Disease Neuroimaging Initiative, CIMA-Q
+    medrxiv : https://doi.org/10.1101/2022.11.23.22282135
+    year : 2022
+    insubmission: True
+
   - title : Dimension matters when modeling network communities in hyperbolic spaces
     authors : Béatrice Désy, Patrick Desrosiers, Antoine Allard
     arxiv : https://arxiv.org/abs/2209.09201
@@ -72,7 +78,7 @@ articles:
     year : 2022
     journal: Biol. Cybern.
     edition: 116
-    pagenumber: 5
+    pagenumber: 527
     fulltext: "https://doi.org/10.1007/s00422-022-00941-w"
 
   - title : "Effects of global change on animal biodiversity in boreal forest landscape: an assemblage dissimilarity analysis"
