@@ -1,6 +1,12 @@
 
 
 thesis:
+  - title: Inférence de la structure d’interactions de données bruitées
+    authors: Simon Lizotte
+    type: M.Sc.
+    year: 2022
+    fulltext : "https://antoineallard.github.io/files/theses/Lizotte.2022.MSc.pdf"
+
   - title: Network-based approaches for case-control studies diagnostic/investigations
     authors: Francis Normand
     type: M.Sc.
