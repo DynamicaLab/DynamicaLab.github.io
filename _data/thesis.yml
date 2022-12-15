@@ -1,17 +1,23 @@
 
 
 thesis:
+  - title:
+    authors: Béatrice Désy
+    type: M.Sc.
+    year: 2022
+    fulltext : "assets/pdf/theses/desy22_master.pdf"
+
   - title: Modèles de graphes aléatoires avec séquences de degrés et de centralité fixes
     authors: François Thibault
     type: M.Sc.
     year: 2022
-    fulltext : "https://antoineallard.github.io/files/theses/Thibault.2022.MSc.pdf"
+    fulltext : "assets/pdf/theses/thibault22_master.pdf"
 
   - title: Inférence de la structure d’interactions de données bruitées
     authors: Simon Lizotte
     type: M.Sc.
     year: 2022
-    fulltext : "https://antoineallard.github.io/files/theses/Lizotte.2022.MSc.pdf"
+    fulltext : "assets/pdf/theses/lizotte22_master.pdf"
 
   - title: Network-based approaches for case-control studies diagnostic/investigations
     authors: Francis Normand
@@ -24,7 +30,7 @@ thesis:
     subtitle: Contagion processes in complex networks beyond dyadic interactions
     type: Ph.D.
     year: 2022
-    fulltext : "http://hdl.handle.net/20.500.11794/72971"
+    fulltext : "assets/pdf/theses/stonge22_thesis.pdf"
 
   - title: Formation et auto-organisation de plasma induit par impulsions laser intenses dans un milieu diélectrique
     authors: Jean-Luc Déziel
