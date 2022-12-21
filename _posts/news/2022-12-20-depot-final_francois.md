@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simon Lizotte M.Sc."
+title:  "François Thibault M.Sc."
 date:   2022-12-20
 published: True
 type: "post"
