@@ -2,7 +2,7 @@
 layout: post
 title:  "Béatrice Désy M.Sc."
 date:   2022-12-15
-published: False
+published: True
 type: "post"
 ---
 
