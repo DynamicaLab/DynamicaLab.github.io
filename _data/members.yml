@@ -73,10 +73,6 @@ master:
 
 
 interns:
-  - name: Émile
-    lastname: Baril
-    image: "/assets/images/members/emile.jpg"
-
   - name: Benjamin
     lastname: Claveau
     image: "/assets/images/members/benjamin.png"
@@ -94,6 +90,12 @@ formers:
     year: 2014
     task: M.Sc. 2008 & Ph.D. 2014
     website: "http://antoineallard.github.io/"
+
+  - name: Émile
+    lastname: Baril
+    year: 2022
+    task: Fall 2022
+    image: "/assets/images/members/emile.jpg"
 
   - name: Frédéric
     lastname: Beaulieu
