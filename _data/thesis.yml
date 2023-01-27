@@ -1,6 +1,12 @@
 
 
 thesis:
+  - title: De la densité spectrale des réseaux extrêmement creux
+    authors: Olivier Ribordy
+    type: M.Sc.
+    year: 2022
+    fulltext : "assets/pdf/theses/ribordy22_master.pdf"
+
   - title: Effets de la dimension des réseaux hyperboliques sur la modélisation de la structure communautaire
     authors: Béatrice Désy
     type: M.Sc.
