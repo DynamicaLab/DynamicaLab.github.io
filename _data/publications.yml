@@ -37,9 +37,12 @@ articles:
 
   - title : Long-term effect of forest harvesting on boreal species assemblages under climate change
     authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Junior A. Tremblay, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
-    biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664v1
-    year : 2022
-    insubmission: True
+    journal: PLOS Clim.
+    volume: 2
+    pagenumber: e0000179
+    year : 2023
+    fulltext: https://doi.org/10.1371/journal.pclm.0000179
+    biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664
 
   - title : Duality between predictability and reconstructability in complex systems
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
