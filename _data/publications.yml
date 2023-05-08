@@ -35,15 +35,6 @@ articles:
     year : 2022
     insubmission: True
 
-  - title : Long-term effect of forest harvesting on boreal species assemblages under climate change
-    authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Junior A. Tremblay, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
-    journal: PLOS Clim.
-    volume: 2
-    pagenumber: e0000179
-    year : 2023
-    fulltext: https://doi.org/10.1371/journal.pclm.0000179
-    biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664
-
   - title : Duality between predictability and reconstructability in complex systems
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     arxiv : https://arxiv.org/abs/2206.04000
@@ -74,12 +65,14 @@ articles:
     year : 2021
     insubmission: True
 
-  - title : The role of directionality, heterogeneity and correlations in epidemic risk and spread
+  - title : The Role of Directionality, Heterogeneity, and Correlations in Epidemic Risk and Spread
     authors : Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne
     arxiv : https://arxiv.org/abs/2005.11283
-    year : 2022
+    year : 2023
     journal: SIAM Rev.
-    inpress: True
+    volume: 65
+    pagenumber: 471-492
+    fulltext: https://doi.org/10.1137/20m1383811
 
   - title : "Beyond Wilson-Cowan dynamics: oscillations and chaos without inhibition"
     authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
@@ -90,11 +83,21 @@ articles:
     pagenumber: 527
     fulltext: "https://doi.org/10.1007/s00422-022-00941-w"
 
-  - title : "Effects of global change on animal biodiversity in boreal forest landscape: an assemblage dissimilarity analysis"
+  - title : "Effects of global change on bird and beetle populations in boreal forest landscape: An assemblage dissimilarity analysis"
     authors : "Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin"
     biorxiv : "https://www.biorxiv.org/content/10.1101/2022.01.31.477297v2"
-    year : 2022
-    insubmission: True
+    year : 2023
+    journal: Divers. Distrib.
+    fulltext: https://doi.org/10.1111/ddi.13697
+
+  - title : Long-term effect of forest harvesting on boreal species assemblages under climate change
+    authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Junior A. Tremblay, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
+    journal: PLOS Clim.
+    volume: 2
+    pagenumber: e0000179
+    year : 2023
+    fulltext: https://doi.org/10.1371/journal.pclm.0000179
+    biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664
 
   - title : "Toward an integrative neurovascular framework for studying brain networks"
     authors : "Jérémie Guilbert, Antoine Légaré, Paul De Koninck, Patrick Desrosiers, Michèle Desjardins"
