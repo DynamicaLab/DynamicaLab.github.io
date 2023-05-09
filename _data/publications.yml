@@ -11,12 +11,6 @@ articles:
     year : 2022
     insubmission: True
 
-  - title : Dimension matters when modeling network communities in hyperbolic spaces
-    authors : Béatrice Désy, Patrick Desrosiers, Antoine Allard
-    arxiv : https://arxiv.org/abs/2209.09201
-    year : 2022
-    insubmission: True
-
   - title : Hypergraph reconstruction from noisy pairwise observations
     authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
     arxiv : https://arxiv.org/abs/2208.06503
@@ -41,12 +35,6 @@ articles:
     year : 2022
     insubmission: True
 
-  - title : Dimension reduction of dynamics on modular and heterogeneous directed networks
-    authors : Marina Vegué Llorente, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
-    arxiv : https://arxiv.org/abs/2206.11230
-    year : 2022
-    insubmission: True
-
   - title : "Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns"
     authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Alexander Daniels, Antoine Allard
     arxiv : https://arxiv.org/abs/2204.08444
@@ -64,6 +52,23 @@ articles:
     arxiv : "https://arxiv.org/abs/2111.08686"
     year : 2021
     insubmission: True
+
+
+  - title : Dimension reduction of dynamics on modular and heterogeneous directed networks
+    authors : Marina Vegué Llorente, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
+    arxiv : https://arxiv.org/abs/2206.11230
+    year : 2023
+    journal: PNAS Nexus
+    pagenumber: pgad150
+    fulltext: https://doi.org/10.1093/pnasnexus/pgad150
+
+  - title : Dimension matters when modeling network communities in hyperbolic spaces
+    authors : Béatrice Désy, Patrick Desrosiers, Antoine Allard
+    arxiv : https://arxiv.org/abs/2209.09201
+    year : 2023
+    journal: PNAS Nexus
+    pagenumber: pgad136
+    fulltext: https://doi.org/10.1093/pnasnexus/pgad136
 
   - title : The Role of Directionality, Heterogeneity, and Correlations in Epidemic Risk and Spread
     authors : Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, Laurent Hébert-Dufresne
@@ -84,8 +89,8 @@ articles:
     fulltext: "https://doi.org/10.1007/s00422-022-00941-w"
 
   - title : "Effects of global change on bird and beetle populations in boreal forest landscape: An assemblage dissimilarity analysis"
-    authors : "Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin"
-    biorxiv : "https://www.biorxiv.org/content/10.1101/2022.01.31.477297v2"
+    authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
+    biorxiv : https://www.biorxiv.org/content/10.1101/2022.01.31.477297v2
     year : 2023
     journal: Divers. Distrib.
     fulltext: https://doi.org/10.1111/ddi.13697
@@ -99,21 +104,21 @@ articles:
     fulltext: https://doi.org/10.1371/journal.pclm.0000179
     biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664
 
-  - title : "Toward an integrative neurovascular framework for studying brain networks"
-    authors : "Jérémie Guilbert, Antoine Légaré, Paul De Koninck, Patrick Desrosiers, Michèle Desjardins"
+  - title : Toward an integrative neurovascular framework for studying brain networks
+    authors : Jérémie Guilbert, Antoine Légaré, Paul De Koninck, Patrick Desrosiers, Michèle Desjardins
     year : 2022
     journal : Neurophotonics
     edition : 9
     pagenumber : 032211
-    fulltext : "https://doi.org/10.1117/1.NPh.9.3.032211"
+    fulltext : https://doi.org/10.1117/1.NPh.9.3.032211
 
-  - title : "One for All"
-    authors : "Patrick Desrosiers, Xavier Roy-Pomerleau"
+  - title : One for All
+    authors : Patrick Desrosiers, Xavier Roy-Pomerleau
     year : 2022
     journal : Nat. Phys.
     edition : 18
     pagenumber : 238
-    fulltext : "https://doi.org/10.1038/s41567-021-01449-z"
+    fulltext : https://doi.org/10.1038/s41567-021-01449-z
 
   - title : Predicting the diversity of early epidemic spread on networks
     authors : Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Roberts, Antoine Allard, Laurent Hébert-Dufresne
@@ -121,16 +126,16 @@ articles:
     journal : Phys. Rev. Research
     edition : 4
     pagenumber : 013123
-    fulltext : "https://doi.org/10.1103/PhysRevResearch.4.013123"
+    fulltext : https://doi.org/10.1103/PhysRevResearch.4.013123
 
-  - title : "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
-    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
-    arxiv : "https://arxiv.org/abs/2101.07229"
+  - title : Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks
+    authors : Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi
+    arxiv : https://arxiv.org/abs/2101.07229
     year : 2021
     journal : Phys. Rev. Lett.
     edition : 127
     pagenumber : 158301
-    fulltext : "https://doi.org/10.1103/PhysRevLett.127.158301"
+    fulltext : https://doi.org/10.1103/PhysRevLett.127.158301
 
   - title : Deep learning of stochastic contagion dynamics on complex networks
     authors : Charles Murphy, Edward Laurence, Antoine Allard
