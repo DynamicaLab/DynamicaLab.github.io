@@ -1,8 +1,18 @@
 - eventtype: Seminar
+  title: The Low-Rank Hypothesis of Complex Systems
+  subtitle: SIAM Conference on Dynamical Systems
+  subsubtitle: by Vincent Thibeault
+  date: 2023-05-16
+
+- eventtype: Seminar
   title: The role of directionality, heterogeneity & correlations in epidemic risk and spread
   subtitle: Dynamics of Interacting Contagions at the Santa Fe Institute
   subsubtitle: by Antoine Allard
   date: 2023-04-21
+
+- eventtype: Workshop
+  title: <a href=https://www.cosyne.org/">COSYNE 2023</a>
+  date: 2023-03-09
 
 - eventtype: Workshop
   title: Second edition of the <a href="https://www.dcclab.ca/progfest/?lang=en">prog():fest</a>
@@ -95,5 +105,3 @@
   title: Complex Networks Winter Workshop
   subtitle: <a href="https://sentinellenord.ulaval.ca/en/cnww-2019">2nd edition</a><br>Québec
   date: 2019-12-15
-
- 
