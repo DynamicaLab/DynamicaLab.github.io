@@ -58,6 +58,10 @@ doctoral:
 
 
 master:
+  - name: Benjamin
+    lastname: Claveau
+    image: "/assets/images/members/benjamin.png"
+
   - name: Jérémie
     lastname: Gince
     image: "/assets/images/members/jgince.png"
@@ -67,19 +71,19 @@ master:
     lastname: Hermans
     image: "/assets/images/members/jeson.png"
 
+  - name: Pierre-Luc
+    lastname: Larouche
+    image: "/assets/images/members/pierreluc.jpg"
+
   - name: Jérémi
     lastname: Lesage
     image: "/assets/images/members/jeremi.jpg"
 
 
 interns:
-  - name: Benjamin
-    lastname: Claveau
-    image: "/assets/images/members/benjamin.png"
-
-  - name: Anthony
-    lastname: Drouin
-    image: "/assets/images/members/anthony_drouin2.png"
+  - name: Anne-Sophie
+    lastname: Roy
+    image: "/assets/images/members/default.png"
 
 
 formers:
@@ -114,10 +118,20 @@ formers:
     year: 2004
     task: Postdoc 2003-2004
 
+  - name: Benjamin
+    lastname: Claveau
+    year: 2022
+    task: Fall 2022
+
   - name: Béatrice
     lastname: Désy
     year: 2022
     task: M.Sc. 2022
+
+  - name: Anthony
+    lastname: Drouin
+    year: 2023
+    task: Fall 2022 & Winter 2023
 
   - name: Jean-Luc
     lastname: Déziel
