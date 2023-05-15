@@ -6,4 +6,4 @@ published: True
 type: "post"
 ---
 
-Anne-Sophie Roy has joined the group as summer intern. She will work in close collaboration with [Pierre Marquet’s lab]( https://www.labrnp.ca/) on the [NCADD project]( https://www.neuro-cervo.org/). Welcome to the team!
+Anne-Sophie Roy has joined the group as a summer intern. She will work in close collaboration with [Pierre Marquet’s lab]( https://www.labrnp.ca/) on the [NCADD project]( https://www.neuro-cervo.org/). Welcome to the team!
