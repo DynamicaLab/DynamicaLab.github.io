@@ -6,6 +6,7 @@ conferences:
     year : 2023
     country : USA
     city : Portland, OR
+    slides : "assets/pdf/slides/Thibeault_presentation_SIAMDS_2023_compressed.pdf"
 
   - title : Influence of neuromodulators on brain state transitions in larval zebrafish
     authors : Antoine Légaré, Sandrine Poulin, Vincent Boily, Mado Lemieux, Patrick Desrosiers, Paul De Koninck
