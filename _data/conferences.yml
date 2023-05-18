@@ -3,7 +3,7 @@ conferences:
   - title : The Low-Rank Hypothesis of Complex Systems -- From Empirical and Theoretical Evidence to the Emergence of Higher-Order Interaction
     authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     conf : SIAM Conference on Dynamical Systems (DS23)
-    slides : "assets/pdf/affiches/Thibeault_presentation_SIAMDS_2023_compressed.pdf"
+    slides : "assets/pdf/slides/Thibeault_presentation_SIAMDS_2023_compressed.pdf"
     year : 2023
     country : USA
     city : Portland, OR
@@ -12,7 +12,7 @@ conferences:
     authors : Antoine Légaré, Sandrine Poulin, Vincent Boily, Mado Lemieux, Patrick Desrosiers, Paul De Koninck
     conf : COSYNE 2023
     year : 2023
-    poster : "assets/pdf/posters/cosyne2023_poster_legare.pdf" 
+    poster : "assets/pdf/posters/cosyne2023_poster_legare.pdf"
     country : Canada
     city : Montreal
 
