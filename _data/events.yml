@@ -1,4 +1,10 @@
 - eventtype: Seminar
+  title: Inherent uncertainty of hyperbolic embeddings of complex networks
+  subtitle: "NESS 2023: Statistics and Data Science - Driving Discoveries in Modern Era"
+  subsubtitle: by Simon Lizotte
+  date: 2023-06-06
+
+- eventtype: Seminar
   title: The Low-Rank Hypothesis of Complex Systems
   subtitle: SIAM Conference on Dynamical Systems
   subsubtitle: by Vincent Thibeault
