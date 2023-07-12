@@ -83,11 +83,11 @@ master:
 interns:
   - name: Arthur
     lastname: Légaré
-    image: "/assets/images/members/arthur_legare.jpg"
+    image: "/assets/images/members/arthur.jpg"
 
   - name: Anne-Sophie
     lastname: Roy
-    image: "/assets/images/members/annesophie_roy.jpg"
+    image: "/assets/images/members/annesophie.jpg"
 
 
 formers:
