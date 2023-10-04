@@ -1,4 +1,12 @@
 articles:
+  - title : Zebrafish brain atlases: a collective effort for a tiny vertebrate brain
+    authors : Antoine Légaré, Mado Lemieux, Patrick Desrosiers, Paul De Koninck
+    year : 2023
+    journal : Neurophotonics
+    edition : 10
+    pagenumber : 044409
+    fulltext : https://doi.org/10.1117/1.NPh.10.4.044409
+
   - title : The determining role of covariances in large networks of stochastic neurons
     authors : Vincent Painchaud, Patrick Desrosiers, Nicolas Doyon
     arxiv : https://arxiv.org/abs/2212.09705
