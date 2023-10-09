@@ -1,21 +1,8 @@
 articles:
-  - title : "Zebrafish brain atlases: a collective effort for a tiny vertebrate brain"
-    authors : "Antoine Légaré, Mado Lemieux, Patrick Desrosiers, Paul De Koninck"
-    year : 2023
-    journal : Neurophotonics
-    edition : 10
-    pagenumber : 044409
-    fulltext : https://doi.org/10.1117/1.NPh.10.4.044409
 
   - title : The determining role of covariances in large networks of stochastic neurons
     authors : Vincent Painchaud, Patrick Desrosiers, Nicolas Doyon
     arxiv : https://arxiv.org/abs/2212.09705
-    year : 2022
-    insubmission: True
-
-  - title : Predicting cognitive decline in a low-dimensional representation of brain morphology
-    authors : Rémi Lamontagne-Caron, Patrick Desrosiers, Olivier Potvin, Simon Duchesne, Nicolas Doyon, Alzheimer's Disease Neuroimaging Initiative, CIMA-Q
-    medrxiv : https://doi.org/10.1101/2022.11.23.22282135
     year : 2022
     insubmission: True
 
@@ -61,6 +48,21 @@ articles:
     year : 2021
     insubmission: True
 
+
+  - title : Predicting cognitive decline in a low-dimensional representation of brain morphology
+    authors : Rémi Lamontagne-Caron, Patrick Desrosiers, Olivier Potvin, Nicolas Doyon, Simon Duchesne
+    journal : Scientific Reports
+    edition : 13
+    year : 2023
+    fulltext: https://doi.org/10.1038/s41598-023-43063-4
+
+  - title : "Zebrafish brain atlases: a collective effort for a tiny vertebrate brain"
+    authors : "Antoine Légaré, Mado Lemieux, Patrick Desrosiers, Paul De Koninck"
+    year : 2023
+    journal : Neurophotonics
+    edition : 10
+    pagenumber : 044409
+    fulltext : https://doi.org/10.1117/1.NPh.10.4.044409
 
   - title : Dimension reduction of dynamics on modular and heterogeneous directed networks
     authors : Marina Vegué Llorente, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
