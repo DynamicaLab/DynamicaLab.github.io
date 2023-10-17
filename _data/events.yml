@@ -1,4 +1,31 @@
 - eventtype: Seminar
+  title: "Rethinking interactions among the constituents of complex systems: The case for latent hyperbolic geometry"
+  subtitle: "Vermont-KIAS Workshop: Group interactions in network science"
+  subsubtitle: by Antoine Allard
+  date: 2023-09-28
+
+- eventtype: On the reconstructability of complex networks
+  title: International School and Conference on Network Science
+  subtitle: by François Thibault
+  date: 2023-07-13
+
+- eventtype: Inherent uncertainty of hyperbolic embeddings of complex networks
+  title: International School and Conference on Network Science
+  subtitle: by Simon Lizotte
+  date: 2023-07-12
+
+- eventtype: Optimal Mesoscopic Structure of General Binary-State Dynamics on Networks
+  title: International School and Conference on Network Science
+  subtitle: by Jérémi Lesage
+  date: 2023-07-12
+
+- eventtype: Seminar
+  title: Inherent uncertainty of hyperbolic embeddings of complex networks
+  subtitle: Institute for Biocomputation and Physics of Complex Systems (BIFI)
+  subsubtitle: by Antoine Allard
+  date: 2023-06-30
+
+- eventtype: Seminar
   title: Inherent uncertainty of hyperbolic embeddings of complex networks
   subtitle: "NESS 2023: Statistics and Data Science - Driving Discoveries in Modern Era"
   subsubtitle: by Simon Lizotte
