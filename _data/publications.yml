@@ -1,5 +1,17 @@
 articles:
 
+  - title : Modeling critical connectivity constraints in random and empirical networks
+    authors : Laurent Hébert-Dufresne, Márton Pósfai, Antoine Allard
+    year : 2023
+    arxiv : https://arxiv.org/abs/2307.03559
+    insubmission: True
+
+  - title : Indistinguishability of simple and complex contagion under uncertain transmission settings
+    authors: Guillaume St-Onge, Laurent Hébert-Dufresne, Antoine Allard
+    year : 2023
+    arxiv : https://arxiv.org/abs/2307.03559
+    insubmission: True
+
   - title : The determining role of covariances in large networks of stochastic neurons
     authors : Vincent Painchaud, Patrick Desrosiers, Nicolas Doyon
     arxiv : https://arxiv.org/abs/2212.09705
@@ -8,50 +20,98 @@ articles:
 
   - title : Hypergraph reconstruction from noisy pairwise observations
     authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    year : 2022
     arxiv : https://arxiv.org/abs/2208.06503
-    year : 2022
-    insubmission: True
-
-  - title : The low-rank hypothesis of complex systems
-    authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
-    arxiv : https://arxiv.org/abs/2208.04848
-    year : 2022
-    insubmission: True
-
-  - title : "NBS-SNI, an extension of the Network-based statistic: Investigating differences in functional connections between important structural actors in case-control studies"
-    authors : Francis Normand, Daniel C. Côté, Antoine Allard
-    biorxiv : https://doi.org/10.1101/2022.08.29.505749
-    year : 2022
     insubmission: True
 
   - title : Duality between predictability and reconstructability in complex systems
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
-    arxiv : https://arxiv.org/abs/2206.04000
     year : 2022
+    arxiv : https://arxiv.org/abs/2206.04000
     insubmission: True
 
   - title : "Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns"
     authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Alexander Daniels, Antoine Allard
+    year : 2022
     arxiv : https://arxiv.org/abs/2204.08444
-    year : 2022
-    insubmission: True
-
-  - title : Hierarchical team structure and multidimensional localization (or siloing) on networks
-    authors : Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James P. Bagrow, Antoine Allard
-    arxiv : https://arxiv.org/abs/2203.00745
-    year : 2022
     insubmission: True
 
   - title : The network epidemiology of an Ebola epidemic
     authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Jamie Bedson, Laura A. Skrip, Danielle Pedi, Mohammed F. Jalloh, Bastian Raulier, Olivier Lapointe-Gagné, Amara Jambai, Antoine Allard and Benjamin M. Althouse
-    arxiv : "https://arxiv.org/abs/2111.08686"
     year : 2021
+    arxiv : "https://arxiv.org/abs/2111.08686"
+    insubmission: True
+
+  - title : "Detecting structural perturbations from time series with deep learning"
+    authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
+    year : 2020
+    arxiv : "https://arxiv.org/abs/2006.05232"
+    insubmission: True
+
+  - title : "On the accuracy of message-passing approaches to percolation in complex networks"
+    authors : "Antoine Allard, Laurent Hébert-Dufresne"
+    year : 2019
+    arxiv : "https://arxiv.org/abs/1906.10377"
     insubmission: True
 
 
+  - title : "D-Mercator: multidimensional hyperbolic embedding of real networks"
+    authors : Robert Jankowski, Antoine Allard, Marián Boguñá, M. Ángeles Serrano
+    journal : Nat. Commun. (in press)
+    year : 2023
+    arxiv : https://arxiv.org/abs/2304.06580
+
+  - title : The unintended consequences of inconsistent pandemic control policies
+    authors : Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Antoine Allard, Andrew M. Berdahl, Easton R. White, Laurent Hébert-Dufresne
+    journal : BMC Global Public Health (in press)
+    year : 2023
+    medrxiv : https://doi.org/10.1101/2020.08.21.20179473
+
+  - title : Temporal and probabilistic forecasts of epidemic interventions
+    authors : Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, Laurent Hébert-Dufresne
+    journal : Bull. Math. Biol. (in press)
+    year : 2023
+    arxiv : https://arxiv.org/abs/2302.03210
+
+  - title : "NBS-SNI, an extension of the Network-based statistic: Investigating differences in functional connections between important structural actors in case-control studies"
+    authors : Francis Normand, Mehul Gajwani, Daniel C. Côté, Antoine Allard
+    journal : Netw. Neurosci. (in press)
+    year : 2023
+    biorxiv : https://doi.org/10.1101/2022.08.29.505749
+
+  - title : Geometric description of clustering in directed networks
+    authors : Antoine Allard, M. Ángeles Serrano, Marián Boguñá
+    journal : Nat. Phys. (in press)
+    year : 2023
+    arxiv : https://arxiv.org/abs/2302.09055
+
+  - title : The low-rank hypothesis of complex systems
+    authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    journal : Nat. Phys. (in press)
+    year : 2023
+    arxiv : https://arxiv.org/abs/2208.04848
+
+  - title : Hierarchical team structure and multidimensional localization (or siloing) on networks
+    authors : Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James P. Bagrow, Antoine Allard
+    journal : J. Phys. Complex.
+    volume : 4
+    pagenumber : 035002
+    year : 2023
+    arxiv : https://arxiv.org/abs/2203.00745
+    fulltext: https://doi.org/10.1088/2632-072X/ace602
+
+  - title : Exact and rapid linear clustering of networks with dynamic programming
+    authors : Alice Patania, Antoine Allard, Jean-Gabriel Young
+    journal : Proc. R. Soc. A
+    volume : 479
+    pagenumber : 20230159
+    year : 2023
+    arxiv : https://arxiv.org/abs/2301.10403
+    fulltext: https://doi.org/10.1098/rspa.2023.0159
+
   - title : Predicting cognitive decline in a low-dimensional representation of brain morphology
     authors : Rémi Lamontagne-Caron, Patrick Desrosiers, Olivier Potvin, Nicolas Doyon, Simon Duchesne
-    journal : Scientific Reports
+    journal : Sci. Rep.
     edition : 13
     year : 2023
     fulltext: https://doi.org/10.1038/s41598-023-43063-4
@@ -178,12 +238,6 @@ articles:
     pagenumber : 25
     fulltext : https://doi.org/10.1038/s42005-021-00788-w
 
-  - title : The unintended consequences of inconsistent pandemic control policies
-    authors : Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Antoine Allard, Andrew M. Berdahl, Easton R. White, Laurent Hébert-Dufresne
-    medrxiv : https://doi.org/10.1101/2020.08.21.20179473
-    year : 2020
-    insubmission: True
-
   - title : Limits of Individual Consent and Models of Distributed Consent in Online Social Networks
     authors : Juniper Lovato, Antoine Allard, Randall Harp, Jeremiah Onaolapo, Laurent Hébert-Dufresne
     arxiv : https://arxiv.org/abs/2006.16140
@@ -191,12 +245,6 @@ articles:
     journal : "FAccT'22: 2022 ACM Conference on Fairness, Accountability, and Transparency"
     pagenumber: 2251–2262
     fulltext: https://doi.org/10.1145/3531146.3534640
-
-  - title : "Detecting structural perturbations from time series with deep learning"
-    authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
-    arxiv : "https://arxiv.org/abs/2006.05232"
-    year : 2020
-    insubmission: True
 
   - title : "Superspreading events in the transmission dynamics of SARS-CoV-2: Opportunities for interventions and control"
     authors : Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, Laurent Hébert-Dufresne, Hao Hu
@@ -320,12 +368,6 @@ articles:
     pagenumber: "013009"
     arxiv : "https://arxiv.org/abs/1810.00735"
     fulltext: "https://doi.org/10.1103/PhysRevResearch.1.013009"
-
-  - title : "On the accuracy of message-passing approaches to percolation in complex networks"
-    authors : "Antoine Allard, Laurent Hébert-Dufresne"
-    arxiv : "https://arxiv.org/abs/1906.10377"
-    year : 2019
-    insubmission: True
 
   - title : "Percolation and the effective structure of complex networks"
     authors : "Antoine Allard, Laurent Hébert-Dufresne"
