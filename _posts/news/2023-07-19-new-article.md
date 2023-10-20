@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New paper in Proc. R. Soc. A"
-date:   2023-07-25
+date:   2023-07-19
 published: True
 type: "post"
 ---
