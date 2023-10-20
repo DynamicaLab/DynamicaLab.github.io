@@ -67,12 +67,6 @@ articles:
     year : 2023
     medrxiv : https://doi.org/10.1101/2020.08.21.20179473
 
-  - title : Temporal and probabilistic forecasts of epidemic interventions
-    authors : Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, Laurent Hébert-Dufresne
-    journal : To appear in Bull. Math. Biol.
-    year : 2023
-    arxiv : https://arxiv.org/abs/2302.03210
-
   - title : "NBS-SNI, an extension of the Network-based statistic: Investigating differences in functional connections between important structural actors in case-control studies"
     authors : Francis Normand, Mehul Gajwani, Daniel C. Côté, Antoine Allard
     journal : To appear in Netw. Neurosci.
@@ -90,6 +84,15 @@ articles:
     journal : To appear in Nat. Phys.
     year : 2023
     arxiv : https://arxiv.org/abs/2208.04848
+
+  - title : Temporal and probabilistic forecasts of epidemic interventions
+    authors : Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, Laurent Hébert-Dufresne
+    journal : Bull. Math. Biol.
+    volume : 85
+    pagenumber : 118
+    year : 2023
+    fulltext : https://doi.org/10.1007/s11538-023-01220-w
+    arxiv : https://arxiv.org/abs/2302.03210
 
   - title : Hierarchical team structure and multidimensional localization (or siloing) on networks
     authors : Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James P. Bagrow, Antoine Allard
