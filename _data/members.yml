@@ -43,7 +43,7 @@ doctoral:
 
   - name: François
     lastname: Thibault
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/francois.jpg"
 
   - name: Vincent
     lastname: Thibeault
@@ -55,6 +55,7 @@ doctoral:
   - name: Zahra
     lastname: Yazdani
     image: "/assets/images/members/behnaz_v2.jpg"
+
 
 
 master:
