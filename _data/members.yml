@@ -41,6 +41,10 @@ doctoral:
     lastname: Pourmousavi
     image: "/assets/images/members/marziyeh.png"
 
+  - name: Olivier
+    lastname: Ribordy
+    image: "/assets/images/members/olivier2.png"
+
   - name: François
     lastname: Thibault
     image: "/assets/images/members/francois.jpg"
