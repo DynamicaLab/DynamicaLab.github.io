@@ -1,5 +1,13 @@
 conferences:
+  - title : Extracting structural connectomes from living neurons in culture by combining digital holographic microscopy with deep-learning methods
+    authors : Zahra Yazdani, Mohamed Haouat, Erik Bélanger, Pierre Marquet, Antoine Allard, Patrick Desrosiers
+    conf : CAN 2023
+    slides : "assets/pdf/posters/Behnaz-Poster-CAN2023.pdf"
+    year : 2023
+    country : Canada
+    city : Montreal, QC
 
+    
   - title : The Low-Rank Hypothesis of Complex Systems -- From Empirical and Theoretical Evidence to the Emergence of Higher-Order Interaction
     authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     conf : SIAM Conference on Dynamical Systems (DS23)
