@@ -1,4 +1,10 @@
 - eventtype: Seminar
+  title: "Structure and function of large neural networks"
+  subtitle: "CERVO Brain Research Center: Scientific Day 2023"
+  subsubtitle: by Patrick Desrosiers
+  date: 2023-12-08
+
+- eventtype: Seminar
   title: Structural and genetic constraints on zebrafish brain networks
   subtitle: UNIQUE Center Scientific Retreat
   subsubtitle: by Antoine Légaré
