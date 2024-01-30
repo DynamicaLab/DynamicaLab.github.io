@@ -1,4 +1,10 @@
 - eventtype: Seminar
+  title: "The low-rank hypothesis of complex systems"
+  subtitle: "Network Science Institute (NetSI) at Northeastern University"
+  subsubtitle: by Vincent Thibeault
+  date: 2024-01-31
+
+- eventtype: Seminar
   title: "Structure and function of large neural networks"
   subtitle: "CERVO Brain Research Center: Scientific Day 2023"
   subsubtitle: by Patrick Desrosiers
