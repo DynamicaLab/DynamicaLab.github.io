@@ -12,22 +12,10 @@ articles:
     arxiv : https://arxiv.org/abs/2307.03559
     insubmission: True
 
-  - title : The determining role of covariances in large networks of stochastic neurons
-    authors : Vincent Painchaud, Patrick Desrosiers, Nicolas Doyon
-    arxiv : https://arxiv.org/abs/2212.09705
-    year : 2022
-    insubmission: True
-
   - title : Hypergraph reconstruction from noisy pairwise observations
     authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
     year : 2022
     arxiv : https://arxiv.org/abs/2208.06503
-    insubmission: True
-
-  - title : Duality between predictability and reconstructability in complex systems
-    authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
-    year : 2022
-    arxiv : https://arxiv.org/abs/2206.04000
     insubmission: True
 
   - title : "Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns"
@@ -54,6 +42,17 @@ articles:
     arxiv : "https://arxiv.org/abs/1906.10377"
     insubmission: True
 
+  - title : Duality between predictability and reconstructability in complex systems
+    authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    year : 2024
+    journal : To appear in Nat. Commun.	
+    arxiv : https://arxiv.org/abs/2206.04000
+
+  - title : The determining role of covariances in large networks of stochastic neurons
+    authors : Vincent Painchaud, Patrick Desrosiers, Nicolas Doyon
+    year : 2024
+    journal : To appear in Neural Comput.
+    arxiv : https://arxiv.org/abs/2212.09705
 
   - title : "D-Mercator: multidimensional hyperbolic embedding of real networks"
     authors : Robert Jankowski, Antoine Allard, Marián Boguñá, M. Ángeles Serrano
@@ -81,8 +80,11 @@ articles:
 
   - title : The low-rank hypothesis of complex systems
     authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
-    journal : To appear in Nat. Phys.
-    year : 2023
+    journal : Nat. Phys.
+    volume : 20
+    pagenumber : 294 
+    year : 2024
+    fulltext : https://doi.org/10.1038/s41567-023-02303-0
     arxiv : https://arxiv.org/abs/2208.04848
 
   - title : Temporal and probabilistic forecasts of epidemic interventions
