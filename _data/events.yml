@@ -1,3 +1,13 @@
+- eventtype: Workshop
+  title: Second edition of the <a href="https://www.dcclab.ca/progfest/?lang=en">prog():fest</a>
+  date: 2024-03-04
+
+- eventtype: Seminar
+  title: "The low-rank hypothesis of complex systems"
+  subtitle: "Mathematical Institute at Oxford University"
+  subsubtitle: by Vincent Thibeault
+  date: 2024-02-20
+
 - eventtype: Seminar
   title: "The low-rank hypothesis of complex systems"
   subtitle: "Network Science Institute (NetSI) at Northeastern University"

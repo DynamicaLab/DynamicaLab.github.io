@@ -67,15 +67,6 @@ master:
     lastname: Claveau
     image: "/assets/images/members/benjamin.png"
 
-  - name: Jérémie
-    lastname: Gince
-    image: "/assets/images/members/jgince.png"
-    github: "https://github.com/JeremieGince"
-
-  - name: Jeson
-    lastname: Hermans
-    image: "/assets/images/members/jeson.png"
-
   - name: Pierre-Luc
     lastname: Larouche
     image: "/assets/images/members/pierreluc.jpg"
@@ -89,10 +80,6 @@ interns:
   - name: Arthur
     lastname: Légaré
     image: "/assets/images/members/arthur_legare.png"
-
-  - name: Anne-Sophie
-    lastname: Roy
-    image: "/assets/images/members/anne_sophie_roy.png"
 
 
 formers:
@@ -170,6 +157,13 @@ formers:
     year: 2014
     task: M.Sc. 2011 & Ph.D. 2014
 
+  - name: Jérémie
+    lastname: Gince
+    image: "/assets/images/members/jgince.png"
+    year: 2023	
+    github: "https://github.com/JeremieGince"
+    task: M.Sc. 2023
+
   - name: Laurent
     lastname: Hébert-Dufresne
     year: 2014
@@ -180,6 +174,11 @@ formers:
     lastname: Hermans
     year: 2020
     task: Summer & Fall 2020
+
+  - name: Jeson
+    lastname: Hermans
+    year: 2024
+    task: M.Sc. 2024
 
   - name: Olivier
     lastname: Lapointe-Gagné
@@ -258,6 +257,11 @@ formers:
     lastname: Ribordy
     year: 2022
     task: Summer 2019 & M.Sc. 2022
+
+  - name: Anne-Sophie
+    lastname: Roy
+    year: 2023
+    task: Summer & Fall 2023
 
   - name: Xavier
     lastname: Roy-Pomerleau
