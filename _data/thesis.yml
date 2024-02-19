@@ -1,6 +1,19 @@
 
-
 thesis:
+  - title: "Étude spectrale des réseaux de neurones aléatoires"
+    subtitle: "Spectral study of random neural networks"
+    authors: Jason Hermans
+    type: M.Sc.
+    year: 2024
+    fulltext : "assets/pdf/theses/hermans24_master.pdf"
+
+  - title: "NeuroTorch : Une librairie Python dédiée à l’apprentissage automatique dans le domaine des neurosciences"
+    subtitle:"NeuroTorch: A Python library dedicated to machine learning in the field of neuroscience"
+    authors: Jérémie Gince
+    type: M.Sc.
+    year: 2023
+    fulltext : "assets/pdf/theses/gince23_master.pdf"
+
   - title: De la densité spectrale des réseaux extrêmement creux
     authors: Olivier Ribordy
     type: M.Sc.
