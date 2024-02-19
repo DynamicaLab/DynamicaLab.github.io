@@ -6,17 +6,6 @@ articles:
     arxiv : https://arxiv.org/abs/2307.03559
     insubmission: True
 
-  - title : Indistinguishability of simple and complex contagion under uncertain transmission settings
-    authors: Guillaume St-Onge, Laurent Hébert-Dufresne, Antoine Allard
-    year : 2023
-    arxiv : https://arxiv.org/abs/2307.03559
-    insubmission: True
-
-  - title : Hypergraph reconstruction from noisy pairwise observations
-    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
-    year : 2022
-    arxiv : https://arxiv.org/abs/2208.06503
-    insubmission: True
 
   - title : "Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns"
     authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Alexander Daniels, Antoine Allard
@@ -42,11 +31,17 @@ articles:
     arxiv : "https://arxiv.org/abs/1906.10377"
     insubmission: True
 
+
   - title : Duality between predictability and reconstructability in complex systems
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     year : 2024
     journal : To appear in Nat. Commun.	
     arxiv : https://arxiv.org/abs/2206.04000
+
+  - title: Escherichia coli CRISPR arrays from early life fecal samples preferentially target prophages
+    authors: Moïra B. Dion, Shiraz A. Shah, Ling Deng, Jonathan Thorsen, Jakob Stokholm, Karen A. Krogfelt, Susanne Schjørring, Philippe Horvath ,Antoine Allard, Dennis S. Nielsen, Marie-Agnès Petit, Sylvain Moineau
+    journal: To appear in The ISME Journal
+    year: 2024
 
   - title : The determining role of covariances in large networks of stochastic neurons
     authors : Vincent Painchaud, Patrick Desrosiers, Nicolas Doyon
@@ -54,43 +49,74 @@ articles:
     journal : To appear in Neural Comput.
     arxiv : https://arxiv.org/abs/2212.09705
 
-  - title : "D-Mercator: multidimensional hyperbolic embedding of real networks"
-    authors : Robert Jankowski, Antoine Allard, Marián Boguñá, M. Ángeles Serrano
-    journal : To appear in Nat. Commun.
-    year : 2023
-    arxiv : https://arxiv.org/abs/2304.06580
-
-  - title : The unintended consequences of inconsistent pandemic control policies
-    authors : Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Antoine Allard, Andrew M. Berdahl, Easton R. White, Laurent Hébert-Dufresne
-    journal : To appear in BMC Global Public Health
-    year : 2023
-    medrxiv : https://doi.org/10.1101/2020.08.21.20179473
-
   - title : "NBS-SNI, an extension of the Network-based statistic: Investigating differences in functional connections between important structural actors in case-control studies"
     authors : Francis Normand, Mehul Gajwani, Daniel C. Côté, Antoine Allard
-    journal : To appear in Netw. Neurosci.
-    year : 2023
+    journal : Netw. Neurosci.
+    year : 2024
+    edition: 8
+    pagenumber: 44-80
+    fulltext: https://doi.org/10.1162/netn_a_00344
     biorxiv : https://doi.org/10.1101/2022.08.29.505749
 
   - title : Geometric description of clustering in directed networks
     authors : Antoine Allard, M. Ángeles Serrano, Marián Boguñá
-    journal : To appear in Nat. Phys.
-    year : 2023
+    journal : Nat. Phys.
+    edition: 20
+    pagenumber: 150-156
+    year : 2024
+    fulltext: https://doi.org/10.1038/s41567-023-02246-6
     arxiv : https://arxiv.org/abs/2302.09055
 
   - title : The low-rank hypothesis of complex systems
     authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     journal : Nat. Phys.
-    volume : 20
-    pagenumber : 294 
+    edition : 20
+    pagenumber : 294-302
     year : 2024
     fulltext : https://doi.org/10.1038/s41567-023-02303-0
     arxiv : https://arxiv.org/abs/2208.04848
 
+
+  - title : The D-Mercator method for the multidimensional hyperbolic embedding of real networks
+    authors : Robert Jankowski, Antoine Allard, Marián Boguñá, M. Ángeles Serrano
+    journal : Nat. Commun.
+    edition: 14
+    pagenumber: 7585
+    year : 2023
+    fulltext : https://doi.org/10.1038/s41467-023-43337-5
+    arxiv : https://arxiv.org/abs/2304.06580
+
+  - title : The unintended consequences of inconsistent closure policies and mobility restrictions during epidemics
+    authors : Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Antoine Allard, Andrew M. Berdahl, Easton R. White, Laurent Hébert-Dufresne
+    journal : BMC Global Public Health
+    edition: 1
+    pagenumber: 28
+    year : 2023
+    fulltext: https://doi.org/10.1186/s44263-023-00028-z
+    medrxiv : https://doi.org/10.1101/2020.08.21.20179473
+
+  - title : Nonlinear bias toward complex contagion in uncertain transmission settings
+    authors: Guillaume St-Onge, Laurent Hébert-Dufresne, Antoine Allard
+    journal: Proc. Natl. Acad. Sci. USA
+    year : 2023
+    edition: 121
+    pagenumber: e2312202121
+    fulltext: https://doi.org/10.1073/pnas.2312202121
+    arxiv : https://arxiv.org/abs/2307.03559
+
+  - title : Hypergraph reconstruction from uncertain pairwise observations
+    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    journal: Sci. Rep.
+    year : 2023
+    edition: 13
+    pagenumber: 21364
+    fulltext: https://doi.org/10.1038/s41598-023-48081-w
+    arxiv : https://arxiv.org/abs/2208.06503
+
   - title : Temporal and probabilistic forecasts of epidemic interventions
     authors : Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, Laurent Hébert-Dufresne
     journal : Bull. Math. Biol.
-    volume : 85
+    edition : 85
     pagenumber : 118
     year : 2023
     fulltext : https://doi.org/10.1007/s11538-023-01220-w
@@ -99,7 +125,7 @@ articles:
   - title : Hierarchical team structure and multidimensional localization (or siloing) on networks
     authors : Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James P. Bagrow, Antoine Allard
     journal : J. Phys. Complex.
-    volume : 4
+    edition : 4
     pagenumber : 035002
     year : 2023
     arxiv : https://arxiv.org/abs/2203.00745
@@ -108,7 +134,7 @@ articles:
   - title : Exact and rapid linear clustering of networks with dynamic programming
     authors : Alice Patania, Antoine Allard, Jean-Gabriel Young
     journal : Proc. R. Soc. A
-    volume : 479
+    edition : 479
     pagenumber : 20230159
     year : 2023
     arxiv : https://arxiv.org/abs/2301.10403
@@ -134,7 +160,7 @@ articles:
     arxiv : https://arxiv.org/abs/2206.11230
     year : 2023
     journal: PNAS Nexus
-    volume: 2
+    edition: 2
     pagenumber: pgad150
     fulltext: https://doi.org/10.1093/pnasnexus/pgad150
 
@@ -143,7 +169,7 @@ articles:
     arxiv : https://arxiv.org/abs/2209.09201
     year : 2023
     journal: PNAS Nexus
-    volume: 2
+    edition: 2
     pagenumber: pgad136
     fulltext: https://doi.org/10.1093/pnasnexus/pgad136
 
@@ -152,9 +178,28 @@ articles:
     arxiv : https://arxiv.org/abs/2005.11283
     year : 2023
     journal: SIAM Rev.
-    volume: 65
+    edition: 65
     pagenumber: 471-492
     fulltext: https://doi.org/10.1137/20m1383811
+
+  - title : "Effects of global change on bird and beetle populations in boreal forest landscape: An assemblage dissimilarity analysis"
+    authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
+    biorxiv : https://www.biorxiv.org/content/10.1101/2022.01.31.477297v2
+    year : 2023
+    journal: Divers. Distrib.
+    edition: 29
+    pagenumber: 757-773
+    fulltext: https://doi.org/10.1111/ddi.13697
+
+  - title : Long-term effect of forest harvesting on boreal species assemblages under climate change
+    authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Junior A. Tremblay, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
+    journal: PLOS Clim.
+    edition: 2
+    pagenumber: e0000179
+    year : 2023
+    fulltext: https://doi.org/10.1371/journal.pclm.0000179
+    biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664
+
 
   - title : "Beyond Wilson-Cowan dynamics: oscillations and chaos without inhibition"
     authors : "Vincent Painchaud, Nicolas Doyon, Patrick Desrosiers"
@@ -164,24 +209,6 @@ articles:
     edition: 116
     pagenumber: 527
     fulltext: "https://doi.org/10.1007/s00422-022-00941-w"
-
-  - title : "Effects of global change on bird and beetle populations in boreal forest landscape: An assemblage dissimilarity analysis"
-    authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
-    biorxiv : https://www.biorxiv.org/content/10.1101/2022.01.31.477297v2
-    year : 2023
-    journal: Divers. Distrib.
-    volume: 29
-    pagenumber: 757-773
-    fulltext: https://doi.org/10.1111/ddi.13697
-
-  - title : Long-term effect of forest harvesting on boreal species assemblages under climate change
-    authors : Ilhem Bouderbala, Guillemette Labadie, Jean-Michel Béland, Junior A. Tremblay, Yan Boulanger, Christian Hébert, Patrick Desrosiers, Antoine Allard, Daniel Fortin
-    journal: PLOS Clim.
-    volume: 2
-    pagenumber: e0000179
-    year : 2023
-    fulltext: https://doi.org/10.1371/journal.pclm.0000179
-    biorxiv : https://www.biorxiv.org/content/10.1101/2022.08.21.504664
 
   - title : Toward an integrative neurovascular framework for studying brain networks
     authors : Jérémie Guilbert, Antoine Légaré, Paul De Koninck, Patrick Desrosiers, Michèle Desjardins
@@ -640,8 +667,7 @@ articles:
     fulltext : "http://dx.doi.org/10.1103/PhysRevE.82.036115"
     arxiv : "http://arxiv.org/abs/1005.1397"
 
-  - title : "Des Ponts d'Euler à la Grippe Aviaire: De l'abstraction mathématique à la
-    réalité sociale des épidémies"
+  - title : "Des Ponts d'Euler à la Grippe Aviaire: De l'abstraction mathématique à la réalité sociale des épidémies"
     authors : "Antoine Allard, Pierre-André; Noël, Louis J. Dubé"
     edition : "4"
     pagenumber : "24-29"
@@ -819,7 +845,7 @@ articles:
     authors : "Étienne Brasselet, T. Galstian, Louis J. Dubé, D.O. Krimer, L. Kramer"
     journal : "J. Opt. Soc. Am. B "
     edition : "22"
-    journal : "1671-1680"
+    pagenumber : "1671-1680"
     year : 2005
     fulltext : "http://dx.doi.org/10.1364/JOSAB.22.001671"
 
