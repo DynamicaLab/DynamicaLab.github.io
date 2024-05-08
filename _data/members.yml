@@ -63,6 +63,10 @@ doctoral:
 
 
 master:
+  - name: Jordan
+    lastname: Charest
+    image: "/assets/images/members/default.png"
+
   - name: Benjamin
     lastname: Claveau
     image: "/assets/images/members/benjamin.png"
