@@ -45,8 +45,11 @@ articles:
 
   - title : The determining role of covariances in large networks of stochastic neurons
     authors : Vincent Painchaud, Patrick Desrosiers, Nicolas Doyon
+    edition : 36
+    pagenumber : 1121–1162
     year : 2024
-    journal : To appear in Neural Comput.
+    journal : Neural Comput.
+    fulltext: https://doi.org/10.1162/neco_a_01656
     arxiv : https://arxiv.org/abs/2212.09705
 
   - title : "NBS-SNI, an extension of the Network-based statistic: Investigating differences in functional connections between important structural actors in case-control studies"
