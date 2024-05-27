@@ -13,3 +13,4 @@ _site/
 *.DS_Store
 dynamicalab.github.io.sublime-project
 dynamicalab.github.io.sublime-workspace
+*.code-workspace
