@@ -31,11 +31,13 @@ articles:
     arxiv : "https://arxiv.org/abs/1906.10377"
     insubmission: True
 
-
   - title : Duality between predictability and reconstructability in complex systems
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     year : 2024
-    journal : To appear in Nat. Commun.	
+    journal : Nat. Commun.
+    edition : 15
+    pagenumber : 4478
+    fulltext : https://doi.org/10.1038/s41467-024-48020-x	
     arxiv : https://arxiv.org/abs/2206.04000
 
   - title: Escherichia coli CRISPR arrays from early life fecal samples preferentially target prophages
