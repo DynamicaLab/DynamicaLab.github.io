@@ -1,11 +1,19 @@
 conferences:
 
+  - title: Revisiting the Kuramoto model on graph: integrals of motion, motifs, and symmetries
+    authors: Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
+    conf: International School and Conference on Network Science (NetSci2024)
+    slides : "assets/pdf/slides/Thibeault_Vincent_Netsci2024_slides_final.pdf"
+    country: Canada
+    year: 2024
+    city: Québec, Qc
+
   - title: Exploring recurrent neural network dynamics -- A spectral approach based on Koopman operator theory
     authors: Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2024)
     country: Canada
     year: 2024
-    city: Quebec City
+    city: Québec, Qc
 
   - title : Extracting structural connectomes from living neurons in culture by combining digital holographic microscopy with deep-learning methods
     authors : Zahra Yazdani, Mohamed Haouat, Erik Bélanger, Pierre Marquet, Antoine Allard, Patrick Desrosiers
@@ -38,7 +46,7 @@ conferences:
     poster : "assets/pdf/affiches/Ilhem_Poster_SN_2022.pdf"
     year : 2022
     country : Canada
-    city : Québec
+    city : Québec, Qc
 
   - title : Whole-brain neuronal dynamics underlying spontaneous behavior in larval zebrafish
     authors : Antoine Légaré, Vincent Boily, Sandrine Poulin, Mado Lemieux, Patrick Desrosiers, Paul De Koninck
@@ -46,14 +54,14 @@ conferences:
     poster : "assets/pdf/affiches/CAN2022_Poster_AL.pdf"
     year : 2022
     country : Canada
-    city : Québec
+    city : Québec, Qc
 
   - title: The hidden low-dimensional dynamics of large neuronal networks
     authors: Patrick Desrosiers
     conf: Frontiers in Neurophotonics Symposium 2022 (FINS2022)
     country: Canada
     year: 2022
-    city: Quebec City
+    city: Québec, Qc
     slides : "assets/pdf/slides/Desrosiers-FINS-2022-08-12.pdf"
 
   - title: Influence of neuromodulation on brain states and their transitions in larval zebrafish
@@ -61,7 +69,7 @@ conferences:
     conf: Frontiers in Neurophotonics Symposium 2022 (FINS2022)
     country: Canada
     year: 2022
-    city: Quebec City
+    city: Québec, Qc
     slides: "assets/pdf/slides/FINS2022_ALegare.pdf"
 
   - title: Dimension matters when modelling network communities in hyperbolic spaces
