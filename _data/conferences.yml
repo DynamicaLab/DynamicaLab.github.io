@@ -1,4 +1,12 @@
 conferences:
+
+  - title: Exploring recurrent neural network dynamics -- A spectral approach based on Koopman operator theory
+    authors: Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    conf: International School and Conference on Network Science (NetSci2024)
+    country: Canada
+    year: 2024
+    city: Quebec City
+
   - title : Extracting structural connectomes from living neurons in culture by combining digital holographic microscopy with deep-learning methods
     authors : Zahra Yazdani, Mohamed Haouat, Erik Bélanger, Pierre Marquet, Antoine Allard, Patrick Desrosiers
     conf : CAN 2023
