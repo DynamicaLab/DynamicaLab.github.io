@@ -1,6 +1,6 @@
 conferences:
 
-  - title: Revisiting the Kuramoto model on graph: integrals of motion, motifs, and symmetries
+  - title: Revisiting the Kuramoto model on graph -- integrals of motion, motifs, and symmetries
     authors: Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2024)
     slides : "assets/pdf/slides/Thibeault_Vincent_Netsci2024_slides_final.pdf"
