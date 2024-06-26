@@ -8,9 +8,17 @@ conferences:
     year: 2024
     city: Québec, Qc
 
+  - title: Structural and genetic constraints on zebrafish brain networks
+    authors: Antoine Légaré, Vincent Boily, Sandrine Poulin, Arthur Légaré, Hugo Poulin, Mado Lemieux, Patrick Desrosiers, Paul De Koninck
+    conf: International School and Conference on Network Science (NetSci2024)
+    country: Canada
+    year: 2024
+    city: Québec, Qc
+
   - title: Exploring recurrent neural network dynamics -- A spectral approach based on Koopman operator theory
     authors: Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2024)
+    poster : "assets/pdf/posters/netsci2024_cleveau.pdf"
     country: Canada
     year: 2024
     city: Québec, Qc
