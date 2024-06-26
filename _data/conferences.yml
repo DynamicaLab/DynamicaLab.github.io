@@ -18,7 +18,7 @@ conferences:
   - title: Exploring recurrent neural network dynamics -- A spectral approach based on Koopman operator theory
     authors: Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2024)
-    poster : "assets/pdf/posters/netsci2024_cleveau.pdf"
+    poster : "assets/pdf/posters/netsci2024_claveau.pdf"
     country: Canada
     year: 2024
     city: Québec, Qc
