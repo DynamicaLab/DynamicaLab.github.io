@@ -1,5 +1,13 @@
 conferences:
 
+  - title: Unravelling neuronal network organization and growth stages through graph fingerprints
+    authors: Zahra Yazdani, Niraj Patel, Anne-Sophie Roy, Erik Belanger, Maxime Moreaud, Pierre Marquet, Antoine Allard, Patrick Desrosiers
+    conf: International School and Conference on Network Science (NetSci2024)
+    country: Canada
+    year: 2024
+    city: Québec, Qc
+
+    
   - title: Revisiting the Kuramoto model on graph -- integrals of motion, motifs, and symmetries
     authors: Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2024)
