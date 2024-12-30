@@ -1,3 +1,40 @@
+- eventtype: Doctoral seminar
+  title: "Impact du contexte social sur la propagation épidémique"
+  subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
+  subsubtitle: by Olivier Ribordy
+  date: 2024-12-13
+
+- eventtype: Seminar
+  title:  "Graph and geometry-based approaches for cellular-level analysis of structure and function in neuronal networks"
+  subtitle: "QLS Seminar Series at McGill University"
+  subsubtitle: by Patrick Desrosiers
+  date: 2024-11-26
+
+- eventtype: Seminar
+  title: "Pourquoi un prix Nobel de physique lié à l’intelligence artificielle?"
+  subtitle: "Café scientifique, Faculté des sciences et de génie, Université Laval"
+  subsubtitle: by Patrick Desrosiers
+  date: 2024-11-21
+
+- eventtype: Master's seminar
+  title: "Plongement hyperbolique de graphes orientés"
+  subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
+  subsubtitle: by Jérémi Lesage
+  date: 2024-11-19
+
+- eventtype: Workshop
+  title:  <a href="https://sites.grenadine.uqam.ca/sites/formationia/en/m2m-connectome">Quebec Connectomics</a>
+  date: 2024-10-03
+
+- eventtype: Summer School
+  title: "Neurasmus -- Introduction to Computational Neuroscience"
+  subtitle: "Vrije Universiteit, Amsterdam"
+  date: 2024-07-03
+
+- eventtype: Conference
+  title: <a href="https://netsci2024.com/en">NetSci2024</a>
+  date: 2024-06-16
+
 - eventtype: Summer School
   title:  17th Edition of the <a href="https://neurophotonics.ca/frontiers-in-neurophotonics-summer-school/">Frontiers in Neurophotonics Summer School </a>
   date: 2024-05-28
