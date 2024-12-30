@@ -1,4 +1,15 @@
 articles:
+  - title : "Structural and genetic determinants of zebrafish functional brain networks"
+    authors : Antoine Légaré, Mado Lemieux, Vincent Boily, Sandrine Poulin, Arthur Légaré, Patrick Desrosiers, Paul De Koninck
+    year : 2024
+    biorxiv : https://doi.org/10.1101/2024.12.20.629476
+    insubmission: True
+
+  - title : "NeuroTorch: A Python library for neuroscience-oriented machine learning"
+    authors : Jérémie Gince, Anthony Drouin, Patrick Desrosiers, Simon Hardy
+    year : 2024
+    biorxiv : https://www.biorxiv.org/content/10.1101/2024.12.29.630683v1
+    insubmission: True
 
   - title : Modeling critical connectivity constraints in random and empirical networks
     authors : Laurent Hébert-Dufresne, Márton Pósfai, Antoine Allard
