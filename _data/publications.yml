@@ -1,4 +1,10 @@
 articles:
+  - title : "On the reconstruction limits of complex networks"
+    authors : Charles Murphy, Simon Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
+    year : 2024
+    arxiv : https://arxiv.org/abs/2501.01437
+    insubmission: True
+
   - title : "Structural and genetic determinants of zebrafish functional brain networks"
     authors : Antoine Légaré, Mado Lemieux, Vincent Boily, Sandrine Poulin, Arthur Légaré, Patrick Desrosiers, Paul De Koninck
     year : 2024
