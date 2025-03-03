@@ -4,6 +4,7 @@ conferences:
   - title: Extraction of structural properties based on graph theory during neurodevelopment of cultured neurons using machine learning and digital holographic microscopy
     authors: Zahra Yazdani, Erik Belanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
     conf: SPIE Photonics West 
+    slides : "/assets/pdf/slides/Behnaz_PW2025.pptx.zip"
     country: United States
     year: 2025
     city: San Francisco, California
