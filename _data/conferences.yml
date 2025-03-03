@@ -1,5 +1,14 @@
 conferences:
 
+
+  - title: Extraction of structural properties based on graph theory during neurodevelopment of cultured neurons using machine learning and digital holographic microscopy
+    authors: Zahra Yazdani, Erik Belanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
+    conf: SPIE Photonics West 
+    country: United States
+    year: 2025
+    city: San Francisco, California
+    
+
   - title: Unravelling neuronal network organization and growth stages through graph fingerprints
     authors: Zahra Yazdani, Niraj Patel, Anne-Sophie Roy, Erik Belanger, Maxime Moreaud, Pierre Marquet, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2024)
