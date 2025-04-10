@@ -1,4 +1,10 @@
 articles:
+  - title: "Kuramoto meets Koopman: Constants of motion, symmetries, and network motifs"
+    authors : Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
+    year : 2025
+    arxiv : https://arxiv.org/abs/2504.06248
+    insubmission : True
+
   - title : "On the reconstruction limits of complex networks"
     authors : Charles Murphy, Simon Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
     year : 2024
@@ -15,6 +21,18 @@ articles:
     authors : Jérémie Gince, Anthony Drouin, Patrick Desrosiers, Simon Hardy
     year : 2024
     biorxiv : https://www.biorxiv.org/content/10.1101/2024.12.29.630683v1
+    insubmission: True
+
+  - title : "On the Uniform Sampling of the Configuration Model with Centrality Constraints"
+    authors : François Thibault, Laurent Hébert-Dufresne, Antoine Allard
+    year : 2024
+    arxiv: https://arxiv.org/abs/2409.20493
+    insubmission: True
+
+  - title : "Symmetry-driven embedding of networks in hyperbolic space"
+    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    year : 2024
+    arxiv : https://arxiv.org/abs/2406.10711
     insubmission: True
 
   - title : Modeling critical connectivity constraints in random and empirical networks
@@ -54,7 +72,7 @@ articles:
     journal : Nat. Commun.
     edition : 15
     pagenumber : 4478
-    fulltext : https://doi.org/10.1038/s41467-024-48020-x	
+    fulltext : https://doi.org/10.1038/s41467-024-48020-x
     arxiv : https://arxiv.org/abs/2206.04000
 
   - title: Escherichia coli CRISPR arrays from early life fecal samples preferentially target prophages
