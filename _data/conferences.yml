@@ -13,6 +13,34 @@ conferences:
     country : USA
     city : Denver
 
+  - title : "Algorithmic exploration of ecosystem stability"
+    authors : François Thibault , Maxime Clenet, Antoine Allard, Dominique Gravel
+    conf : Sentinel North Scientific Meeting
+    year : 2025
+    country : Canada
+    city : Québec
+
+  - title : "Géométrie hyperbolique des réseaux orientés"
+    authors : Jérémi Lesage, Antoine Allard
+    conf : Sentinel North Scientific Meeting
+    year : 2025
+    country : Canada
+    city : Québec
+
+  - title : Deciphering large-scale dynamics in complex systems through Koopman operator theory
+    authors : Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    conf : Sentinel North Scientific Meeting
+    year : 2025
+    country : Canada
+    city : Québec
+
+  - title : "De la physique théorique aux réseaux neuronaux -- migrations mathématiques à travers les disciplines"
+    authors : Patrick Desrosiers
+    conf : Sentinel North Scientific Meeting
+    year : 2025
+    country : Canada
+    city : Québec
+
   - title: Extraction of structural properties based on graph theory during neurodevelopment of cultured neurons using machine learning and digital holographic microscopy
     authors: Zahra Yazdani, Erik Belanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
     conf: SPIE Photonics West 
