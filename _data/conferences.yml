@@ -1,5 +1,17 @@
 conferences:
+  - title : Kuramoto meets Koopman -- Constants of motion, symmetries and network motifs
+    authors : Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
+    conf : SIAM Conference on Applications of Dynamical Systems (DS25)
+    year : 2025
+    country : USA
+    city : Denver
 
+  - title : Rank-reducible dynamics on networks through Koopman eigenfunctions
+    authors : Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    conf : SIAM Conference on Applications of Dynamical Systems (DS25)
+    year : 2025
+    country : USA
+    city : Denver
 
   - title: Extraction of structural properties based on graph theory during neurodevelopment of cultured neurons using machine learning and digital holographic microscopy
     authors: Zahra Yazdani, Erik Belanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
