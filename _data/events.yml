@@ -1,3 +1,18 @@
+- eventtype: Conference
+  title: "International School and Conference on Network Science (NetSci2025)"
+  subtitle: "Maastricht, the Netherlands"
+  date: 2025-06-02
+
+- eventtype: Conference
+  title: "SIAM Conference on Applications of Dynamical Systems (DS25)"
+  subtitle: "Denver, Colorado, U.S.A."
+  date: 2025-05-11
+
+- eventtype: Conference
+  title: "Sentinel North Scientific Meeting"
+  subtitle: "Quebec City Convention Centre"
+  date: 2025-05-06
+
 - eventtype: Doctoral seminar
   title: "Impact du contexte social sur la propagation épidémique"
   subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
