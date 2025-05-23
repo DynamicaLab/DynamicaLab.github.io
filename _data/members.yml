@@ -85,7 +85,7 @@ master:
 interns:
   - name: Bastien
     lastname: Bédard
-    image: "/assets/images/members/default.png"
+    image: "/assets/images/members/bastien.png"
 
   - name: Louis
     lastname: Grégoire
