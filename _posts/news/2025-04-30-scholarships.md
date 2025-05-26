@@ -2,7 +2,7 @@
 layout: post
 title:  "Congratulations to our scholarship recipients"
 date:   2025-04-30
-published: False
+published: True
 type: "post"
 ---
 
