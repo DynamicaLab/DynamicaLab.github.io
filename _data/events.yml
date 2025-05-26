@@ -4,6 +4,11 @@
   date: 2025-06-02
 
 - eventtype: Conference
+  title: "18th Canadian Neuroscience Meeting"
+  subtitle: "Toronto, Canada"
+  date: 2025-05-21
+
+- eventtype: Conference
   title: "SIAM Conference on Applications of Dynamical Systems (DS25)"
   subtitle: "Denver, Colorado, U.S.A."
   date: 2025-05-11
