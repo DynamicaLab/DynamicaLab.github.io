@@ -29,12 +29,6 @@ articles:
     arxiv: https://arxiv.org/abs/2409.20493
     insubmission: True
 
-  - title : "Symmetry-driven embedding of networks in hyperbolic space"
-    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
-    year : 2024
-    arxiv : https://arxiv.org/abs/2406.10711
-    insubmission: True
-
   - title : Modeling critical connectivity constraints in random and empirical networks
     authors : Laurent Hébert-Dufresne, Márton Pósfai, Antoine Allard
     year : 2023
@@ -65,6 +59,15 @@ articles:
     year : 2019
     arxiv : "https://arxiv.org/abs/1906.10377"
     insubmission: True
+
+  - title : "Symmetry-driven embedding of networks in hyperbolic space"
+    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    year : 2025
+    journal : Commun. Phys.
+    edition: 8
+    pagenumber: 199
+    fulltext: https://www.nature.com/articles/s42005-025-02122-0
+    arxiv: https://arxiv.org/abs/2406.10711
 
   - title : Duality between predictability and reconstructability in complex systems
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
