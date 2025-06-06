@@ -1,3 +1,17 @@
+- eventtype:  Thesis defense 
+  title: "Reconstruction dans les systèmes complexes"
+  subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
+  subsubtitle: by Charles Murphy
+  date: 2025-06-09
+
+- eventtype: Workshop
+  title: <a href="https://mqsh.teluq.ca/">Méthodes quantitatives en sciences humaines et santé </a>
+  date: 2025-06-05s
+
+- eventtype: Summer school
+  title:  18th Edition of the <a href="https://neurophotonics.ca/frontiers-in-neurophotonics-summer-school/">Frontiers in Neurophotonics Summer School </a>
+  date: 2025-06-03
+
 - eventtype: Conference
   title: "International School and Conference on Network Science (NetSci2025)"
   subtitle: "Maastricht, the Netherlands"
