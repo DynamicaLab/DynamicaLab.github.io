@@ -71,7 +71,7 @@ master:
 
   - name: Benjamin
     lastname: Claveau
-    image: "/assets/images/members/benjamin.png"
+    image: "/assets/images/members/benjamin_claveau.jpg"
 
   - name: Pierre-Luc
     lastname: Larouche
