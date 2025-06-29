@@ -1,37 +1,51 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2575.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p3 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    span.s1 {font-kerning: none}
-    span.s2 {-webkit-text-stroke: 0px #000000}
-    span.Apple-tab-span {white-space:pre}
-  </style>
+  {% include head.html %}
 </head>
 <body>
-<p class="p1"><span class="s1">{% include head.html %} {% include navbar.html %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% include header.html %}</span></p>
-<p class="p1"><span class="s1">{% if page.include_about_us %}</span></p>
-<p class="p1"><span class="s1">About us</span></p>
-<p class="p1"><span class="s1">We are a multidisciplinary research group dedicated to understanding the structure and dynamics of complex systems. Our approach integrates theoretical methods from fields such as statistical physics, nonlinear dynamics, differential geometry, statistical inference, and deep learning. We collaborate closely with other research groups, particularly experimental labs that generate data from real-world systems such as brains, mobility networks, and ecosystems.</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">Current research topics include:</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p3"><span class="s2"><span class="Apple-tab-span">	</span>•<span class="Apple-tab-span">	</span></span><span class="s1">Embedding complex networks in hyperbolic space <span class="Apple-converted-space"> </span></span></p>
-<p class="p3"><span class="s2"><span class="Apple-tab-span">	</span>•<span class="Apple-tab-span">	</span></span><span class="s1">Determining how the brain’s shape influences patterns of neuronal activity <span class="Apple-converted-space"> </span></span></p>
-<p class="p3"><span class="s2"><span class="Apple-tab-span">	</span>•<span class="Apple-tab-span">	</span></span><span class="s1">Analyzing symmetries and dynamical properties of complex systems using Koopman operator theory <span class="Apple-converted-space"> </span></span></p>
-<p class="p3"><span class="s2"><span class="Apple-tab-span">	</span>•<span class="Apple-tab-span">	</span></span><span class="s1">Studying the stability of ecosystems and detecting critical species from co-occurrence patterns in ecological data <span class="Apple-converted-space"> </span></span></p>
-<p class="p3"><span class="s2"><span class="Apple-tab-span">	</span>•<span class="Apple-tab-span">	</span></span><span class="s1">Investigating the fundamental limits of network reconstruction from observational data using information-theoretic approaches<span class="Apple-converted-space"> </span></span></p>
-<p class="p4"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% endif %} {{ content }} {% include footer.html %}</span></p>
+
+	{% include navbar.html %}
+
+
+
+	<div class="header-block center-block" id="d3graphparent" style="background-color: {{page.background}}">
+		<div class="d3graph" id="d3graph"></div>
+		{% include header.html %}
+	</div>
+
+	{% if page.include_about_us %}
+	<div class="full-gray-background">
+		<div class="container aboutusfront">
+		  <span class="title">About us</span>
+		  <p>
+        We are a research group dedicated to the understanding of the structure and of the dynamics of complex systems using tools from statistical physics, nonlinear dynamics, differential geometry, information theory, statistical inference, and deep learning. Current research topics include:
+        <ul>
+          <li>Embedding of complex networks in hyperbolic space</li>
+          <li>Dimension reduction of dynamical processes on large networks (neuronal, epidemiological, synchronization, percolation)</li>
+          <li>Detection of critical species from co-occurrence patterns in ecological data</li>
+          <!-- <li>Modelization of self-organized plasma formation in solids</li> -->
+          <li>Deep learning dynamical processes on complex networks from time series</li>
+          <!-- <li>Resilience of neural networks</li> -->
+          <!-- <li>Synchronization in networks of oscillators</li> -->
+          <!-- <li>Localization of spreading processes on networks</li> -->
+          <li>Inference of connectomes from neural activity data</li>
+          <!-- <li>Percolation on complex networks</li> -->
+          <li>Community and hierarchical structures of networks</li>
+        </ul>
+		  </p>
+		</div>
+	</div>
+	{% endif %}
+
+
+
+	{{ content }}
+
+	{% include footer.html %}
+
+
 </body>
+
+
 </html>
