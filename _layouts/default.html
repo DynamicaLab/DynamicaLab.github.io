@@ -7,8 +7,6 @@
 
 	{% include navbar.html %}
 
-
-
 	<div class="header-block center-block" id="d3graphparent" style="background-color: {{page.background}}">
 		<div class="d3graph" id="d3graph"></div>
 		{% include header.html %}
@@ -18,34 +16,42 @@
 	<div class="full-gray-background">
 		<div class="container aboutusfront">
 		  <span class="title">About us</span>
-		  <p>
-        We are a research group dedicated to the understanding of the structure and of the dynamics of complex systems using tools from statistical physics, nonlinear dynamics, differential geometry, information theory, statistical inference, and deep learning. Current research topics include:
-        <ul>
-          <li>Embedding of complex networks in hyperbolic space</li>
-          <li>Dimension reduction of dynamical processes on large networks (neuronal, epidemiological, synchronization, percolation)</li>
-          <li>Detection of critical species from co-occurrence patterns in ecological data</li>
-          <!-- <li>Modelization of self-organized plasma formation in solids</li> -->
-          <li>Deep learning dynamical processes on complex networks from time series</li>
-          <!-- <li>Resilience of neural networks</li> -->
-          <!-- <li>Synchronization in networks of oscillators</li> -->
-          <!-- <li>Localization of spreading processes on networks</li> -->
-          <li>Inference of connectomes from neural activity data</li>
-          <!-- <li>Percolation on complex networks</li> -->
-          <li>Community and hierarchical structures of networks</li>
-        </ul>
-		  </p>
+      <!--
+      <p>
+        We are a research group dedicated to the understanding of the structure and of the dynamics of complex systems using tools from statistical physics, nonlinear dynamics, differential geometry, information theory, statistical inference, and deep learning.
+      </p>
+      <ul>
+        <li>Embedding of complex networks in hyperbolic space</li>
+        <li>Dimension reduction of dynamical processes on large networks (neuronal, epidemiological, synchronization, percolation)</li>
+        <li>Detection of critical species from co-occurrence patterns in ecological data</li>
+        <li>Modelization of self-organized plasma formation in solids</li>
+        <li>Deep learning dynamical processes on complex networks from time series</li>
+        <li>Resilience of neural networks</li>
+        <li>Synchronization in networks of oscillators</li>
+        <li>Localization of spreading processes on networks</li>
+        <li>Inference of connectomes from neural activity data</li>
+        <li>Percolation on complex networks</li>
+        <li>Community and hierarchical structures of networks</li>
+      </ul>
+      -->
+			<p>
+				We are a multidisciplinary research group dedicated to understanding the structure and dynamics of complex systems. Our approach integrates theoretical methods from fields such as statistical physics, nonlinear dynamics, differential geometry, statistical inference, and deep learning. We collaborate closely with other research groups, particularly experimental labs that generate data from real-world systems such as brains, mobility networks, and ecosystems.
+			</p>
+			<p>Current research topics include:</p>
+			<ul>
+				<li>Embedding complex networks in hyperbolic space</li>
+				<li>Determining how the brain’s shape influences patterns of neuronal activity</li>
+				<li>Analyzing symmetries and dynamical properties of complex systems using Koopman operator theory</li>
+				<li>Studying the stability of ecosystems and detecting critical species from co-occurrence patterns in ecological data</li>
+				<li>Investigating the fundamental limits of network reconstruction from observational data using information-theoretic approaches</li>
+			</ul>
 		</div>
 	</div>
 	{% endif %}
-
-
 
 	{{ content }}
 
 	{% include footer.html %}
 
-
 </body>
-
-
 </html>
