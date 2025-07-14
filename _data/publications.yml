@@ -13,9 +13,12 @@ articles:
 
   - title : "Structural and genetic determinants of zebrafish functional brain networks"
     authors : Antoine Légaré, Mado Lemieux, Vincent Boily, Sandrine Poulin, Arthur Légaré, Patrick Desrosiers, Paul De Koninck
-    year : 2024
+    year : 2025
+    journal : Sci. Adv.
+    edition : 11
+    pagenumber : eadv7576
+    fulltext : https://www.science.org/doi/10.1126/sciadv.adv7576
     biorxiv : https://doi.org/10.1101/2024.12.20.629476
-    insubmission: True
 
   - title : "NeuroTorch: A Python library for neuroscience-oriented machine learning"
     authors : Jérémie Gince, Anthony Drouin, Patrick Desrosiers, Simon Hardy
