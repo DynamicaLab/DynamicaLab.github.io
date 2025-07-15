@@ -32,21 +32,27 @@ articles:
     arxiv: https://arxiv.org/abs/2409.20493
     insubmission: True
 
-  - title : Modeling critical connectivity constraints in random and empirical networks
+  - title : Random graphs with specific degree distribution and giant component size
     authors : Laurent Hébert-Dufresne, Márton Pósfai, Antoine Allard
-    year : 2023
+    year : 2025
+    journal : Phys. Rev. Research
+    edition : 7
+    pagenumber : L022050
+    fultext :  https://doi.org/10.1103/PhysRevResearch.7.L022050
     arxiv : https://arxiv.org/abs/2307.03559
-    insubmission: True
 
 
-  - title : "Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns"
-    authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Alexander Daniels, Antoine Allard
-    year : 2022
+  - title : Network compression with configuration models and the minimum description length
+    authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Alexander Daniels, Alex Kirkley, Antoine Allard
+    year : 2024
+    journal : Phys. Rev. E
+    edition : 110
+    pagenumber : 034305
     arxiv : https://arxiv.org/abs/2204.08444
-    insubmission: True
+    fulltext : https://doi.org/10.1103/PhysRevE.110.034305
 
   - title : The network epidemiology of an Ebola epidemic
-    authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Jamie Bedson, Laura A. Skrip, Danielle Pedi, Mohammed F. Jalloh, Bastian Raulier, Olivier Lapointe-Gagné, Amara Jambai, Antoine Allard and Benjamin M. Althouse
+    authors : Laurent Hébert-Dufresne, Jean-Gabriel Young, Jamie Bedson, Laura A. Skrip, Danielle Pedi, Mohammed F. Jalloh, Bastian Raulier, Olivier Lapointe-Gagné, Amara Jambai, Antoine Allard, Benjamin M. Althouse
     year : 2021
     arxiv : "https://arxiv.org/abs/2111.08686"
     insubmission: True
@@ -72,6 +78,15 @@ articles:
     fulltext: https://www.nature.com/articles/s42005-025-02122-0
     arxiv: https://arxiv.org/abs/2406.10711
 
+  - title : Firing rate distributions in plastic networks of spiking neurons
+    authors : Marina Vegué Llorente, Antoine Allard, Patrick Desrosiers
+    arxiv : https://arxiv.org/abs/2311.05442
+    year : 2025
+    journal: Netw. Neurosci.
+    edition: 9
+    pagenumber: 447-474
+    fulltext: https://doi.org/10.1162/netn_a_00442
+
   - title : Duality between predictability and reconstructability in complex systems
     authors : Charles Murphy, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     year : 2024
@@ -82,9 +97,12 @@ articles:
     arxiv : https://arxiv.org/abs/2206.04000
 
   - title: Escherichia coli CRISPR arrays from early life fecal samples preferentially target prophages
-    authors: Moïra B. Dion, Shiraz A. Shah, Ling Deng, Jonathan Thorsen, Jakob Stokholm, Karen A. Krogfelt, Susanne Schjørring, Philippe Horvath ,Antoine Allard, Dennis S. Nielsen, Marie-Agnès Petit, Sylvain Moineau
-    journal: To appear in The ISME Journal
+    authors: Moïra B. Dion, Shiraz A. Shah, Ling Deng, Jonathan Thorsen, Jakob Stokholm, Karen A. Krogfelt, Susanne Schjørring, Philippe Horvath, Antoine Allard, Dennis S. Nielsen, Marie-Agnès Petit, Sylvain Moineau
+    journal: ISME J.
+    edition: 18
+    pagenumber: wrae005
     year: 2024
+    fulltext: https://doi.org/10.1093/ismejo/wrae005
 
   - title : The determining role of covariances in large networks of stochastic neurons
     authors : Vincent Painchaud, Patrick Desrosiers, Nicolas Doyon
