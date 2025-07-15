@@ -1,5 +1,11 @@
 
 thesis:
+  - title: "Sur la représentation géométrique des réseaux orientés"
+    authors: Jérémi Lesage
+    type: M.Sc.
+    year: 2025
+    fulltext : "assets/pdf/theses/lesage25_master.pdf"
+
   - title: "Étude spectrale des réseaux de neurones aléatoires"
     subtitle: "Spectral study of random neural networks"
     authors: Jason Hermans
