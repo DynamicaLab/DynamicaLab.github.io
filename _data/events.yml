@@ -1,3 +1,15 @@
+- eventtype: Doctoral seminar
+  title: "Géométrie hyperbolique des réseaux complexes"
+  subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
+  subsubtitle: by Simon Lizotte
+  date: 2025-08-20
+
+- eventtype: Master's seminar
+  title: "Caractériser la dynamique de systèmes complexes par des fonctions propres de Koopman"
+  subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
+  subsubtitle: by Benjamin Claveau
+  date: 2025-08-15
+
 - eventtype: Summer School
   title: "Neurasmus Summer School--Neurocomputation Workshop"
   subtitle: "Berlin, Germany"
