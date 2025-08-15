@@ -1,4 +1,10 @@
 articles:
+  - title : "Function aligns with geometry in locally connected neuronal network"
+    authors : Antoine Légaré, Olivier Ribordy, Paul De Koninck, Antoine Allard, Patrick Desrosiers 
+    year : 2025
+    biorxiv : https://doi.org/10.1101/2025.08.08.669348
+    insubmission : True
+
   - title: "Kuramoto meets Koopman: Constants of motion, symmetries, and network motifs"
     authors : Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
     year : 2025
