@@ -1,4 +1,11 @@
 articles:
+  - title : "Chronic optogenetic activation of hippocampal CA1 neurons triggers Alzheimer's disease-like proteomic remodeling "
+    authors : Iason Keramidis, Martina Samiotaki, Romain Sansonetti, Johanna Alonso, Patrick Desrosiers, Katerina Papanikolopoulou, Yves De Koninck
+    year : 2025
+    journal : iScience
+    pagenumber : 113454
+    fulltext : https://doi.org/10.1016/j.isci.2025.113454
+
   - title : "Function aligns with geometry in locally connected neuronal network"
     authors : Antoine Légaré, Olivier Ribordy, Paul De Koninck, Antoine Allard, Patrick Desrosiers 
     year : 2025
