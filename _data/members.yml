@@ -77,6 +77,13 @@ master:
     lastname: Larouche
     image: "/assets/images/members/pierreluc.jpg"
 
+  - name: Arthur
+    lastname: Légaré
+    image: "/assets/images/members/arthur_legare.png"
+
+  - name: Mai
+    lastname: Olivier
+    image: "/assets/images/members/default.png"
 
 
 interns:
@@ -88,9 +95,6 @@ interns:
     lastname: Grégoire
     image: "/assets/images/members/louis.png"
 
-  - name: Arthur
-    lastname: Légaré
-    image: "/assets/images/members/arthur_legare.png"
 
 
 formers:
