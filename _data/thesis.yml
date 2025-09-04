@@ -49,6 +49,14 @@ thesis:
     type: M.Sc.
     year: 2022
     fulltext : "http://hdl.handle.net/20.500.11794/73573"
+  
+
+  - title: Reconstruction dans les systèmes complexes
+    authors: Charles Murphy
+    subtitle: Reconstruction in complex systems
+    type: Ph.D.
+    year: 2025
+    fulltext : "assets/pdf/theses/murphy25_thesis.pdf"
 
   - title: Processus de contagion sur réseaux complexes au-delà des interactions dyadiques
     authors: Guillaume St-Onge
