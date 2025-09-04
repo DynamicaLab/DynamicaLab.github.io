@@ -79,7 +79,7 @@ master:
 
   - name: Arthur
     lastname: Légaré
-    image: "/assets/images/members/arthur_legare.png"
+    image: "/assets/images/members/arthur_legare_compressed.jpg"
 
   - name: Mai
     lastname: Olivier
