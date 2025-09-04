@@ -37,6 +37,10 @@ doctoral:
     website: "https://siliz4.github.io"
     github: "https://github.com/SILIZ4"
 
+  - name : Charles
+    lastname : Murphy
+    image : "/assets/images/members/charles.jpg"
+
   - name: Marziyeh
     lastname: Pourmousavi
     image: "/assets/images/members/marziyeh.png"
@@ -224,7 +228,7 @@ formers:
   - name: Charles
     lastname: Murphy
     year: 2025
-    task: M.Sc. 2018 & Ph.D. 2025
+    task: M.Sc. 2018
 
   - name: Pierre-André
     lastname: Noël
