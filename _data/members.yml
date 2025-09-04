@@ -23,6 +23,10 @@ honorary:
 
 
 doctoral:
+  - name: Benjamin
+    lastname: Claveau
+    image: "/assets/images/members/benjamin_claveau.jpg"
+
   - name: Antoine
     lastname: Légaré
     image: "/assets/images/members/antoine_légaré.png"
@@ -68,10 +72,6 @@ master:
   - name: Jordan
     lastname: Charest
     image: "/assets/images/members/default.png"
-
-  - name: Benjamin
-    lastname: Claveau
-    image: "/assets/images/members/benjamin_claveau.jpg"
 
   - name: Pierre-Luc
     lastname: Larouche
