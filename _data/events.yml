@@ -1,3 +1,8 @@
+- eventtype: Conference
+  title: "21st Conference on Complex Systems (CCS 2025)"
+  subtitle: "Siena, Italy"
+  date: 2025-09-01
+
 - eventtype: Doctoral seminar
   title: "Géométrie hyperbolique des réseaux complexes"
   subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
