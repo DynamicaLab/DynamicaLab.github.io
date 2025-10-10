@@ -1,12 +1,12 @@
 <div class="container" {% if page.use_large_title %} style="min-height: 200px; z-index: 999999;"{% endif %}>
 	{% if page.use_large_title %}<br>{% endif %}
-  {% if page.show_logo %}
-  <img class="logo-dynamica" src="/assets/images/logos/logo_dynamica_notext_white.svg">
-  {% endif %}
-	{% if page.layout!="post" %}<h1 class="header-front-title">{{ page.title }}</h1>{% endif %}
-	{% if page.subsubtitle %}
-	<h1 class="header-subsub-title">{{ page.subsubtitle }}</h1>
-	{% endif %}
+
+    {% if page.show_logo %} <img class="logo-dynamica" src="/assets/images/logos/logo_dynamica_notext_white.svg"> {% endif %}
+    {% if page.layout!="post" %}<h1 class="header-front-title">{{ page.title }}</h1>{% endif %}
+    {% if page.subsubtitle %}
+    <h1 class="header-subsub-title">{{ page.subsubtitle }}</h1>
+    {% endif %}
+
 	{% if page.subtitle %}
 	<h5 class="header-sub-title">{{ page.subtitle }}</h5>
 	{% endif %}

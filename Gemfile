@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 
+gem "jekyll-sass-converter", "~> 2.2"
+gem "sassc"
 gem "jekyll", ">= 3.8.5"
 
 
