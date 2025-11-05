@@ -1,4 +1,34 @@
 conferences:
+  - title : Function aligns with geometry in locally connected neuronal networks
+    authors : Antoine Légaré, Olivier Ribordi, Paul De Koninck, Antoine Allard, Patrick Desrosiers
+    conf : UNIQUE Center Scientific Retreat
+    year : 2025
+    country : Canada
+    city : Saint-Paulin
+
+  - title : Analytical and computational approach to structure-function relationship in neural networks
+    authors : Arthur Légaré, Antoine Légaré, Paul De Koninck, Nicolas Doyon, Patrick Desrosiers
+    conf : UNIQUE Center Scientific Retreat
+    year : 2025
+    country : Canada
+    city : Saint-Paulin
+
+  - title : Analytical Koopman approach to recurrent neural networks
+    authors : Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    conf : UNIQUE Center Scientific Retreat
+    year : 2025
+    poster : "assets/pdf/posters/2025-benjamin-unique.pdf"
+    country : Canada
+    city : Saint-Paulin
+
+  - title : How cortical activity co-fluctuations shape neurovascular function in mice
+    authors : Jordan Charest, Alexandre Cléroux-Cuillerier, Patrick Desrosiers, Michèle Desjardins
+    conf : 18th Canadian Neuroscience Meeting
+    year : 2025
+    poster : "assets/pdf/posters/2025-jordan-can.pdf"
+    country : Canada
+    city : Toronto
+
   - title : Kuramoto meets Koopman -- Constants of motion, symmetries and network motifs
     authors : Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
     conf : SIAM Conference on Applications of Dynamical Systems (DS25)
@@ -43,12 +73,12 @@ conferences:
 
   - title: Extraction of structural properties based on graph theory during neurodevelopment of cultured neurons using machine learning and digital holographic microscopy
     authors: Zahra Yazdani, Erik Belanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
-    conf: SPIE Photonics West 
+    conf: SPIE Photonics West
     slides : "/assets/pdf/slides/Behnaz_PW2025.pptx.zip"
     country: United States
     year: 2025
     city: San Francisco, California
-    
+
 
   - title: Unravelling neuronal network organization and growth stages through graph fingerprints
     authors: Zahra Yazdani, Niraj Patel, Anne-Sophie Roy, Erik Belanger, Maxime Moreaud, Pierre Marquet, Antoine Allard, Patrick Desrosiers
@@ -57,7 +87,7 @@ conferences:
     year: 2024
     city: Québec, Qc
 
-    
+
   - title: Revisiting the Kuramoto model on graph -- integrals of motion, motifs, and symmetries
     authors: Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2024)
@@ -88,7 +118,7 @@ conferences:
     year : 2023
     country : Canada
     city : Montreal, QC
-    
+
   - title : The Low-Rank Hypothesis of Complex Systems -- From Empirical and Theoretical Evidence to the Emergence of Higher-Order Interaction
     authors : Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     conf : SIAM Conference on Dynamical Systems (DS23)
