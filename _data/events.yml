@@ -1,3 +1,14 @@
+- eventtype: Seminar
+  title: "A geometric view of neural network dynamics, biological and artificial"
+  subtitle: "Centre Interdisciplinaire en Modélisation Mathématique de l'Université Laval (CIMMUL)"
+  subsubtitle: by Patrick Desrosiers
+  date: 2025-11-07
+
+- eventtype: Conference
+  title: "UNIQUE Scientific Retreat"
+  subtitle: "Le Baluchon, Saint-Paulin, Canada"
+  date: 2025-10-30
+
 - eventtype: Conference
   title: "21st Conference on Complex Systems (CCS 2025)"
   subtitle: "Siena, Italy"
