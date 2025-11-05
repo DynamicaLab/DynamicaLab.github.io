@@ -10,6 +10,7 @@ conferences:
     authors : Arthur Légaré, Antoine Légaré, Paul De Koninck, Nicolas Doyon, Patrick Desrosiers
     conf : UNIQUE Center Scientific Retreat
     year : 2025
+    poster : "assets/pdf/posters/2025-arthur-unique.pdf"
     country : Canada
     city : Saint-Paulin
 
