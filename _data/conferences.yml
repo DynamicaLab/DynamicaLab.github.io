@@ -22,6 +22,27 @@ conferences:
     country : Canada
     city : Saint-Paulin
 
+  - title : Symmetry-driven embedding of networks in hyperbolic space
+    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    conf : Conference on Complex Systems (CCS2025)
+    year : 2025
+    country : Italy
+    city : Siena
+
+  - title : Correspondence between geometric eigenmodes and functional connectivity gradients in embedded complex systems
+    authors : Antoine Légaré, Olivier Ribordy, Patrick Desrosiers, Antoine Allard, Paul DeKoninck
+    conf : Conference on Complex Systems (CCS2025)
+    year : 2025
+    country : Italy
+    city : Siena
+
+  - title : Stabilization of ecosystems through a genetic algorithm
+    authors : François Thibault, Maxime Clenet, Dominique Gravel, Antoine Allard
+    conf : Conference on Complex Systems (CCS2025)
+    year : 2025
+    country : Italy
+    city : Siena
+
   - title : How cortical activity co-fluctuations shape neurovascular function in mice
     authors : Jordan Charest, Alexandre Cléroux-Cuillerier, Patrick Desrosiers, Michèle Desjardins
     conf : 18th Canadian Neuroscience Meeting
@@ -43,6 +64,13 @@ conferences:
     year : 2025
     country : USA
     city : Denver
+
+  - title : Perspectives on interdisciplinary modelisation
+    authors : Gabriel Bergeron, François Thibault
+    conf : Sentinel North Scientific Meeting
+    year : 2025
+    country : Canada
+    city : Québec
 
   - title : "Algorithmic exploration of ecosystem stability"
     authors : François Thibault , Maxime Clenet, Antoine Allard, Dominique Gravel
@@ -72,6 +100,13 @@ conferences:
     country : Canada
     city : Québec
 
+  - title : Symmetry-driven embedding of networks in hyperbolic space
+    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    conf : Montréal Network Science Workshop
+    year : 2025
+    country : Canada
+    city : Montréal
+
   - title: Extraction of structural properties based on graph theory during neurodevelopment of cultured neurons using machine learning and digital holographic microscopy
     authors: Zahra Yazdani, Erik Belanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
     conf: SPIE Photonics West
@@ -80,7 +115,6 @@ conferences:
     year: 2025
     city: San Francisco, California
 
-
   - title: Unravelling neuronal network organization and growth stages through graph fingerprints
     authors: Zahra Yazdani, Niraj Patel, Anne-Sophie Roy, Erik Belanger, Maxime Moreaud, Pierre Marquet, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2024)
@@ -88,6 +122,12 @@ conferences:
     year: 2024
     city: Québec, Qc
 
+  - title: Uniform Sampling of the Layered Configuration Model
+    authors : François Thibault, Laurent Hébert-Dufresne, Antoine Allard
+    conf : International School and Conference on Network Science (NetSci2024)
+    country : Canada
+    year : 2024
+    city : Québec, Qc
 
   - title: Revisiting the Kuramoto model on graph -- integrals of motion, motifs, and symmetries
     authors: Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
@@ -111,6 +151,55 @@ conferences:
     country: Canada
     year: 2024
     city: Québec, Qc
+
+ - title : Symmetries as a guide for network hyperbolic embedding
+   authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+   conf : International School and Conference on Network Science (NetSci2024)
+   country : Canada
+   year : 2024
+   city : Québec, Qc
+
+  - title : La géométrie au cœur des systèmes nordiques
+    authors : Simon Lizotte, Jean-Gabriel Young and Antoine Allard
+    conf : Sentinel North Scientific Meeting
+    country : Canada
+    year : 2023
+    city : Québec, Qc
+
+  - title : On the reconstructability of complex networks
+    authors : Charles Murphy, Simon Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
+    conf : Sentinel North Scientific Meeting
+    country : Canada
+    year : 2023
+    city : Québec, Qc
+
+  - title : Optimal Mesoscopic Structure of General Binary-State Dynamics on Networks
+    authors : Jérémi Lesage, Charles Murphy, Guillaume St-Onge, Laurent Hébert-Dufresne and Antoine Allard
+    conf : International School & Conference on Network Science (NetSci2023)
+    country : Austria
+    year : 2023
+    city : Vienna
+
+  - title : Inherent uncertainty of hyperbolic embeddings of complex networks
+    authors : Simon Lizotte, Jean-Gabriel Young and Antoine Allard
+    conf : International School & Conference on Network Science (NetSci2023)
+    country : Austria
+    year : 2023
+    city : Vienna
+
+  - title : An information theoretical approach to network reconstruction
+    authors : Charles Murphy, Simon Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
+    conf : International School & Conference on Network Science (NetSci2023)
+    country : Austria
+    year : 2023
+    city : Vienna
+
+  - title : Inherent uncertainty of hyperbolic embeddings of complex networks
+    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    conf : New England Statistics Symposium (NESS2023)
+    country : USA
+    year : 2023
+    city : Boston
 
   - title : Extracting structural connectomes from living neurons in culture by combining digital holographic microscopy with deep-learning methods
     authors : Zahra Yazdani, Mohamed Haouat, Erik Bélanger, Pierre Marquet, Antoine Allard, Patrick Desrosiers
