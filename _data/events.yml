@@ -1,3 +1,13 @@
+- eventtype: Winter school
+  title:  2025 edition of the <a href="https://vermontcomplexsystems.org/events/cnww/">Complex Networks Winter Workshop </a>
+  subtitle: "Monastère des Augustines, Québec, Canada" 
+  date: 2025-12-13
+
+- eventtype: Conference
+  title: "Journée scientifique CERVO 2025"
+  subtitle: "Centre de Foires, Québec, Canada"
+  date: 2025-12-11
+
 - eventtype: Master's seminar
   title: "Connectivité des réseaux neuronal et vasculaire et leurs interactions dans le cortex de souris éveillées"
   subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
