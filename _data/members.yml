@@ -83,13 +83,6 @@ master:
 
 
 interns:
-  - name: Bastien
-    lastname: Bédard
-    image: "/assets/images/members/bastien.png"
-
-  - name: Louis
-    lastname: Grégoire
-    image: "/assets/images/members/louis.png"
 
 
 
@@ -204,6 +197,18 @@ formers:
     year: 2025
     task: Summer 2021 & M.Sc. 2025
     image: "/assets/images/members/jeremi.jpg"
+
+  - name: Bastien
+    lastname: Bédard
+    year: 2025
+    task: Summer 2025 
+    image: "/assets/images/members/bastien.png"
+
+  - name: Louis
+    lastname: Grégoire
+    task: Summer 2025 
+    year: 2025
+    image: "/assets/images/members/louis.png"
 
   - name: Edward
     lastname: Laurence
