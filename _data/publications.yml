@@ -1,4 +1,10 @@
 articles:
+  - title : "Inferring biodiversity from indicator species using co-occurrence network structure"
+    authors : Ilhem Bouderbala, Daniel Fortin, Junior A. Tremblay, Christian Hébert, Antoine Allard, Patrick Desrosiers
+    biorxiv : https://doi.org/10.64898/2026.02.02.703325
+    year : 2026
+    insubmission : True
+
   - title : "Chronic optogenetic activation of hippocampal CA1 neurons triggers Alzheimer's disease-like proteomic remodeling "
     authors : Iason Keramidis, Martina Samiotaki, Romain Sansonetti, Johanna Alonso, Patrick Desrosiers, Katerina Papanikolopoulou, Yves De Koninck
     year : 2025
@@ -37,7 +43,7 @@ articles:
     authors : Jérémie Gince, Anthony Drouin, Patrick Desrosiers, Simon Hardy
     year : 2024
     biorxiv : https://www.biorxiv.org/content/10.1101/2024.12.29.630683v1
-    insubmission: True
+    insubmission: False
 
   - title : "On the Uniform Sampling of the Configuration Model with Centrality Constraints"
     authors : François Thibault, Laurent Hébert-Dufresne, Antoine Allard
@@ -74,7 +80,7 @@ articles:
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
     year : 2020
     arxiv : "https://arxiv.org/abs/2006.05232"
-    insubmission: True
+    insubmission: False
 
   - title : "On the accuracy of message-passing approaches to percolation in complex networks"
     authors : "Antoine Allard, Laurent Hébert-Dufresne"
