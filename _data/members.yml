@@ -23,6 +23,10 @@ honorary:
 
 
 doctoral:
+  - name: Jordan
+    lastname: Charest
+    image: "/assets/images/members/default.png"
+
   - name: Benjamin
     lastname: Claveau
     image: "/assets/images/members/benjamin_claveau.jpg"
@@ -36,10 +40,6 @@ doctoral:
     image: "/assets/images/members/simon.png"
     website: "https://siliz4.github.io"
     github: "https://github.com/SILIZ4"
-
-  - name: Marziyeh
-    lastname: Pourmousavi
-    image: "/assets/images/members/marziyeh.png"
 
   - name: Olivier
     lastname: Ribordy
@@ -63,11 +63,7 @@ doctoral:
     twitter: "https://twitter.com/zaryazdani"
 
 
-
 master:
-  - name: Jordan
-    lastname: Charest
-    image: "/assets/images/members/default.png"
 
   - name: Pierre-Luc
     lastname: Larouche
@@ -106,6 +102,12 @@ formers:
     lastname: Beaulieu
     year: 2000
     task: M.Sc. 2000
+
+  - name: Bastien
+    lastname: Bédard
+    year: 2025
+    task: Summer 2025 
+    image: "/assets/images/members/bastien.png"
 
   - name: Ilhem
     lastname: Bouderbala
@@ -169,6 +171,12 @@ formers:
     github: "https://github.com/JeremieGince"
     task: M.Sc. 2023
 
+  - name: Louis
+    lastname: Grégoire
+    task: Summer 2025 
+    year: 2025
+    image: "/assets/images/members/louis.png"
+
   - name: Laurent
     lastname: Hébert-Dufresne
     year: 2014
@@ -197,18 +205,6 @@ formers:
     year: 2025
     task: Summer 2021 & M.Sc. 2025
     image: "/assets/images/members/jeremi.jpg"
-
-  - name: Bastien
-    lastname: Bédard
-    year: 2025
-    task: Summer 2025 
-    image: "/assets/images/members/bastien.png"
-
-  - name: Louis
-    lastname: Grégoire
-    task: Summer 2025 
-    year: 2025
-    image: "/assets/images/members/louis.png"
 
   - name: Edward
     lastname: Laurence
@@ -258,6 +254,12 @@ formers:
     lastname: Poirier
     year: 2011
     task: M.Sc. 2011
+
+  - name: Marziyeh
+    lastname: Pourmousavi
+    year: 2026
+    task: M.Sc. 2026
+    image: "/assets/images/members/marziyeh.png"
 
   - name: Bastian
     lastname: Raulier
