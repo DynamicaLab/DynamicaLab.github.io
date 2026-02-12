@@ -1,4 +1,10 @@
 articles:
+  - title : "Development of a network for interactions and associations among biopsychosocial features of chronic low back pain"
+    authors : Pouya Rabiei, Hugo Massé-Alarie, Patrick Desrosiers
+    medrxiv : https://doi.org/10.64898/2026.02.09.26345929
+    year : 2026
+    insubmission : True
+
   - title : "Inferring biodiversity from indicator species using co-occurrence network structure"
     authors : Ilhem Bouderbala, Daniel Fortin, Junior A. Tremblay, Christian Hébert, Antoine Allard, Patrick Desrosiers
     biorxiv : https://doi.org/10.64898/2026.02.02.703325
