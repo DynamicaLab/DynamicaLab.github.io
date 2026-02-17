@@ -1,5 +1,11 @@
 
 thesis:
+  - title: "Perspective spectrale sur la dynamique des systèmes complexes par la théorie de Koopman"
+    authors: Benjamin Claveau
+    type: M.Sc.
+    year: 2026
+    fulltext : "assets/pdf/theses/claveau26_master.pdf"
+
   - title: "Sur la représentation géométrique des réseaux orientés"
     authors: Jérémi Lesage
     type: M.Sc.
@@ -49,7 +55,7 @@ thesis:
     type: M.Sc.
     year: 2022
     fulltext : "http://hdl.handle.net/20.500.11794/73573"
-  
+
 
   - title: Reconstruction dans les systèmes complexes
     authors: Charles Murphy
