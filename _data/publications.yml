@@ -1,4 +1,11 @@
 articles:
+  - title : "Excessive inhibition in the medial prefrontal cortex contributes to cognitive susceptibility in aging"
+    authors : Iason Keramidis, Patrick Desrosiers, Andrée-Anne Verreault, Romain Sansonetti, Reza Hazrati, Antoine G Godin, Yves De Koninck
+    year : 2026
+    journal : Neurobiology of Disease
+    pagenumber : 107385
+    fulltext : https://doi.org/10.1016/j.nbd.2026.107385
+
   - title: "Ultra-rare biallelic THAP12 variants cause loss of function and underlie severe epileptic encephalopathy"
     authors: "Katarzyna Ochenkowska, Bryce Sebastian Rampal, Antoine Légaré, ..., Patrick Desrosiers, Paul De Koninck, Martine Tetreault, Éric Samarut"
     medrxiv: https://doi.org/10.64898/2026.02.27.26347078
