@@ -64,6 +64,9 @@ doctoral:
 
 
 master:
+  - name: Bastien
+    lastname: Bédard
+    image: "/assets/images/members/bastien.png"
 
   - name: Pierre-Luc
     lastname: Larouche
@@ -79,8 +82,21 @@ master:
 
 
 interns:
+  - name: Félix
+    lastname: Dubé
+    image: "/assets/images/members/default.png"
 
+  - name: Louis
+    lastname: Grégoire
+    image: "/assets/images/members/louis.png"
 
+  - name: Jérémie
+    lastname: Hatier
+    image: "/assets/images/members/default.png"
+
+  - name: Clément
+    lastname: Tremblay
+    image: "/assets/images/members/default.png"
 
 formers:
 
