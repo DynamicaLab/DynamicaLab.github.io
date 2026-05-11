@@ -1,3 +1,13 @@
+- eventtype: Workshop
+  title: <a href="https://unique-students.github.io/">UNIQUE Student Symposium 2026 </a>
+  subtitle: "Université de Montréal"
+  date: 2026-05-12
+
+- eventtype: Conference
+  title: <a href="https://complenet.weeblysite.com/">CompleNet 2026 </a>
+  subtitle: " Zaragoza, Spain"
+  date: 2026-05-04
+
 - eventtype: Doctoral seminar
   title: "Organisation fonctionnelle des réseaux cérébraux du poisson-zèbre larvaire"
   subtitle: "Centre de recherche CERVO, Université Laval"
