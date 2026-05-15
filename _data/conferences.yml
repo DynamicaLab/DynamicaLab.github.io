@@ -1,4 +1,12 @@
 conferences:
+  - title : "Functional connectivity in neural oscillator networks analytically predicted from common-neighbour structure"
+    authors : "Arthur Légaré, Nicolas Doyon, Patrick Desrosiers"
+    conf : "UNIQUE Student Symposium 2026"
+    year : 2026
+    country : Canada
+    city : Montréal
+    award : Best poster presentation
+
   - title : Function aligns with geometry in locally connected neuronal networks
     authors : Antoine Légaré, Olivier Ribordi, Paul De Koninck, Antoine Allard, Patrick Desrosiers
     conf : UNIQUE Center Scientific Retreat
