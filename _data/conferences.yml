@@ -3,6 +3,7 @@ conferences:
     authors : "Arthur Légaré, Nicolas Doyon, Patrick Desrosiers"
     conf : "UNIQUE Student Symposium 2026"
     year : 2026
+    poster : "assets/pdf/posters/2026-arthur-unique.pdf"
     country : Canada
     city : Montréal
     award : Best poster presentation
