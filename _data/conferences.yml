@@ -1,4 +1,18 @@
 conferences:
+  - title: A Koopmanian approach to spectral and geometric properties of dynamics on networks
+    authors: Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
+    conf: International School and Conference on Network Science (NetSci2026)
+    country: U.S.A.
+    year: 2026
+    city: Boston 
+
+  - title: Analytical prediction of structure-function relationships in networks of Kuramoto oscillators
+    authors: Arthur Légaré, Nicolas Doyon, Patrick Desrosiers
+    conf: International School and Conference on Network Science (NetSci2026)
+    country: U.S.A.
+    year: 2026
+    city: Boston
+
   - title : "Functional connectivity in neural oscillator networks analytically predicted from common-neighbour structure"
     authors : "Arthur Légaré, Nicolas Doyon, Patrick Desrosiers"
     conf : "UNIQUE Student Symposium 2026"
