@@ -1,3 +1,29 @@
+- eventtype: Doctoral defense
+  title: "Approches spectrales et conditions structurelles pour réduire la dimension des systèmes complexes"
+  subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
+  subsubtitle: by Vincent Thibeault
+  date: 2026-06-05
+
+- eventtype: Summer school
+  title: <a href="https://camp-collegial2026.amq.math.ca/horaire-3/">NetSci 2026 - Camp mathématique collégial de l’AMQ 2026</a>
+  subtitle: "Université Laval, Québec, Canada"
+  date: 2026-06-03
+
+- eventtype: Conference
+  title: <a href="https://symposia.cirrelt.ca/AtelierWorkshop2026">NetSci 2026 - International School & Conference on Network Science </a>
+  subtitle: "Northeastern University’s Network Science Institute, Boston, U.S.A."
+  date: 2026-06-01
+
+- eventtype: Summer school
+  title:  19th Edition of the <a href="https://neurophotonics.ca/frontiers-in-neurophotonics-summer-school/">Frontiers in Neurophotonics Summer School </a>
+  subtitle: "CERVO Brain Reaserch Center, Québec, Canada"
+  date: 2025-06-01
+
+- eventtype: Workshop
+  title: <a href="https://symposia.cirrelt.ca/AtelierWorkshop2026">Montréal Network Science Workshop 2026 </a>
+  subtitle: "Université de Montréal"
+  date: 2026-05-28
+
 - eventtype: Workshop
   title: <a href="https://unique-students.github.io/">UNIQUE Student Symposium 2026 </a>
   subtitle: "Université de Montréal"
