@@ -12,6 +12,7 @@ conferences:
     country: U.S.A.
     year: 2026
     city: Boston
+    slides : "/assets/pdf/slides/NetSci26_ArthurLegare_slides.pdf"
 
   - title : "Functional connectivity in neural oscillator networks analytically predicted from common-neighbour structure"
     authors : "Arthur Légaré, Nicolas Doyon, Patrick Desrosiers"
