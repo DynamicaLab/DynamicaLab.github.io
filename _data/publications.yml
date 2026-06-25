@@ -1,4 +1,10 @@
 articles:
+  - title : "Graph-based characterization of in vitro neuronal network maturation using machine learning and digital holographic microscopy"
+    authors : Zahra Yazdani, Erik Bélanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
+    biorxiv : https://doi.org/10.64898/2026.06.18.732973
+    year : 2026
+    insubmission : True
+    
   - title : "Excessive inhibition in the medial prefrontal cortex contributes to cognitive susceptibility in aging"
     authors : Iason Keramidis, Patrick Desrosiers, Andrée-Anne Verreault, Romain Sansonetti, Reza Hazrati, Antoine G Godin, Yves De Koninck
     year : 2026
