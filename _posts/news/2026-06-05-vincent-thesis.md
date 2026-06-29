@@ -1,11 +1,10 @@
 ---
-
 layout: post
 title:  "Habemus novum Doctor : Vincent Thibeault"
 date:   2026-06-05
 published: True
 type: "post"
-------------
+---
 
 Vincent Thibeault has successfully defended his Ph.D. thesis (see the abstract [here](/assets/pdf/affiches/2026-06-05-vincent-soutenance.pdf)). His dissertation, entitled *“Approches spectrales et conditions structurelles pour réduire la dimension des systèmes complexes”*, introduces spectral approaches for reducing the dimension of complex systems and establishes general structural conditions for exact dimension reduction. It also proposes the low-rank hypothesis for complex systems and demonstrates how it provides a natural explanation for the emergence of higher-order interactions.
 
