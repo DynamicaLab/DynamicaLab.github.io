@@ -1,4 +1,10 @@
 articles:
+  - title: "Operator-theoretic approach to the partial integration of randomly coupled phase oscillators"
+    authors : Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
+    year : 2026
+    arxiv : https://arxiv.org/abs/2607.02617
+    insubmission : True
+
   - title : "Graph-based characterization of in vitro neuronal network maturation using machine learning and digital holographic microscopy"
     authors : Zahra Yazdani, Erik Bélanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
     biorxiv : https://doi.org/10.64898/2026.06.18.732973
