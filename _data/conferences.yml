@@ -1,4 +1,12 @@
 conferences:
+  - title : "Shared-input structure dominates functional connectivity in neural oscillator networks"
+    authors : "Arthur Légaré, Nicolas Doyon, Patrick Desrosiers"
+    conf : "35th Annual Computational Neuroscience Meeting"
+    year : 2026
+    country : Canada
+    city : Halifax
+    award : Remarkable poster award
+
   - title: A Koopmanian approach to spectral and geometric properties of dynamics on networks
     authors: Benjamin Claveau, Vincent Thibeault, Antoine Allard, Patrick Desrosiers
     conf: International School and Conference on Network Science (NetSci2026)
@@ -17,7 +25,6 @@ conferences:
     authors : "Arthur Légaré, Nicolas Doyon, Patrick Desrosiers"
     conf : "UNIQUE Student Symposium 2026"
     year : 2026
-    poster : "assets/pdf/posters/2026-arthur-unique.pdf"
     country : Canada
     city : Montréal
     award : Best poster presentation
