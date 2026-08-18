@@ -1,5 +1,11 @@
 
 thesis:
+  - title: "Analyse du couplage neurovasculaire et de la connectivité fonctionnelle corticale chez la souris par imagerie optique"
+    authors: Jordan Charest
+    type: M.Sc.
+    year: 2026
+    fulltext : "assets/pdf/theses/charest26_master.pdf"
+
   - title: "Perspective spectrale sur la dynamique des systèmes complexes par la théorie de Koopman"
     authors: Benjamin Claveau
     type: M.Sc.
