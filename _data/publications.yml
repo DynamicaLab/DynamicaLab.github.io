@@ -1,4 +1,10 @@
 articles:
+  - title : "Comprehensive profiling of anaesthetised brain dynamics across phylogeny"
+    authors : Andrea I. Luppi, Lynn Uhrig, Jordy Tasserie, Golia Shafiei, Antoine Légaré, Kanako Muta, Junichi Hata, Hideyuki Okano, Daniel Golkowski, Andreas Ranft, Rudiger Ilg, Denis Jordan, Silvia Gini, Zhen-Qi Liu, Yohan Yee, Camilo M. Signorelli, Rodrigo Cofre, Alain Destexhe, David K. Menon, Emmanuel A. Stamatakis, Patrick Desrosiers, Paul De Koninck, Christopher W. Connor, Alessandro Gozzi, Ben D. Fulcher, Bechir Jarraya, Bratislav Misic
+    biorxiv : https://doi.org/10.1101/2025.03.22.644729
+    year : 2026
+    insubmission : True
+    
   - title: "Operator-theoretic approach to the partial integration of randomly coupled phase oscillators"
     authors : Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
     year : 2026
