@@ -1,3 +1,61 @@
+- eventtype: Doctoral defense
+  title: "Approches spectrales et conditions structurelles pour réduire la dimension des systèmes complexes"
+  subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
+  subsubtitle: by Vincent Thibeault
+  date: 2026-06-05
+
+- eventtype: Summer school
+  title: <a href="https://camp-collegial2026.amq.math.ca/horaire-3/">NetSci 2026 - Camp mathématique collégial de l’AMQ 2026</a>
+  subtitle: "Université Laval, Québec, Canada"
+  date: 2026-06-03
+
+- eventtype: Conference
+  title: <a href="https://www.netsci2026.com/">NetSci 2026 - International School & Conference on Network Science </a>
+  subtitle: "Northeastern University’s Network Science Institute, Boston, U.S.A."
+  date: 2026-06-01
+
+- eventtype: Summer school
+  title:  19th Edition of the <a href="https://neurophotonics.ca/frontiers-in-neurophotonics-summer-school/">Frontiers in Neurophotonics Summer School </a>
+  subtitle: "CERVO Brain Reaserch Center, Québec, Canada"
+  date: 2025-06-01
+
+- eventtype: Workshop
+  title: <a href="https://symposia.cirrelt.ca/AtelierWorkshop2026">Montréal Network Science Workshop 2026 </a>
+  subtitle: "Université de Montréal"
+  date: 2026-05-28
+
+- eventtype: Workshop
+  title: <a href="https://unique-students.github.io/">UNIQUE Student Symposium 2026 </a>
+  subtitle: "Université de Montréal"
+  date: 2026-05-12
+
+- eventtype: Conference
+  title: <a href="https://complenet.weeblysite.com/">CompleNet 2026 </a>
+  subtitle: " Zaragoza, Spain"
+  date: 2026-05-04
+
+- eventtype: Doctoral seminar
+  title: "Organisation fonctionnelle des réseaux cérébraux du poisson-zèbre larvaire"
+  subtitle: "Centre de recherche CERVO, Université Laval"
+  subsubtitle: by Antoine Légaré
+  date: 2026-03-19
+
+- eventtype: Winter school
+  title:  2025 edition of the <a href="https://vermontcomplexsystems.org/events/cnww/">Complex Networks Winter Workshop </a>
+  subtitle: "Monastère des Augustines, Québec, Canada" 
+  date: 2025-12-13
+
+- eventtype: Conference
+  title: "Journée scientifique CERVO 2025"
+  subtitle: "Centre de Foires, Québec, Canada"
+  date: 2025-12-11
+
+- eventtype: Master's seminar
+  title: "Connectivité des réseaux neuronal et vasculaire et leurs interactions dans le cortex de souris éveillées"
+  subtitle: "Département de physique, de génie physique et d'optique, Université Laval"
+  subsubtitle: by Jordan Charest
+  date: 2025-12-03
+
 - eventtype: Seminar
   title: "A geometric view of neural network dynamics, biological and artificial"
   subtitle: "Centre Interdisciplinaire en Modélisation Mathématique de l'Université Laval (CIMMUL)"

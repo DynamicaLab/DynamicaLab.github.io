@@ -23,6 +23,10 @@ honorary:
 
 
 doctoral:
+  - name: Jordan
+    lastname: Charest
+    image: "/assets/images/members/default.png"
+
   - name: Benjamin
     lastname: Claveau
     image: "/assets/images/members/benjamin_claveau.jpg"
@@ -35,10 +39,6 @@ doctoral:
     lastname: Lizotte
     googlescholar: "https://scholar.google.com/citations?user=P6OnTrwAAAAJ"
     github: "https://github.com/arianelizotte"
-
-  - name: Marziyeh
-    lastname: Pourmousavi
-    image: "/assets/images/members/marziyeh.png"
 
   - name: Olivier
     lastname: Ribordy
@@ -62,11 +62,10 @@ doctoral:
     twitter: "https://twitter.com/zaryazdani"
 
 
-
 master:
-  - name: Jordan
-    lastname: Charest
-    image: "/assets/images/members/default.png"
+  - name: Bastien
+    lastname: Bédard
+    image: "/assets/images/members/bastien.png"
 
   - name: Pierre-Luc
     lastname: Larouche
@@ -82,15 +81,21 @@ master:
 
 
 interns:
-  - name: Bastien
-    lastname: Bédard
-    image: "/assets/images/members/bastien.png"
+  - name: Félix
+    lastname: Dubé
+    image: "/assets/images/members/default.png"
 
   - name: Louis
     lastname: Grégoire
     image: "/assets/images/members/louis.png"
 
+  - name: Jérémie
+    lastname: Hatier
+    image: "/assets/images/members/default.png"
 
+  - name: Clément
+    lastname: Tremblay
+    image: "/assets/images/members/default.png"
 
 formers:
 
@@ -112,6 +117,12 @@ formers:
     lastname: Beaulieu
     year: 2000
     task: M.Sc. 2000
+
+  - name: Bastien
+    lastname: Bédard
+    year: 2025
+    task: Summer 2025 
+    image: "/assets/images/members/bastien.png"
 
   - name: Ilhem
     lastname: Bouderbala
@@ -174,6 +185,12 @@ formers:
     year: 2023
     github: "https://github.com/JeremieGince"
     task: M.Sc. 2023
+
+  - name: Louis
+    lastname: Grégoire
+    task: Summer 2025 
+    year: 2025
+    image: "/assets/images/members/louis.png"
 
   - name: Laurent
     lastname: Hébert-Dufresne
@@ -252,6 +269,12 @@ formers:
     lastname: Poirier
     year: 2011
     task: M.Sc. 2011
+
+  - name: Marziyeh
+    lastname: Pourmousavi
+    year: 2026
+    task: M.Sc. 2026
+    image: "/assets/images/members/marziyeh.png"
 
   - name: Bastian
     lastname: Raulier

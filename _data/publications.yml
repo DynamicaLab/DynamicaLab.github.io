@@ -1,4 +1,47 @@
 articles:
+  - title : "Comprehensive profiling of anaesthetised brain dynamics across phylogeny"
+    authors : Andrea I. Luppi, Lynn Uhrig, Jordy Tasserie, Golia Shafiei, Antoine Légaré, Kanako Muta, Junichi Hata, Hideyuki Okano, Daniel Golkowski, Andreas Ranft, Rudiger Ilg, Denis Jordan, Silvia Gini, Zhen-Qi Liu, Yohan Yee, Camilo M. Signorelli, Rodrigo Cofre, Alain Destexhe, David K. Menon, Emmanuel A. Stamatakis, Patrick Desrosiers, Paul De Koninck, Christopher W. Connor, Alessandro Gozzi, Ben D. Fulcher, Bechir Jarraya, Bratislav Misic
+    biorxiv : https://doi.org/10.1101/2025.03.22.644729
+    year : 2026
+    insubmission : True
+    
+  - title: "Operator-theoretic approach to the partial integration of randomly coupled phase oscillators"
+    authors : Vincent Thibeault, Benjamin Claveau, Antoine Allard, Patrick Desrosiers
+    year : 2026
+    arxiv : https://arxiv.org/abs/2607.02617
+    insubmission : True
+
+  - title : "Graph-based characterization of in vitro neuronal network maturation using machine learning and digital holographic microscopy"
+    authors : Zahra Yazdani, Erik Bélanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, Patrick Desrosiers
+    biorxiv : https://doi.org/10.64898/2026.06.18.732973
+    year : 2026
+    insubmission : True
+    
+  - title : "Excessive inhibition in the medial prefrontal cortex contributes to cognitive susceptibility in aging"
+    authors : Iason Keramidis, Patrick Desrosiers, Andrée-Anne Verreault, Romain Sansonetti, Reza Hazrati, Antoine G Godin, Yves De Koninck
+    year : 2026
+    journal : Neurobiology of Disease
+    pagenumber : 107385
+    fulltext : https://doi.org/10.1016/j.nbd.2026.107385
+
+  - title: "Ultra-rare biallelic THAP12 variants cause loss of function and underlie severe epileptic encephalopathy"
+    authors: "Katarzyna Ochenkowska, Bryce Sebastian Rampal, Antoine Légaré, ..., Patrick Desrosiers, Paul De Koninck, Martine Tetreault, Éric Samarut"
+    medrxiv: https://doi.org/10.64898/2026.02.27.26347078
+    year: 2026
+    insubmission: true
+
+  - title : "Development of a network for interactions and associations among biopsychosocial features of chronic low back pain"
+    authors : Pouya Rabiei, Hugo Massé-Alarie, Patrick Desrosiers
+    medrxiv : https://doi.org/10.64898/2026.02.09.26345929
+    year : 2026
+    insubmission : True
+
+  - title : "Inferring biodiversity from indicator species using co-occurrence network structure"
+    authors : Ilhem Bouderbala, Daniel Fortin, Junior A. Tremblay, Christian Hébert, Antoine Allard, Patrick Desrosiers
+    biorxiv : https://doi.org/10.64898/2026.02.02.703325
+    year : 2026
+    insubmission : True
+
   - title : "Chronic optogenetic activation of hippocampal CA1 neurons triggers Alzheimer's disease-like proteomic remodeling "
     authors : Iason Keramidis, Martina Samiotaki, Romain Sansonetti, Johanna Alonso, Patrick Desrosiers, Katerina Papanikolopoulou, Yves De Koninck
     year : 2025
@@ -37,7 +80,7 @@ articles:
     authors : Jérémie Gince, Anthony Drouin, Patrick Desrosiers, Simon Hardy
     year : 2024
     biorxiv : https://www.biorxiv.org/content/10.1101/2024.12.29.630683v1
-    insubmission: True
+    insubmission: False
 
   - title : "On the Uniform Sampling of the Configuration Model with Centrality Constraints"
     authors : François Thibault, Laurent Hébert-Dufresne, Antoine Allard
@@ -74,7 +117,7 @@ articles:
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
     year : 2020
     arxiv : "https://arxiv.org/abs/2006.05232"
-    insubmission: True
+    insubmission: False
 
   - title : "On the accuracy of message-passing approaches to percolation in complex networks"
     authors : "Antoine Allard, Laurent Hébert-Dufresne"
