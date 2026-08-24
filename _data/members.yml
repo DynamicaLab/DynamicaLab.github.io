@@ -31,11 +31,10 @@ doctoral:
     lastname: Légaré
     image: "/assets/images/members/antoine_légaré.png"
 
-  - name: Simon
+  - name: Ariane
     lastname: Lizotte
-    image: "/assets/images/members/simon.png"
-    website: "https://siliz4.github.io"
-    github: "https://github.com/SILIZ4"
+    googlescholar: "https://scholar.google.com/citations?user=P6OnTrwAAAAJ"
+    github: "https://github.com/arianelizotte"
 
   - name: Marziyeh
     lastname: Pourmousavi

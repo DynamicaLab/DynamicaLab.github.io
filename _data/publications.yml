@@ -7,7 +7,7 @@ articles:
     fulltext : https://doi.org/10.1016/j.isci.2025.113454
 
   - title : "Function aligns with geometry in locally connected neuronal network"
-    authors : Antoine Légaré, Olivier Ribordy, Paul De Koninck, Antoine Allard, Patrick Desrosiers 
+    authors : Antoine Légaré, Olivier Ribordy, Paul De Koninck, Antoine Allard, Patrick Desrosiers
     year : 2025
     biorxiv : https://doi.org/10.1101/2025.08.08.669348
     insubmission : True
@@ -19,7 +19,7 @@ articles:
     insubmission : True
 
   - title : "On the reconstruction limits of complex networks"
-    authors : Charles Murphy, Simon Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
+    authors : Charles Murphy, Ariane Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
     year : 2024
     arxiv : https://arxiv.org/abs/2501.01437
     insubmission: True
@@ -83,7 +83,7 @@ articles:
     insubmission: True
 
   - title : "Symmetry-driven embedding of networks in hyperbolic space"
-    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    authors : Ariane Lizotte, Jean-Gabriel Young, Antoine Allard
     year : 2025
     journal : Commun. Phys.
     edition: 8
@@ -182,7 +182,7 @@ articles:
     arxiv : https://arxiv.org/abs/2307.03559
 
   - title : Hypergraph reconstruction from uncertain pairwise observations
-    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    authors : Ariane Lizotte, Jean-Gabriel Young, Antoine Allard
     journal: Sci. Rep.
     year : 2023
     edition: 13

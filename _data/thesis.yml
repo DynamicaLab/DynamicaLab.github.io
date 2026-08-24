@@ -39,7 +39,7 @@ thesis:
     fulltext : "assets/pdf/theses/thibault22_master.pdf"
 
   - title: Inférence de la structure d’interactions de données bruitées
-    authors: Simon Lizotte
+    authors: Ariane Lizotte
     type: M.Sc.
     year: 2022
     fulltext : "assets/pdf/theses/lizotte22_master.pdf"
@@ -49,7 +49,7 @@ thesis:
     type: M.Sc.
     year: 2022
     fulltext : "http://hdl.handle.net/20.500.11794/73573"
-  
+
 
   - title: Reconstruction dans les systèmes complexes
     authors: Charles Murphy

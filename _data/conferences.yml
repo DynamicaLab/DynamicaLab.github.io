@@ -23,7 +23,7 @@ conferences:
     city : Saint-Paulin
 
   - title : Symmetry-driven embedding of networks in hyperbolic space
-    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    authors : Ariane Lizotte, Jean-Gabriel Young, Antoine Allard
     conf : Conference on Complex Systems (CCS2025)
     abstract : "assets/pdf/abstracts/ccs2025_abstract_lizotte.pdf"
     slides : "assets/pdf/slides/ccs2025_slides_lizotte.pdf"
@@ -103,7 +103,7 @@ conferences:
     city : Québec
 
   - title : Symmetry-driven embedding of networks in hyperbolic space
-    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    authors : Ariane Lizotte, Jean-Gabriel Young, Antoine Allard
     slides : "/assets/pdf/slides/cirrelt2025_slides_lizotte.pdf"
     abstract : "/assets/pdf/abstracts/cirrelt2025_abstract_lizotte.pdf"
     conf : Montréal Network Science Workshop
@@ -157,7 +157,7 @@ conferences:
     city: Québec, Qc
 
   - title : Symmetries as a guide for network hyperbolic embedding
-    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    authors : Ariane Lizotte, Jean-Gabriel Young, Antoine Allard
     conf : International School and Conference on Network Science (NetSci2024)
     poster : "assets/pdf/posters/netsci2024_poster_lizotte.pdf"
     abstract: "assets/pdf/abstracts/netsci2024_abstract_lizotte.pdf"
@@ -167,7 +167,7 @@ conferences:
     award : Best poster
 
   - title : La géométrie au cœur des systèmes nordiques
-    authors : Simon Lizotte, Jean-Gabriel Young and Antoine Allard
+    authors : Ariane Lizotte, Jean-Gabriel Young and Antoine Allard
     conf : Sentinel North Scientific Meeting
     abstract : "assets/pdf/abstracts/sn2023_abstract_lizotte.pdf"
     slides : "assets/pdf/slides/sn2023_slides_lizotte.pdf"
@@ -176,7 +176,7 @@ conferences:
     city : Québec, Qc
 
   - title : On the reconstructability of complex networks
-    authors : Charles Murphy, Simon Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
+    authors : Charles Murphy, Ariane Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
     conf : Sentinel North Scientific Meeting
     country : Canada
     year : 2023
@@ -190,7 +190,7 @@ conferences:
     city : Vienna
 
   - title : Inherent uncertainty of hyperbolic embeddings of complex networks
-    authors : Simon Lizotte, Jean-Gabriel Young and Antoine Allard
+    authors : Ariane Lizotte, Jean-Gabriel Young and Antoine Allard
     conf : International School & Conference on Network Science (NetSci2023)
     abstract : "assets/pdf/abstracts/netsci2023_abstract_lizotte.pdf"
     slides : "assets/pdf/slides/netsci2023_slides_lizotte.pdf"
@@ -199,14 +199,14 @@ conferences:
     city : Vienna
 
   - title : An information theoretical approach to network reconstruction
-    authors : Charles Murphy, Simon Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
+    authors : Charles Murphy, Ariane Lizotte, François Thibault, Vincent Thibeault, Patrick Desrosiers, Antoine Allard
     conf : International School & Conference on Network Science (NetSci2023)
     country : Austria
     year : 2023
     city : Vienna
 
   - title : Inherent uncertainty of hyperbolic embeddings of complex networks
-    authors : Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    authors : Ariane Lizotte, Jean-Gabriel Young, Antoine Allard
     conf : New England Statistics Symposium (NESS2023)
     slides : "assets/pdf/slides/ness2023_slides_lizotte.pdf"
     country : USA
@@ -284,7 +284,7 @@ conferences:
     city: Shanghai
 
   - title: On the importance of correlation in graph reconstruction
-    authors: Simon Lizotte, Jean-Gabriel Young, Antoine Allard
+    authors: Ariane Lizotte, Jean-Gabriel Young, Antoine Allard
     conf: International School and Conference on Network Science (Netsci2022)
     abstract : "assets/pdf/abstracts/netsci2022_abstract_lizotte.pdf"
     slides : "assets/pdf/slides/netsci2022_slides_lizotte.pdf"
