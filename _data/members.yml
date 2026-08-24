@@ -37,6 +37,7 @@ doctoral:
 
   - name: Ariane
     lastname: Lizotte
+    image: "/assets/images/members/default.png"
     googlescholar: "https://scholar.google.com/citations?user=P6OnTrwAAAAJ"
     github: "https://github.com/arianelizotte"
 
@@ -121,7 +122,7 @@ formers:
   - name: Bastien
     lastname: Bédard
     year: 2025
-    task: Summer 2025 
+    task: Summer 2025
     image: "/assets/images/members/bastien.png"
 
   - name: Ilhem
@@ -188,7 +189,7 @@ formers:
 
   - name: Louis
     lastname: Grégoire
-    task: Summer 2025 
+    task: Summer 2025
     year: 2025
     image: "/assets/images/members/louis.png"
 
