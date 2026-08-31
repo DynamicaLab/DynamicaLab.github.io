@@ -80,6 +80,10 @@ master:
     lastname: Olivier
     image: "/assets/images/members/default.png"
 
+  - name: Thomas
+    lastname: Piuze
+    image: "/assets/images/members/default.png"
+    
 
 interns:
   - name: Félix
